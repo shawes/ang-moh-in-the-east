@@ -1,10 +1,10 @@
 # Site
 name: "Ang moh in the east"
 title: "ANG MOH IN THE EAST"
-description: "Kopitiams & bars of east"
+description: "Coffeeshops, bars, and hawkers of east coast"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /anh-moh-in-the-east
+favicon: 'assets/images/favicon.ico'
+baseurl: /ang-moh-in-the-east
 google_analytics: 'UA-46278016-1'
 disqus: 'angmohintheeast'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'

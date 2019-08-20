@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
+title:  "Chicken Rice"
+author: steve
+categories: [ kopitiam, chicken rice ]
 tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+image: assets/images/IMG_4011.jpg
+description: "My review of some chicken rice."
 featured: true
 hidden: true
 rating: 4.5
