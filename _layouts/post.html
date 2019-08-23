@@ -70,6 +70,13 @@ post_class: post-template
             {% endif %}
             <!-- End Featured Image -->
 
+            <!-- Rating -->
+            {% if page.rating %}
+            <div class="rating mb-4 d-flex align-items-center">
+                <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
+            </div>
+            {% endif %}
+
             <!-- Post Content -->
             <div class="article-post">
                 <!-- Toc if any -->
@@ -85,15 +92,6 @@ post_class: post-template
                 <!-- End Toc -->
                 {{content}}
             </div>
-
-            <!-- Rating -->
-            {% if page.rating %}
-            <div class="rating mb-4 d-flex align-items-center">
-                <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
-            </div>
-            {% endif %}
-
-            {% google_map %}
 
             <!-- Post Date -->
             <p>
