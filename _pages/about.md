@@ -2,7 +2,7 @@
 layout: page
 title: About this ang moh
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
@@ -10,16 +10,10 @@ comments: true
 
 <p>First, a little bit about me. I'm a 30-something Australian who has recently found themselves living on the east coast of Singapore, seemingly halfway between Changi and the city. I love food and working from home has allowed me to visit many coffee shops and hawkers around the east to experience the local dishes Singapore has to offer. While I miss my local cuisine, especially the humble chiko roll, I'm relishing the food adventure that is Singapore.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/chiko-roll.jpeg" alt="a chiko roll"/></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/chiko-roll.jpg" alt="a chiko roll"/></p>
 <h4>Raison d'être</h4>
 
-Why another food related blog in Singapore?
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+Why another food related blog in Singapore you may ask? It's a fair question. After wanting to learn about hawker food in the east to try, I found that there is a lack of originality in the stalls chosen and I wanted to try and capture the breadth of what food in the east is all about - it is a lot more than just Katong laksa...
 
 </div>
 
