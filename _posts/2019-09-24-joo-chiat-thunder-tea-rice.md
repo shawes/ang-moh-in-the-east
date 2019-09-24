@@ -2,7 +2,7 @@
 layout: post
 title:  "Thunder tea rice @ Joo chiat"
 categories: [ lei cha, restaurant, joo chiat ]
-image: assets/images/thunder-tea-rice-1.jpg
+image: assets/images/thunder-tea-rice-1.jpeg
 featured: false
 hidden: false
 rating: 5
@@ -19,6 +19,10 @@ Accompanying the **lei cha** is a bowl of rice (often brown), finely shredded ve
 
 It _feels_ as if it is one of the more healthy hawker dishes here in Singapore, although I have nothing to back that statement up with. However, it does make you feel good after one two many ciders the night before. Surprisingly, I have yet to find a Singaporean who shares with me this love of **thunder tea rice** 🤷‍♂
 
+P.S. You have to try the homemade chilli sauce, hidden within the drinks fridge. Has a good kick.  
+
+![thunder tea rice mixed]({{site.baseurl}}/assets/images/thunder-tea-rice-4.jpeg "Thunder Tea Rice mixed")
+
 **Price:** $5.80
 
 **Coffee shop:** Thunder tea rice  
@@ -30,9 +34,3 @@ It _feels_ as if it is one of the more healthy hawker dishes here in Singapore, 
 ![thunder tea rice eatery]({{site.baseurl}}/assets/images/thunder-tea-rice-2.jpg "Thunder Tea Rice eatery")
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.776984832445!2d103.90033531421253!3d1.3090789990452147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da18129bfb0fed%3A0xea69d1a7302db661!2sThunder%20Tea%20Rice!5e0!3m2!1sen!2ssg!4v1569311837357!5m2!1sen!2ssg" width="600" height="350" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-
-***  
-
-P.S. You have to try the homemade chilli sauce, hidden within the drinks fridge. Has a good kick.  
-
-![thunder tea rice mixed]({{site.baseurl}}/assets/images/thunder-tea-rice-4.jpeg "Thunder Tea Rice mixed")
