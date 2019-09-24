@@ -3,7 +3,7 @@ layout: post
 title:  "Thunder tea rice @ Joo chiat"
 categories: [ lei cha, restaurant, joo chiat ]
 image: assets/images/thunder-tea-rice-1.jpeg
-featured: false
+featured: true
 hidden: false
 rating: 5
 author: steve

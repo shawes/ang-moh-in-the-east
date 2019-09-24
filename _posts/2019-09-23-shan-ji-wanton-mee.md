@@ -3,7 +3,7 @@ layout: post
 title:  "Wanton mee @ Shan ji wanton mee"
 categories: [ wanton mee, kopitiam, siglap ]
 image: assets/images/wanton-mee-1.jpg
-featured: false
+featured: true
 hidden: false
 rating: 4
 author: steve
