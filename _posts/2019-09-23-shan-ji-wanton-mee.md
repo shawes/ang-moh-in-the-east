@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Wanton mee @ Shan ji wanton mee"
+categories: [ wanton mee, kopitiam, siglap ]
+image: assets/images/wanton-mee-1.jpg
+featured: false
+hidden: false
+rating: 4
+author: steve
+---
+
+Wanton mee is a truly fascinating hawker dish, one that I am obsessed with. It is my go to dish whenever I come across a new coffee shop or hawker centre. It is such a simple dish, that can be eaten any time of the day from breakfast to post-drinking supper. I have only ever eaten the dry version, which at its core the dish consists of only boiled fresh noodles tossed in black sauce with chilli, served with a side of char siew, a smattering of green chinese vegetables, and a small bowl of soup containing several boiled pork wontons. Despite this humble recipe, every wanton mee has a slightly different taste and texture. This variation means you need to visit the same chef to get the flavour you crave. For all the popularity of this dish around the region, I never saw it in Australia - wontons in soup was the closest I came.
+
+This brings me to the wanton mee at shan ji wanton mee, located at a coffee shop at Frankel Ave. The stall is run by one aunty, who you get the feel she has been running this stall for many, many years. She gets there early to prep and stays open until she starts running out of ingredients, not long after the lunch rush. She does not give a sense of recognition, always asking me what I want despite the fact I only order the same thing, but she has an infectious smile and attitude that adds to the joy of the dish.
+
+This particular wanton mee will always be special to me, as it was my first. Her noodles are delicious with a good amount of QQ, despite the relatively thinness of the mee. For the price she is generous with the amount of noodles, and if you add a $1 to the order then you get almost twice as much. The chilli sauce is homemade with a decent level of hiam without being overpowering. My preference is to mix with black sauce to make the dish more wet. The char siew is decent, but it is not the highlight here. The wontons are also handmade, with a nice silky wrapper, although depending on the time of day the soup can be quite salty. It is probably not a wanton mee you would travel long distances for, but for me it has become a comfort food that I have developed cravings for.
+
+**Price:** $3.00
+
+**Coffee shop:** Kwee Sai Fong Eating House  
+**Address:** 65 Frankel Ave, Siglap  
+**Hours:** 7:30am - 2:30pm  
+
+![kwee sai fong eating house]({{site.baseurl}}/assets/images/kopi-kwee-sai-fong.jpeg "Kwee Sai Fong Eating House")
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7664329136437!2d103.91678721441258!3d1.3156950620515733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da22a61504fc09%3A0xef4ccc977bb2c7b0!2sKwee+Sai+Fong+Eating+House!5e0!3m2!1sen!2ssg!4v1566456891113!5m2!1sen!2ssg" width="600" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
