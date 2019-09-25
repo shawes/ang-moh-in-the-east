@@ -65,18 +65,21 @@ lazyimages: "disabled"
 
 jekyll_compose:
   default_front_matter:
-      drafts:
-        description:
-        image:
-        category:
-        tags:
-      posts:
-        description:
-        image:
-        category:
-        tags:
-        published: false
-        sitemap: false
+    drafts:
+      description:
+      categories:
+      image:
+      category:
+      rating:
+      author:
+    posts:
+      description:
+      categories:
+      image:
+      featured: false
+      hidden: false
+      rating:
+      author:
   auto_open: false
 
   exclude:
