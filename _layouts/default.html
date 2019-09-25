@@ -7,7 +7,7 @@
 
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
-    <title>{{ page.title }} | {{site.name}}</title>
+    <title>{{ page.title }} | {{site.title}}</title>
 
     {% seo %}
 
@@ -56,7 +56,7 @@
 
             <!-- Begin Logo -->
             <a class="navbar-brand" href="{{ site.baseurl }}/">
-                <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+                <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.title }}">
             </a>
             <!-- End Logo -->
 
@@ -103,7 +103,7 @@
             <!-- Site Title
 ================================================== -->
             <div class="mainheading">
-                <h1 class="sitetitle">{{ site.name }}</h1>
+                <h1 class="sitetitle">{{ site.title }}</h1>
                 <p class="lead">
                     {{ site.description }}
                 </p>
@@ -172,7 +172,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                        Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
+                        Copyright © {{ site.time | date: "%Y" }} {{ site.title }}
                     </div>
                     <div class="col-md-6 col-sm-6 text-center text-lg-right">
                         <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish
