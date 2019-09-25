@@ -16,6 +16,7 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag'
     gem 'jekyll-archives'
     gem 'jekyll-maps'
+    gem 'jekyll-compose'
     gem 'kramdown'
     gem 'rouge'
     gem 'sassc'

@@ -1,13 +1,11 @@
 # Site
-name: "Ang moh in the east"
-title: "ANG MOH IN THE EAST"
+title: "Ang moh in the east"
 description: "Coffee shops, bars, and hawkers of east coast"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: /ang-moh-in-the-east
 google_analytics: 'UA-46278016-1'
 disqus: 'angmohintheeast'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
@@ -28,6 +26,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-compose
     
 # Archives
 jekyll-archives:
@@ -62,6 +61,27 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
+lazyimages: "disabled"
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+jekyll_compose:
+  default_front_matter:
+      drafts:
+        description:
+        image:
+        category:
+        tags:
+      posts:
+        description:
+        image:
+        category:
+        tags:
+        published: false
+        sitemap: false
+  auto_open: false
+
+  exclude:
+    - changelog.md
+    - LICENSE.txt
+    - README.md
+    - Gemfile
+    - Gemfile.lock]
