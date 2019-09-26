@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Song kee fishball noodle"
-categories: 
-    - fishball noodles
-    - kopitiam
-    - joo chiat
+title: Song kee fishball noodle
+categories:
+- fishball noodles
+- kopitiam
+- joo chiat
 image: assets/images/song-kee-fishball-1.jpg
 featured: false
 hidden: false
 rating: 5
 author: steve
+date: 2019-09-26 11:44 +0800
 ---
-
 Song kee's **fishball** noodles caused my first **wow** moment in Singapore. After that first bite into a **fishball**, I had to stop masticating, pause, and reflect on how insanely good this tasted.  
 
 Let me explain.  
