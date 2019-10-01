@@ -5,15 +5,15 @@ categories: [ breakfast, koptiam, kopi, siglap ]
 image: assets/images/kwee-sai-coffee-set-1.jpg
 featured: false
 hidden: false
-rating: 0
+rating: 4
 author: steve
 ---
 
-Today, I had trouble deciding what I wanted to eat, so I opted for the traditional kopi set. I am not 100% inspired by this breakfast, but it does the job for a quick meal. The reason is does not excite me is purely the runny eggs. I still cannot enjoy the mixture of eggs, black sauce, and white pepper. I have always love the texture of cooked eggs, be it boiled, poached, fried or scrambled. However, runny eggs strips this all away and just gives you the taste. Maybe it is also that runny eggs have a habit of dripping into my beard (much to the chagrin of my wife).
+Today, I had trouble deciding what I wanted to eat, so I opted for the **traditional kopi set**. I am not 100% inspired by this breakfast, but it does the job for a quick meal. The reason is does not excite me is purely the runny eggs. I still cannot enjoy the mixture of eggs, black sauce, and white pepper. I have always love the texture of cooked eggs, be it boiled, poached, fried or scrambled. However, runny eggs strips this all away and just gives you the taste. Maybe it is also that runny eggs have a habit of dripping into my beard (much to the chagrin of my wife).
 
-The breakfast set at Kwee Sai Fong comes with these delicious soft and fluffy buns, that are smothered with generous dollops of butter and homemade kaya. The coffee is a extremely dark roast and quite gao compared to the standard kopi (it tastes like Indonesian beans). The coffee is potent, seemingly brimming with caffeine, not a brew for the faint hearted. The buzz seems to kick in as I bring the cup up to my lips, before I have even sipped the brew.
+The breakfast set at Kwee Sai Fong comes with these delicious soft and fluffy buns, that are smothered with generous dollops of butter and homemade **kaya**. The **coffee** is a extremely dark roast and quite gao compared to the standard **kopi** (it tastes like Indonesian beans). The **coffee** is potent, seemingly brimming with caffeine, not a brew for the faint hearted. The buzz seems to kick in as I bring the cup up to my lips, before I have even sipped the brew.
 
-I will be back for the kopi and kaya buns.
+I will be back for the **kopi** and **kaya** buns.
 
 ![traditional coffee set](/assets/images/kwee-sai-coffee-set-2.jpg "Traditional coffee set")
 
