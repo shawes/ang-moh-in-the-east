@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fish head curry @ Seafood zhi char
+title: "Fish head curry @ Seafood zhi char"
 categories:
 - fish head curry
 - jago close

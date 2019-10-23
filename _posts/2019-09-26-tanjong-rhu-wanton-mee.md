@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tanjong rhu wanton mee
+title: "Wanton mee @ Tanjong rhu wanton mee"
 categories:
 - wanton mee
 - hawker centre

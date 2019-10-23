@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Curry puff @ genie foods
+title: "Curry puff @ Genie foods"
 categories:
 - curry puff
 - old airport rd

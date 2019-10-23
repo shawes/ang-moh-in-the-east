@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Song kee fishball noodle
+title: "Fishball noodles @ Song kee fishball noodle"
 categories:
 - fishball noodles
 - kopitiam
