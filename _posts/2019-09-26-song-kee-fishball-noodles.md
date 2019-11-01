@@ -19,7 +19,7 @@ In Australia, **fishballs** are commonly found in asian supermarkets, but outsid
 
 ![fishballs](/assets/images/song-kee-fishball-3.jpg "Different song kee ingredients")
 
-Each bowl comes with a combination of **fishballs**, tofu stuffed with fish paste, fish dumplings and fish rolls — how many is dependent on the price of the bowl. The fish dumplings seem to be the highlight of the bowl here, I have noticed several customers asking for extra ones when ordering. You can choose from a soup or dry noodle, a variety of noodles, and three sizes of dishes. So far I have only tried the dry noodles, with either mee pok (flat egg noodle) or mee kia (skinny egg noodle). The noodles are not going to set records, but they were never supposed to be the star of the dish.  
+Each bowl comes with a combination of **fishballs**, tofu stuffed with fish paste, fish dumplings and fish rolls — how many is dependent on the price of the bowl. The fish dumplings seem to be the highlight of the bowl here, I have noticed several customers asking for extra ones when ordering. You can choose from a soup or dry noodle, a variety of noodles, and three sizes of dishes. So far I have only tried the dry noodles, with either *mee pok* (flat egg noodle) or *mee kia* (skinny egg noodle). The noodles are not going to set records, but they were never supposed to be the star of the dish.  
 
 ![song kee menu](/assets/images/song-kee-fishball-2.jpg "Song kee menu")
 

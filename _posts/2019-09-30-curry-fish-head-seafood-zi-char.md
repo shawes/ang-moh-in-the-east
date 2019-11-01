@@ -13,13 +13,13 @@ rating: 4
 author: steve
 date: 2019-10-22 11:48 +0800
 ---
-The zi char at this coffee shop just changed hands (sadly, as I was fond of the old one), and his speciality dish is apparently fish head, cooked a variety of ways: steamboat, curry, assam, teochew steamed, hong kong steamed, claypot, and dry black bean. Meeting up with a friend over beers, we decided to go with the fish head curry, claypot brinjal, and a bucket of Hoegaarden — here five bottles of Hoegaarden will only set you back $20, [warning: double negative] you practically cannot not order them.
+The zi char at this coffee shop just changed hands (sadly, as I was fond of the old one), and his speciality dish is apparently fish head, cooked a variety of ways: steamboat, curry, assam, teochew steamed, hong kong steamed, claypot, and dry black bean. Meeting up with a friend over beers, we decided to go with the **fish head curry**, claypot brinjal, and a bucket of Hoegaarden — here five bottles of [Hoegaarden](https://beerandbrewing.com/review/hoegaarden-wit-blanche/) will only set you back $20 of your hard earned = must buy.
 
-Fish head curry just seems to be one of those dishes you cannot fuck up. The combination of spice, coconut milk, and fish is a perfect trifecta to rejoice your taste buds. Throw in a few veggies and some tofu that soaks up the sauce and you have a well rounded centre dish for dinner. I have yet to discover what truly separates a good and bad curry fish head (I have only had enjoyable ones?), so it is hard for me to comment on the merits of this one. It hit all the right notes. If I had any criticisms, there was not a lot of meat on the head, and the could have eased back on the amount of coconut cream, the lemak factor was at 10.
+**Fish head curry** just seems to be one of those dishes you cannot fuck up. The combination of spice, coconut milk, and fish is a perfect trifecta to rejoice your taste buds. Throw in a few veggies and some tofu that soaks up the sauce and you have a well rounded centre dish for dinner. I have yet to discover what truly separates a good and bad **fish head curry** (I have only had enjoyable ones?), so it is hard for me to comment on the merits of this one. It hit all the right notes. If I had any criticisms, there was not a lot of meat on the head, and the could have eased back on the amount of coconut cream, the lemak factor was at 10.
 
-Lesson learnt, fish head curry and a couple of wheat beers is a bad combination. Fish head curry needs a lighter style lager. I nearly had to roll myself home. My metabolism is not what it used to be.
+Lesson learnt, **fish head curry** and a couple of wheat beers is a bad combination. **Fish head curry** needs a lighter style lager. I nearly had to roll myself home, my metabolism is not what it used to be.
 
-**Price:** $20.00 (+ $6 brinjal and $20 beers)
+**Price:** $20.00 (+ $6 brinjal and $20 bucket of beers)
 
 **Coffee shop:** Brunners coffee shop  
 **Address:** 228 East Coast Rd (corner Jago Close)  

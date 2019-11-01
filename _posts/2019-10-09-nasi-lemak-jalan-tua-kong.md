@@ -11,11 +11,13 @@ author: steve
 
 Hands down, (and despite appearances) this is the best **nasi lemak** I have ever eaten. There I said it.
 
-There are only three variables worth worrying about in a **nasi lemak**, the chicken wing, the sambal, and the rice. This dish has each of them covered. The chicken wing is fried fresh, marinated in what appears to be some cornflour and tumeric — juicy, crunchy, and bursting with flavour all at the same time. The sambal, while more medium than hot, has that sweet, salty, and spicy goodness I want for my breakfast. And the rice? Its sinful. I can only think coconut cream could make it this lemak. This is not a **nasi lemak** you can eat everyday unless you have some miracle metabolism, but it is a **nasi lemak** you *want* to eat everyday.
+*(Caveated that I have never tried any of the famous ones - I'm just not going to queue for **nasi lemak**. Period.)*
 
-*WARNING:* Nor's stop serving the **nasi lemak** sometime in the morning — I got rejected at 10am the first time I wanted to try it. Today I managed to get it at 9am, but as you can see from the photo the peanuts and cucumber had already run out.
+<mark style="background-color: lightblue">There are only three variables worth worrying about in a **nasi lemak**, the chicken wing, the sambal, and the rice.</mark> This dish has each of them covered. The chicken wing is fried fresh, marinated in what appears to be some cornflour and tumeric — juicy, crunchy, and bursting with flavour all at the same time. The sambal, while more medium than hot, has that sweet, salty, and spicy goodness I want for my breakfast. And the rice? Its sinful. I can only think [coconut cream](https://www.thekitchn.com/whats-the-difference-coconut-m-75446) could make it this lemak. This is not a **nasi lemak** you can eat everyday unless you have some miracle metabolism, but it is a **nasi lemak** you *want* to eat everyday.
 
-*P.S.* If you have space afterwards, I suggest trying their [kueh lopis](https://www.mykeuken.com/2013/09/glutinous-rice-with-dark-brown-sugar.html)!
+*P.S.* Nor's stop serving the **nasi lemak** sometime in the morning — I got rejected at 10am the first time I wanted to try it. Today I managed to get it at 9am, but as you can see from the photo the peanuts and cucumber had already run out.
+
+*P.P.S.* If you have space afterwards, I suggest trying their [kueh lopis](https://www.mykeuken.com/2013/09/glutinous-rice-with-dark-brown-sugar.html)!
 
 **Price:** $3.00  
 
