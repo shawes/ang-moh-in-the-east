@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thunder tea rice @ Joo chiat"
-categories: [ lei cha, restaurant, joo chiat ]
+categories: [ rice, joo chiat ]
 image: assets/images/thunder-tea-rice-1.jpeg
 featured: true
 hidden: false

@@ -2,11 +2,9 @@
 layout: post
 title: "Curry puff @ Genie foods"
 categories:
-- curry puff
 - old airport rd
-- hawker
 - snack
-- mountbatten
+- dakota
 image: assets/images/genie-curry-puff-1.jpg
 featured: false
 hidden: false

@@ -2,8 +2,7 @@
 layout: post
 title: "Fishball noodles @ Song kee fishball noodle"
 categories:
-- fishball noodles
-- kopitiam
+- noodles
 - joo chiat
 image: assets/images/song-kee-fishball-1.jpg
 featured: false

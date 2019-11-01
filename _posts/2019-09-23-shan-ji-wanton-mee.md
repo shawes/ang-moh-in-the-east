@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wanton mee @ Shan ji wanton mee"
-categories: [ wanton mee, kopitiam, siglap ]
+categories: [ noodles, siglap ]
 image: assets/images/wanton-mee-1.jpg
 featured: true
 hidden: false

@@ -2,9 +2,7 @@
 layout: post
 title: Kolo mee @ Yun xiang sarawak kolo mee
 categories:
-- kolo mee
-- sarawak
-- kopitiam
+- noodles
 - bedok
 image: assets/images/kolo-mee-yun-xiang-1.jpg
 featured: false

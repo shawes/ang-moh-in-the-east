@@ -2,9 +2,8 @@
 layout: post
 title: "Fish head curry @ Seafood zhi char"
 categories:
-- fish head curry
+- curry
 - jago close
-- kopitiam
 - zi char
 - beer
 image: assets/images/jago-zi-char-1.jpg

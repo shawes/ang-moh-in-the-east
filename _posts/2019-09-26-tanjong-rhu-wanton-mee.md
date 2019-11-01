@@ -2,8 +2,7 @@
 layout: post
 title: "Wanton mee @ Tanjong rhu wanton mee"
 categories:
-- wanton mee
-- hawker centre
+- noodles
 - marine parade
 image: assets/images/tanjong-rhu-wanton-mee-1.jpg
 featured: false

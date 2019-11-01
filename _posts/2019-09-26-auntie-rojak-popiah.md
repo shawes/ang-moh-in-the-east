@@ -3,7 +3,6 @@ layout: post
 title: "Popiah @ Auntie rojak"
 categories:
 - popiah
-- kopitiam
 - siglap
 image: assets/images/popiah-1.jpeg
 featured: false
