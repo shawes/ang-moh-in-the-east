@@ -13,3 +13,6 @@ _site/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# Keep the pre-formatted images out of github
+*/pre_format_images/
