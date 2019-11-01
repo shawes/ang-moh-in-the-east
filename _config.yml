@@ -1,6 +1,6 @@
 # Site
 title: "Ang moh in the east"
-description: "Coffee shops, bars, and hawkers of east coast"
+description: "Blog about kopitiams, hawkers, and bars of Singapore's east coast"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 google_analytics: 'UA-146477071-2'
@@ -15,7 +15,7 @@ authors:
     name: Steve
     display_name: Steve
     gravatar: cf91810848bf33dd747b975a4e677331
-    email: maxhawes@gmail.com
+    email: steve.singkarpor@gmail.com
     twitter: https://twitter.com/stevehawes
     description: "Author of ang moh in the east, a food blog about the east coast of Singapore."
 
@@ -57,7 +57,7 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-client: "ca-pub-5689621814678122"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")

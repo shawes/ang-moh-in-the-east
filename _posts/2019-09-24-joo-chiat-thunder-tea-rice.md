@@ -3,7 +3,7 @@ layout: post
 title:  "Thunder tea rice @ Joo chiat"
 categories: [ rice, joo chiat ]
 image: assets/images/thunder-tea-rice-1.jpeg
-featured: true
+featured: false
 hidden: false
 rating: 5
 author: steve

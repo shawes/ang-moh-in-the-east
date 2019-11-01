@@ -30,6 +30,8 @@ There is a promotion on here too, 50c off both laksa and **kolo mee** (I do not 
 **Address:** 418 Bedok North Ave 2  
 **Hours:** 11:00am - 8:00pm  
 
+***  
+
 ![Yu Xiang](/assets/images/kolo-mee-yun-xiang-4.jpg "Yu Xiang")
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15954.982823734426!2d103.9300227!3d1.328595!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3c3a1bc2dc00e8d6!2sYun%20Xiang%20Sarawak%20Kolo%20Mee!5e0!3m2!1sen!2ssg!4v1571911777514!5m2!1sen!2ssg" width="600" height="350" frameborder="0" style="border:0;" allowfullscreen=""></iframe>

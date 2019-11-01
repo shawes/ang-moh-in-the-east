@@ -5,8 +5,8 @@ categories:
 - noodles
 - joo chiat
 image: assets/images/song-kee-fishball-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 5
 author: steve
 date: 2019-09-26 11:44 +0800

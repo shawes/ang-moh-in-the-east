@@ -3,7 +3,7 @@ layout: post
 title:  "Wanton mee @ Shan ji wanton mee"
 categories: [ noodles, siglap ]
 image: assets/images/wanton-mee-1.jpg
-featured: true
+featured: false
 hidden: false
 rating: 4
 author: steve
@@ -24,6 +24,8 @@ As you know, the first time you taste a dish its engrained in your memory foreve
 **Coffee shop:** Kwee Sai Fong Eating House  
 **Address:** 65 Frankel Ave, Siglap  
 **Hours:** 7:30am - 2:30pm (Closed wednesdays)
+
+***  
 
 ![kwee sai fong eating house]({{site.baseurl}}/assets/images/kopi-kwee-sai-fong.jpeg "Kwee Sai Fong Eating House")
 

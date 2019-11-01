@@ -3,25 +3,27 @@ layout: post
 title: "Nasi lemak @ Nor's nasi pandang"
 categories: [ rice, siglap ]
 image: assets/images/nasi-lemak-jalan-tua-kong-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 5
 author: steve
 ---
 
 Hands down, (and despite appearances) this is the best **nasi lemak** I have ever eaten. There I said it.
 
-There are only three variables worth worrying about in a **nasi lemak**, the chicken wing, the sambal, and the rice. This dish has each of them covered. The chicken wing is fried fresh, marinated in what appears to be some cornflour and tumeric. It is juicy, crunchy, and bursting with flavour all at the same time. The sambal, while more medium than hot, has that sweet, salty, and spicy goodness I want for my breakfast. And the rice? Its sinful. It is so lemak I wonder if they use coconut cream in it. This is not a **nasi lemak** you can eat everyday unless you have some miracle metabolism, but it is a **nasi lemak** you *want* to eat everyday.
+There are only three variables worth worrying about in a **nasi lemak**, the chicken wing, the sambal, and the rice. This dish has each of them covered. The chicken wing is fried fresh, marinated in what appears to be some cornflour and tumeric — juicy, crunchy, and bursting with flavour all at the same time. The sambal, while more medium than hot, has that sweet, salty, and spicy goodness I want for my breakfast. And the rice? Its sinful. I can only think coconut cream could make it this lemak. This is not a **nasi lemak** you can eat everyday unless you have some miracle metabolism, but it is a **nasi lemak** you *want* to eat everyday.
 
-They stop serving it sometimes in the morning, so you have to get in early — I hot rejected at 10 am the first time I wanted to try it. As you can see, buy the time I ordered it today (~9 am), they had run out of peanuts and cucumber.
+*WARNING:* Nor's stop serving the **nasi lemak** sometime in the morning — I got rejected at 10am the first time I wanted to try it. Today I managed to get it at 9am, but as you can see from the photo the peanuts and cucumber had already run out.
 
-P.S. If you have space afterwards, I suggest trying their [kueh lopis](https://www.mykeuken.com/2013/09/glutinous-rice-with-dark-brown-sugar.html)!
+*P.S.* If you have space afterwards, I suggest trying their [kueh lopis](https://www.mykeuken.com/2013/09/glutinous-rice-with-dark-brown-sugar.html)!
 
 **Price:** $3.00  
 
 **Coffee shop:** Soy Eu Tua Kopitiam
 **Address:** 15 Upper East Coast Rd, Siglap (corner of Jalan Tua Kong)
 **Hours:** 7:00am - 3:00pm (closed Mondays)
+
+***  
 
 ![Nor's nasi padang](/assets/images/nasi-lemak-jalan-tua-kong-2.jpg "Nor's nasi padang")
 
