@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beer @ Yi fa hot and cold drinks"
+title:  "Booze @ Yi fa hot and cold drinks"
 categories: [ beer, hawker, east coast lagoon ]
 image: assets/images/craft-beer-collage.jpg
 featured: false

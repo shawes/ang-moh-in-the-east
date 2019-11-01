@@ -13,3 +13,5 @@ author: steve
 **Coffee shop:** The food emporium
 **Address:** XXX Smith St, Smithsville  
 **Hours:** XXam - XXpm (closed xx)  
+
+![Alt text](/assets/images/image.jpg "alt text")
