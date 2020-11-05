@@ -21,9 +21,9 @@ Hands down, (and despite appearances) this is the best **nasi lemak** I have eve
 
 **Price:** $3.00  
 
-**Coffee shop:** Soy Eu Tua Kopitiam
-**Address:** 15 Upper East Coast Rd, Siglap (corner of Jalan Tua Kong)
-**Hours:** 7:00am - 3:00pm (closed Mondays)
+**Coffee shop:** Soy Eu Tua Kopitiam  
+**Address:** 15 Upper East Coast Rd, Siglap (corner of Jalan Tua Kong)  
+**Hours:** 7:00am - 3:00pm (closed Mondays)  
 
 ***  
 

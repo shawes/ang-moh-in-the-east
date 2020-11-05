@@ -17,9 +17,9 @@ Well yeah, sadly, it was just ok. It had all the ingredient, and they were arran
 
 **Price:** $4.50  
 
-**Hawker Centre:** Haig Road Market And Food Centre
-**Address:** #01-53, 14 Haig Rd
-**Hours:** 7.30am - 7.00pm (daily)
+**Hawker Centre:** Haig Road Market And Food Centre  
+**Address:** #01-53, 14 Haig Rd  
+**Hours:** 7.30am - 7.00pm (daily)  
 
 ***  
 

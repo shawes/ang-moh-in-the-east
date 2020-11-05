@@ -23,7 +23,7 @@ The soup was also bursting with flavour - just make sure you are a fan of fried 
 
 **Coffee shop:** Kwee Sai Fong Eating House  
 **Address:** 65 Frankel Ave, Siglap  
-**Hours:** Daytime  
+**Hours:** Daytime? (To be confirmed)  
 
 ***  
 
