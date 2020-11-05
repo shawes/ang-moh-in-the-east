@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Banh mi @ Kim Phung
+title: Banh mi @ Kim phung
 categories:
 - banh mi
 - hawker
@@ -11,9 +11,9 @@ rating: 3
 author: steve
 date: 2019-12-20 17:28 +0800
 ---
-Vietnamese food is probably the most popular south-east asian food in Australia these days, more popular now I believe than Thai or Cantonese, and infinitely more well-known than Singapore-Malaysian-Indonesian food. My staple at university was Banh Mi, tied with a [meat pie](https://www.vilis.com) as the only filling lunch you can get in Australia these days and get change from $5. So naturally I was excited when I read in the paper [a new banh mi store](https://www.straitstimes.com/lifestyle/food/cheap-good-simple-but-thoughtfully-made-banh-mi) had opened at Haig Rd market. Having tried some of the chain stores in shopping malls, so far my banh mi experiences in sg have been disappointing to say the least. Considering the banh mi maker (sandwich artist?), Miss Kim Phung, was from Vietnam raised my expectations, even if the straits times article wasn't 100% onboard.
+Vietnamese food is probably the most popular south-east asian food in Australia these days, more popular now I believe than Thai or Cantonese, and infinitely more well-known than Singapore-Malaysian-Indonesian food. My staple at university was **banh mi**, tied with a [meat pie](https://www.vilis.com) as the only filling lunch you can get in Australia these days and get change from $5. So naturally I was excited when I read in the paper [a new banh mi store](https://www.straitstimes.com/lifestyle/food/cheap-good-simple-but-thoughtfully-made-banh-mi) had opened at Haig Rd market. Having tried some of the chain stores in shopping malls, so far my **banh mi** experiences in sg have been disappointing to say the least. Considering the **banh mi** maker (sandwich artist?), Miss Kim Phung, was from Vietnam raised my expectations, even if the straits times article wasn't 100% onboard.
 
-Well yeah, sadly, it was just ok. It had all the ingredient, and they were arranged in the correct order, it just didn't mesh. Banh mi done well is an irresistible sandwich, something from the gods. This one? Well it didn't leave me clamouring for more, just longing for the banh mi I knew and loved from Sydney and Saigon. Saying that, I'm not adverse to trying it again sometime in the future. The roll itself was the best part, a nice light crusty bread, and I always do have a craving for a sandwich.
+Well yeah, sadly, it was just ok to my tastes. It had all the ingredients and they were arranged in the correct order, it just didn't mesh. **Banh mi** done well is an irresistible sandwich, something from the gods. This one? Well it didn't leave me clamouring for more, just longing for the **banh mi** I knew and loved from Sydney and Saigon. Saying that, I'm not adverse to trying it again sometime in the future. The roll itself was the best part, a nice light crusty bread, and I always do have a craving for a sandwich.
 
 **Price:** $4.50  
 
