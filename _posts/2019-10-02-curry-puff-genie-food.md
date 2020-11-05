@@ -2,7 +2,6 @@
 layout: post
 title: "Curry puff @ Genie foods"
 categories:
-- old airport rd
 - snack
 - dakota
 image: assets/images/genie-curry-puff-1.jpg

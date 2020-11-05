@@ -4,14 +4,17 @@ title: "Fishball noodles @ Song kee fishball noodle"
 categories:
 - noodles
 - joo chiat
-image: assets/images/song-kee-fishball-1.jpg
-featured: true
-hidden: true
+image: assets/images/song-kee-fishball-closed.jpg
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2019-09-26 11:44 +0800
 ---
-Song kee's **fishball** noodles caused my first **wow** moment in Singapore. After that first bite into a **fishball**, I had to stop masticating, pause, and reflect on how insanely good this tasted.  
+
+**UPDATE**: Sadly this shop has relocated to 100 Yio Chu Kang Rd 😭  
+
+Song kee's **fishball** noodles caused my first wow moment in Singapore. After that first bite into a **fishball**, I had to stop masticating, pause, and reflect on how insanely good this tasted.  
 
 Let me explain.  
 
@@ -23,7 +26,7 @@ Each bowl comes with a combination of **fishballs**, tofu stuffed with fish past
 
 ![song kee menu](/assets/images/song-kee-fishball-2.jpg "Song kee menu")
 
-It can be hard to differentiate between **fishball** noodles sellers, therefore the quality of the chilli sauce becomes critical in determine your favourite bowls. The noodles must be tossed in a good amount of chilli, deep fried pork fat, and some lard. A good bowl of **fishball** noodles is not necessarily a health conscious choice, but hey the is no substitute for flavour. At Song kee, the chilli has a decent kick, and the pork fat serving is generous. The random crunches into pork fat when eating fihsball noodles, the explosion of salty porky goodness, is always the highlight of the dish. I suggest you add a good dash of the black vinegar (they even offer balsamic if that is more to your taste) to the bowl for the perfect mouth watering experience.
+It can be hard to differentiate between **fishball** noodles sellers, therefore the quality of the chilli sauce becomes critical in determine your favourite bowls. The noodles must be tossed in a good amount of chilli, deep fried pork fat, and some lard. A good bowl of **fishball** noodles is not necessarily a health conscious choice, but hey the is no substitute for flavour. At Song kee, the chilli has a decent kick, and the pork fat serving is generous. The random crunches into pork fat when eating fishball noodles, the explosion of salty porky goodness, is always the highlight of the dish. I suggest you add a good dash of the black vinegar (they even offer balsamic if that is more to your taste) to the bowl for the perfect mouth watering experience.
 
 ![black vinegar](/assets/images/song-kee-fishball-4.jpg "Required black vinegar")
 

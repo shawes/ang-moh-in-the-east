@@ -2,7 +2,7 @@
 layout: post
 title:  "Wanton mee @ Shan ji wanton mee"
 categories: [ noodles, siglap ]
-image: assets/images/wanton-mee-1.jpg
+image: assets/images/wanton-mee-closed.jpg
 featured: false
 hidden: false
 rating: 4

@@ -23,7 +23,7 @@ Although, the specialty at this stall is the *snow beer*, not the [tasteless bee
 
 **Hawker centre:** East coast lagoon food village  
 **Address:** #01-25, 1220 East coast parkway  
-**Hours:** 11:00am - 11:00pm  (closed monday)
+**Hours:** 11:00am - 11:00pm  (closed mondays)
 
 ***  
 
