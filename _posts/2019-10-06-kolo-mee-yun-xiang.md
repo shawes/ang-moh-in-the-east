@@ -11,7 +11,7 @@ rating: 4
 author: steve
 date: 2019-10-24 18:10 +0800
 ---
-**UPDATE:** It seems the hawker wanted a break and has ceased cooking for a while.
+**UPDATE:** It seems the hawker wanted a break and she has ceased cooking for a while.
 
 This particular Saturday started with a leisurely cycle around [Bedok Reservoir](https://en.wikipedia.org/wiki/Bedok_Reservoir) - earnestly attempting to work off the calories from that second bottle of wine decision at dinner the night before. It was to be a day of firsts; my first time to bedok reservoir, my first time to see a bird song competition in action, and my first time having **kolo mee** outside of Sarawak.
 
