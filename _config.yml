@@ -1,6 +1,6 @@
 # Site
 title: "Ang moh in the east"
-description: "Blog about kopitiams, hawkers, and bars of Singapore's east coast"
+description: "Blog about the kopitiams, hawkers, and bars of Singapore's east coast"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 google_analytics: 'UA-146477071-2'
@@ -37,7 +37,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 12
 paginate_path: /page:num/
     
 # Other
