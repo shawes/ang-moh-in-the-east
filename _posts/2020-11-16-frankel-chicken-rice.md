@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Chicken rice @ Xiang xiang chicken rice
-categories: [chicken rice, kopitiam]
+categories:
+- chicken rice
+- kopitiam
 image: assets/images/frankel-chicken-rice-1.jpg
 featured: true
-hidden: false
+hidden: true
 rating: 3.5
 author: steve
+date: 2020-11-16 17:11 +0800
 ---
-
 The first shop to open at the second coming of the Kwee Sai Fong Coffeeshop was xiang xiang **chicken rice**. At the risk of getting my PR revoked, I am going to admit **chicken rice** is not a hawker dish that excites me. Now don't get me wrong, I can appreciate it, sure, but I don't wake up dreaming of having chicken rice for lunch. So saying that I am probably not the best judge of what makes the perfect **chicken rice** – a contentious topic in Singapore anyway. Even amongst my own family, everyone has different ideas of what makes for their perfect plate, from roasted/steamed, the cuts of meat, fragrant or plain rice, chilli or black sauce? I refuse to dabao for family lunch because the order becomes so complicated.
 
 With all of this in mind, I really enjoyed this **chicken rice**. On the recommendation of the uncle I went with the roasted chicken. Interestingly, this stall also offers a deep-fried chicken, which I pencilled in for a hangover breakfast. The other unique option this stall offers is self-service soup. The soup is cooked in a huge rice cooker, and the aroma makes it hard to not fill the bowl to the brim. Each time I have visited the soup has been  different.
