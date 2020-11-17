@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Mixed grill @ Western Barbeque
-categories: [beer]
+categories:
+- beer
 image: assets/images/old-airport-western-bbq-1.jpg
 featured: true
 hidden: true
 rating: 3
 author: steve
+date: 2020-11-17 14:28 +0800
 ---
-
 After living in Singapore for two years, and visiting for over 10 years, I have never eaten "western" food from a hawker centre. Why? Well my attitude was that I didn't come to Singapore to eat food I can get back in Australia. But today I finally cracked and thought I should give the chop trinity a go (chicken, pork, lamb). On the recommendation of a friend, Western Barbeque was the one that should break my cherry with. According to its website it has been around since [1974](https://www.facebook.com/westernbarbeque), so it has staying power.
 
 ![Western bbq whatsapp](/assets/images/old-airport-western-bbq-3.jpg "Western bbq whatsapp")
