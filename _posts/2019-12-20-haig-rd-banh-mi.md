@@ -5,8 +5,8 @@ categories:
 - banh mi
 - hawker
 image: assets/images/haig-rd-banh-mi-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 3
 author: steve
 date: 2019-12-20 17:28 +0800
