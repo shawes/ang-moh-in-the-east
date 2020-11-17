@@ -4,6 +4,7 @@ title: Bak chor mee @ Noodles reunion
 categories:
 - noodles
 - siglap
+- kopitiam
 image: assets/images/frankel-bak-chor-mee-1.jpg
 featured: true
 hidden: true

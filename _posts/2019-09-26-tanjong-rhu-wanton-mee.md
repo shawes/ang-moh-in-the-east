@@ -4,6 +4,7 @@ title: "Wanton mee @ Tanjong rhu wanton mee"
 categories:
 - noodles
 - marine parade
+- hawker centre
 image: assets/images/tanjong-rhu-wanton-mee-1.jpg
 featured: false
 hidden: false

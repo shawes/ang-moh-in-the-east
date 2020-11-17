@@ -4,6 +4,7 @@ title: "Popiah @ Auntie rojak"
 categories:
 - popiah
 - siglap
+- kopitiam
 image: assets/images/popiah-1.jpeg
 featured: false
 hidden: false

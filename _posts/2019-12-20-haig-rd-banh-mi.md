@@ -2,8 +2,9 @@
 layout: post
 title: Banh mi @ Kim phung
 categories:
-- banh mi
-- hawker
+- sandwich
+- hawker centre
+- geylang
 image: assets/images/haig-rd-banh-mi-1.jpg
 featured: true
 hidden: true

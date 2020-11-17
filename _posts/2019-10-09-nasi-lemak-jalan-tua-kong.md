@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nasi lemak @ Nor's nasi pandang"
-categories: [ rice, siglap ]
+categories: [ rice, siglap, kopitiam ]
 image: assets/images/nasi-lemak-jalan-tua-kong-1.jpg
 featured: false
 hidden: false

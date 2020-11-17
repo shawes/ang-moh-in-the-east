@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wanton mee @ Shan ji wanton mee"
-categories: [ noodles, siglap ]
+categories: [ noodles, siglap, kopitiam ]
 image: assets/images/wanton-mee-closed.jpg
 featured: false
 hidden: false

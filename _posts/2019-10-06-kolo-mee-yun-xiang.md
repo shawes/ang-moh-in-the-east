@@ -4,6 +4,7 @@ title: Kolo mee @ Yun xiang sarawak kolo mee
 categories:
 - noodles
 - bedok
+- kopitiam
 image: assets/images/kolo-mee-yun-xiang-closed.jpg
 featured: false
 hidden: false
