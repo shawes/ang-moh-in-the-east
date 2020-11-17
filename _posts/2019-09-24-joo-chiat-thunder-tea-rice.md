@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thunder tea rice @ Joo chiat"
-categories: [ rice, katong, koptiam ]
+categories: [ rice, katong, kopitiam ]
 image: assets/images/thunder-tea-rice-1.jpeg
 featured: false
 hidden: false

@@ -2,7 +2,7 @@
 layout: post
 title: Chicken rice @ Xiang xiang chicken rice
 categories:
-- chicken rice
+- rice
 - kopitiam
 - siglap
 image: assets/images/frankel-chicken-rice-1.jpg
