@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Crab bee hoon @ Fresh little meat zhi char
-categories: 
-    - seafood
-    - zi char
-    - kopitiam
+categories:
+- seafood
+- zi char
+- kopitiam
 image: assets/images/frankel-crab-beehoon-1.jpg
 featured: true
 hidden: true
 rating: 5
 author: steve
+date: 2020-11-20 10:26 +0800
 ---
-
 Another new addition to the refurbished coffee shop @ Frankel Avenue is *"Fresh Little Meat"* zi char and they currently have an opening special of $38 for **crab bee hoon** that caught my eye. It doesn't get much better than crab for a good meal and its hard to find it this price these days. Recently at a [city restaurant](https://www.holycrab.sg) I got big case of bill shock as two crabs (admittedly Sri Lankan and they were large) came to over $300?! I just want to eat the crab, not frame them and put them on the wall. Egalitarian seafood is where it is at, everyone should be able to afford crab in a perfect world.
 
 So down to the **crab bee hoon** - it came out still bubbling in the claypot. The smell of the crab and the butter / milk soup was intoxicating. The crab itself looked to be a decent size, perhaps *~800g*. This is definitely a meal for two.
