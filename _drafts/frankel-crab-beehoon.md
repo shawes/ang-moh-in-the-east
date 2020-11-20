@@ -12,11 +12,19 @@ rating: 5
 author: steve
 ---
 
+Another new addition to the refurbished coffee shop @ Frankel Avenue is "Fresh Little Meat" zi char and they currently have an opening special of $38 for crab bee hoon that caught my eye. It doesn't get much better than crab for a good meal and its hard to find it this price these days. Recently at a hipster restaurant I got big case of bill shock as two crabs came to over $300?! I just want to eat the crab, not frame them and put them on the wall. Egalitarian seafood is where it is at, everyone should be able to afford crab in a perfect world.
 
+So down to the **crab bee hoon** - it came out still bubbling in the claypot. The smell of the crab and the butter / milk soup was intoxicating. The crab itself looked to be a decent size, perhaps ~800g. This is definitely a meal for two.
 
 ![Bubbling crab bee hoon](/assets/images/frankel-crab-beehoon.gif "Bubbling crab bee hoon")
 
-![Lala with kam heong sauce](/assets/images/frankel-crab-beehoon-2.jpg "Lala with kam heong sauc")
+The crab was sweet, moist (well full of soup), and firm, a good indication of freshness. Its always messy eating **crab bee hoon**, well for me any sort of crab eating tends to ensure I have bits of meat and shell up to my elbows, I have bad technique. The soup was sinful, I drank it all. The only complaint would be that perhaps there was to much butter in it, and it could have used a few more greens to offset any crreping feelings of jelak-ness. But you can't count calories here. This ranks as good as any crab bee hoon I've had in Singapore, I think the only way to put it over the top would be to put a little XO in there... Instead I washed it down with a tiger beer. On a cool note they sell 355mL bottles here for $4.30. I prefer smaller bottles as it gives you a chance to drink the entire beer while it is still cool.
+
+![Lala with kam heong sauce](/assets/images/frankel-crab-beehoon-2.jpg "Lala with kam heong sauce")
+
+To round out the dinner we also ordered some kam heong lala. The first time I was introduced to this sauce was from a street vendor off Jonker St in Malacca. Something about the fried curry leaves with the garlic and lala is heavenly. This sauce was damn good, but they could have skimped on the onion a bit (or at least cut it into finer pieces). I felt they bolstered the dish with onions to hide how little clams you get for your buck. Oh well.
+
+While this **crab bee hoon** special is still going, I will be a regular patron of Fresh Little Meat Zhi Char. *I wonder why they added in the Little????*
 
 **Price:** $38 (Crab bee hoon) + $12 (Kam heong lala)  
 
