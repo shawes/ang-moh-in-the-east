@@ -6,8 +6,8 @@ categories:
 - siglap
 - kopitiam
 image: assets/images/frankel-bak-chor-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2020-11-06 00:04 +0800
