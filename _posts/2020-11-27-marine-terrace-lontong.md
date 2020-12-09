@@ -26,7 +26,7 @@ This breakfast **lontong** was good enough for me to consider becoming a morning
 
 **Price:** $3.00 with an extra $0.50 for the begedil  
 
-**Coffee shop:** Marine Terrace Market and Food Centre  
+**Hawker centre:** Marine Terrace Market and Food Centre  
 **Address:** Block 50A Marine Terrace  
 **Hours:** 7am - sells out  
 
