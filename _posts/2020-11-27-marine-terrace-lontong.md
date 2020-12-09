@@ -6,8 +6,8 @@ categories:
 - marine parade
 - rice
 image: assets/images/marine-terrace-lontong-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2020-11-27 11:51 +0800
