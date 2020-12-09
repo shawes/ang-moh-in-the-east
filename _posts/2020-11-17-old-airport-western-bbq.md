@@ -6,8 +6,8 @@ categories:
 - dakota
 - hawker centre
 image: assets/images/old-airport-western-bbq-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3
 author: steve
 date: 2020-11-17 14:28 +0800
