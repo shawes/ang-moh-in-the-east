@@ -6,8 +6,8 @@ categories:
 - zi char
 - kopitiam
 image: assets/images/frankel-crab-beehoon-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2020-11-20 10:26 +0800
