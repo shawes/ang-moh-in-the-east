@@ -3,7 +3,7 @@ layout: post
 title: Lontong @ Warong wak nakem
 categories:
 - halal
-- marine terrace
+- marine parade
 - rice
 image: assets/images/marine-terrace-lontong-1.jpg
 featured: true
