@@ -6,8 +6,8 @@ categories:
 - kopitiam
 - siglap
 image: assets/images/frankel-chicken-rice-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2020-11-16 17:11 +0800
