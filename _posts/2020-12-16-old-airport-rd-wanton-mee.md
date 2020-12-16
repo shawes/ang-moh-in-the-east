@@ -2,16 +2,16 @@
 layout: post
 title: Wanton mee @ Hua kee hougang famous wan ton mee
 categories:
-    - hawker
-    - noodles
-    - dakota
+- hawker
+- noodles
+- dakota
 image: assets/images/old-airport-rd-wanton-mee-1.jpg
 featured: true
 hidden: true
 rating: 4.5
 author: steve
+date: 2020-12-16 14:42 +0800
 ---
-
 As you may or may not know, **wanton mee** is probably my biggest singapore comfort food, yet surprisingly there is not a lot of [consistency for a seemingly simple dish]({% post_url 2019-09-23-shan-ji-wanton-mee %}). I was recommended to try this **wanton mee** by my mother-in-law. Normally when I come to old airport rd, I come with a group of friends to share food, so ordering a bowl of noodles is out of the question. Today though I was flying solo.
 
 I arrived at an odd time, 3pm, and there was no queue to speak of. Three men were packed into the small kitchen area. It appeared one man cooked, one man cleaned, and the man other handled the customers and plated the food. The stall, bold enough to use *"famous"* in their title, certainly appeared to have all the correct credentials for a good **wanton mee**.
@@ -20,7 +20,7 @@ I arrived at an odd time, 3pm, and there was no queue to speak of. Three men wer
 
 On a side note, I never understood the idea of a book containing a bunch of CEOs favour hawker dishes? Why would I care about the favourite stalls of a bunch of people in suits running companies? Unless maybe one was my boss and I could use it to curry favour.
 
-Hua kee have 10 pictured dishes, today I chose number one, the wanton mee. The ordering process involves you putting your tray on the metal barrier separating me from the hawkers. Not a bad idea, you get to know where you are in the process of getting served. Nothing worse than when you think you are next, only to find someone ordered earlier but has been walking around getting food from other stalls.
+Hua kee have 10 pictured dishes, today I chose numero uno, the wanton mee. I think its a safe assumption the first dish is always the signature. The ordering process involves you putting your tray on the metal barrier separating me from the hawkers. Not a bad idea, you get to know where you are in the process of getting served. Nothing worse than when you think you are next, only to find someone ordered earlier but has been walking around getting food from other stalls.
 
 ![Empty tray](/assets/images/old-airport-rd-wanton-mee-3.jpg "Empty tray")
 

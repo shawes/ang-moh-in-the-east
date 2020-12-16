@@ -8,7 +8,7 @@ categories:
 image: assets/images/tanjong-rhu-wanton-mee-1.jpg
 featured: false
 hidden: false
-rating: 5
+rating: 4
 author: steve
 date: 2019-09-26 15:04 +0800
 ---

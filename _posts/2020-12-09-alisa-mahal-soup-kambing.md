@@ -6,8 +6,8 @@ categories:
 - marine parade
 - soup
 image: assets/images/alisa-mahal-sup-kambing-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 2.5
 author: steve
 date: 2020-12-09 19:41 +0800
