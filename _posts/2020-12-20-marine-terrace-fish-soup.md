@@ -2,14 +2,15 @@
 layout: post
 title: Sliced fish soup @ Seng hoe fish ball minced meat noodle
 categories:
-    - hawker
-    - seafood
-    - marine terrace
+- hawker
+- seafood
+- marine terrace
 image: assets/images/fish-soup-marine-terrace-1.jpg
 featured: true
 hidden: true
 rating: 4
 author: steve
+date: 2020-12-20 12:45 +0800
 ---
 Today I was a bit under the weather, dealing with an infected tooth. So I went out in search of something nourishing. Turns out at 3pm, there are limited options at the Marine Terrace hawker centre. Of the four stalls open, some sliced fish soup seemed to be the best choice for my immune system. I normally only order the bak chor mee at this stall, but hey variety is the spice of life. Ordering here is a unique system, you queue on the left of the stall to order and pay and then queue on the right side of the stall to collect. 
 
