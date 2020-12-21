@@ -12,7 +12,7 @@ rating: 4
 author: steve
 ---
 
-![Alt text](/assets/images/tanjong-rhu-chwee-kueh-2.jpg "alt text")
+![Alt text](/assets/images/tanjong-rhu-chwee-kueh-4.jpg "alt text")
 ![Alt text](/assets/images/tanjong-rhu-chwee-kueh-3.jpg "alt text")
 
 **Price:** $2.00 (for 5 pieces)
@@ -23,4 +23,4 @@ author: steve
 
 ***  
 
-![Alt text](/assets/images/tanjong-rhu-chwee-kueh-4.jpg "alt text")
+![Alt text](/assets/images/tanjong-rhu-chwee-kueh-2.jpg "alt text")

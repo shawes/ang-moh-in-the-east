@@ -5,7 +5,7 @@ categories:
     - rice / noodles / seafood
     - location
     - kopitiam / hawker / bar
-image: assets/images/-1.jpg
+image: assets/images/template.jpg
 featured: true
 hidden: true
 rating: 0
