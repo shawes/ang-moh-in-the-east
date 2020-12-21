@@ -6,8 +6,8 @@ categories:
 - geylang
 - kopitiam
 image: assets/images/geylang-24-lor-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2020-12-09 23:46 +0800
