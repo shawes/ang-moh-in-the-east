@@ -1,10 +1,26 @@
 ---
 layout: post
-title: tanjong-rhu-chwee-kueh
-description:
+title: Chwee kueh @ Ah mah chwee kueh
 categories:
-image:
-category:
-rating:
-author:
+    - rice
+    - hawker
+    - tanjong rhu
+image: assets/images/tanjong-rhu-chwee-kueh-1.jpg
+featured: true
+hidden: true
+rating: 4
+author: steve
 ---
+
+![Alt text](/assets/images/tanjong-rhu-chwee-kueh-2.jpg "alt text")
+![Alt text](/assets/images/tanjong-rhu-chwee-kueh-3.jpg "alt text")
+
+**Price:** $2.00 (for 5 pieces)
+
+**Hawker centre:** Jalan Batu Hawker Centre  
+**Address:** Blk 4A Jalan Batu, #01-01  
+**Hours:** 6am - 5pm  
+
+***  
+
+![Alt text](/assets/images/tanjong-rhu-chwee-kueh-4.jpg "alt text")

@@ -5,7 +5,7 @@ categories:
     - geylang
     - noodles
     - kopitiam
-image: assets/images/4.jpg
+image: assets/images/swee-guan-hokkien-mee-1.jpg
 featured: true
 hidden: true
 rating: 5
@@ -18,11 +18,11 @@ Both these stalls cook their dishes the old fashioned way using charcoal, althou
 
 **Price:** $6.00  
 
-**Coffee shop:** Lor 29 Xing Lian Eating House (since 1954) 
-**Address:** XXX Smith St, Smithsville  
-**Hours:** XXam - XXpm (closed xx)  
+**Coffee shop:** Lor 29 Xing Lian Eating House (since 1954)  
+**Address:** 549 Geylang Rd  
+**Hours:** 4:30pm - 11:00pm (closed on wednesdays)  
 
 ***  
 
-![Alt text](/assets/images/image.jpg "alt text")
+![Swee guan hokkien mee](/assets/images/swee-guan-hokkien-mee-2.jpg "Swee guan hokkien mee")
 
