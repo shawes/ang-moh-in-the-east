@@ -21,7 +21,7 @@ The broth is definitely the star of this dish.
 **Price:** $5.00
 
 **Hawker centre:** Marine Terrace Market and Food Centre  
-**Address:** Block 50A Marine Terrace  
+**Address:** Block 50A Marine Terrace, #01-277  
 **Hours:** 6:30am - 8:30pm (closed thursdays)  
 ***  
 
