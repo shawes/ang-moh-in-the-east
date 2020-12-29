@@ -6,8 +6,8 @@ categories:
 - bedok
 - kopitiam
 image: assets/images/duck-hor-fun-bedok-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2020-12-16 12:28 +0800
