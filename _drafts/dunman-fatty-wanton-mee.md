@@ -13,7 +13,8 @@ author: steve
 ---
 
 
-**Price:** $3.00   
+
+**Price:** $3.00  
 
 **Coffee shop:** Tin Yeung Restaurant  
 **Address:** 300 Joo Chiat Road  
@@ -21,4 +22,4 @@ author: steve
 
 ***  
 
-![Alt text](/assets/images/image.jpg "alt text")
+![Fatty's wanton mee](/assets/images/dunman-fatty-wanton-mee-2.jpg "Fatty's wanton mee")
