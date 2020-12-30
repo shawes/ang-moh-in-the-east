@@ -6,16 +6,16 @@ categories:
     - hawker
     - geylang
 image: assets/images/haig-rd-kolo-mee-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 4.5
 author: steve
 ---
-As [previously stated]({% post_url 2019-10-06-kolo-mee-yun-xiang %}), I'm a huge fan of **kolo mee**, after visiting Kuching several times for work. I was alerted to this hawker stall at Haig Rd market serving Sarawak kolo mee and laksa, by a friend that lives nearby. Its undoubtedly popular, with a decent queue at lunchtime when I was here. A huge supporting pillar in front of the stall and the closeness of tables in this hawker centre do make social distancing quite a task.
+As [previously stated]({% post_url 2019-10-06-kolo-mee-yun-xiang %}), I'm a huge fan of **kolo mee**, after visiting Kuching several times for work. I was alerted to this hawker stall at Haig Rd market serving Sarawak kolo mee and laksa, by a friend that lives nearby. It's undoubtedly popular with the local crowd, the lunchtime queue was 6-7 people deep with I was here. A huge supporting pillar in front of the stall and the closeness of tables in this hawker centre do make social distancing quite a task.
 
-This kolo mee is pretty darn authentic. A nice vinegar tang with the minced pork. The chilli sauce is &#x1F4AF; power, delivering a kick I wasn't ready for. If there is one criticism, its that they could reduce the pork lard stirred in as the dish is quite oily. Ideally the fat coats the noodles and not drowns them.  
+This **kolo mee** is pretty darn authentic. A nice vinegar tang with the minced pork. The chilli sauce is &#x1F4AF; power, delivering a kick I wasn't ready for. If there is one criticism, its that they could reduce the pork lard stirred in as the dish is quite oily. Ideally the fat coats the noodles and not drowns them.  
 
-After the closing of yun xiang, this is the new benchmark for kolo mee in Singapore for mine.  
+After the closing of yun xiang, this is the new benchmark for **kolo mee** in Singapore for mine.  
 
 **Price:** $4.00  
 
