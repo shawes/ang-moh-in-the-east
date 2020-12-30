@@ -2,7 +2,7 @@
 layout: post
 title: Banh mi @ Kim phung
 categories:
-- sandwich
+- bread
 - hawker centre
 - geylang
 image: assets/images/haig-rd-banh-mi-1.jpg
