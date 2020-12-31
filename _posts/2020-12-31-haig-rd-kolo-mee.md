@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Kolo mee @ Lin yu mei sarawak laksa & kolo mee
-categories: 
-    - noodles
-    - hawker
-    - geylang
+categories:
+- noodles
+- hawker
+- geylang
 image: assets/images/haig-rd-kolo-mee-1.jpg
 featured: true
 hidden: true
 rating: 4.5
 author: steve
+date: 2020-12-31 09:24 +0800
 ---
 As [previously stated]({% post_url 2019-10-06-kolo-mee-yun-xiang %}), I'm a huge fan of **kolo mee**, after visiting Kuching several times for work. I was alerted to this hawker stall at Haig Rd market serving Sarawak kolo mee and laksa, by a friend that lives nearby. It's undoubtedly popular with the local crowd, the lunchtime queue was 6-7 people deep with I was here. A huge supporting pillar in front of the stall and the closeness of tables in this hawker centre do make social distancing quite a task.
 
