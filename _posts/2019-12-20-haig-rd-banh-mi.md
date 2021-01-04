@@ -5,6 +5,7 @@ categories:
 - bread
 - hawker centre
 - geylang
+- vietnamese
 image: assets/images/haig-rd-banh-mi-1.jpg
 featured: false
 hidden: false

@@ -5,6 +5,7 @@ categories:
 - noodles
 - kopitiam
 - bedok
+- teochew
 image: assets/images/chai-chee-fishball-noodle-1.jpg
 featured: false
 hidden: false

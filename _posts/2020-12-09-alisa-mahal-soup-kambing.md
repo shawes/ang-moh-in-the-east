@@ -5,6 +5,7 @@ categories:
 - kopitiam
 - marine parade
 - soup
+- halal
 image: assets/images/alisa-mahal-sup-kambing-1.jpg
 featured: false
 hidden: false

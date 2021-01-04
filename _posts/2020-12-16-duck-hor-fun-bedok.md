@@ -5,6 +5,7 @@ categories:
 - noodles
 - bedok
 - kopitiam
+- cantonese
 image: assets/images/duck-hor-fun-bedok-1.jpg
 featured: false
 hidden: false

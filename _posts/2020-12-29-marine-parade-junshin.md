@@ -5,6 +5,7 @@ categories:
 - noodles
 - marine parade
 - hawker
+- teochew
 image: assets/images/marine-parade-junshin-1.jpg
 featured: true
 hidden: true

@@ -5,6 +5,7 @@ categories:
 - noodles
 - katong
 - kopitiam
+- teochew
 image: assets/images/song-kee-fishball-closed.jpg
 featured: false
 hidden: false

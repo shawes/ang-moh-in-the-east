@@ -5,6 +5,7 @@ categories:
 - hawker
 - seafood
 - marine terrace
+- teochew
 image: assets/images/fish-soup-marine-terrace-1.jpg
 featured: true
 hidden: true

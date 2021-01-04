@@ -5,6 +5,7 @@ categories:
 - rice
 - kopitiam
 - siglap
+- hainanese
 image: assets/images/frankel-chicken-rice-1.jpg
 featured: false
 hidden: false

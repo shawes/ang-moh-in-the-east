@@ -5,6 +5,7 @@ categories:
 - noodles
 - geylang
 - kopitiam
+- hokkien
 image: assets/images/geylang-24-lor-mee-1.jpg
 featured: false
 hidden: false

@@ -5,6 +5,7 @@ categories:
 - hawker
 - noodles
 - dakota
+- cantonese
 image: assets/images/old-airport-rd-wanton-mee-1.jpg
 featured: false
 hidden: false

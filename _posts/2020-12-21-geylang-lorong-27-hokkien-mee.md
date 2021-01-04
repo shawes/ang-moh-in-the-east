@@ -5,6 +5,7 @@ categories:
 - geylang
 - noodles
 - kopitiam
+- hokkien
 image: assets/images/swee-guan-hokkien-mee-1.jpg
 featured: true
 hidden: true
