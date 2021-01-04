@@ -13,19 +13,19 @@ rating: 3.5
 author: steve
 date: 2020-12-29 18:21 +0800
 ---
-Some last minute xmas shopping brought me to Parkway Parade, a shopping mall I am not in love with. Many easties seem to have an emotional attachment to this mall, I can't understand why. I don't even like eating inside with a few rare exceptions like [Sakuraya the fish supermarket](http://www.sakuraya.com.sg/e-fishmart.php)
+Some last minute xmas shopping brought me to Parkway Parade, as far as shopping malls go I don't really rate it. Many *easties* seem to have an emotional attachment to this mall. I can't understand why, I assume its a childhood attachment scenario, similar to that McDonalds in the middle of nowhere at east coast park. I don't even really enjoy eating at the establishments inside with a few rare exceptions like [Sakuraya the fish supermarket](http://www.sakuraya.com.sg/e-fishmart.php). When I grew up in Adelaide in the 80s, shopping malls were few and far between, apart from local stores, most shops were located in arcades, so I have never really gotten used to the crowded nature of shopping malls.
 
-Post-shopping I needed to refuel, so I headed over to the marine parade hawker centre. This was the first hawker centre I ever visited in Singapore so I have an similar emotional attachment to it as others have to PP. However, they really did take away some of the charm during the renovation. Now it feels sterile, the inside section feels like a cavernous eating den with no soul. Many of the stalls I loved closed due to the long renovation period i.e. [the Seremban beef noodles stall](https://www.burpple.com/mr-wong-seremban-beef-noodles). I also detest the idea that every stall has to use the same cheap shitty cutlery. Plastic chopsticks that are so cheap quality they get rough scratches on them from use. And don't get me started on the tray self-return system, resulting in the effect that no one uses trays because they cost 50c and therefore stalls barely stock trays and you have to carry the hot soup back to your table by hand.
+So post-shopping stress from shopping mall experience, I needed to refuel and headed over to the marine parade hawker centre. Incidently, this hawker centre was the first I ever visited in Singapore, giving me somewhat of an emotional attachment. However, they really did take away some of the charm during the renovation. The hawker centre now feels sterile, a cavernous eating den with no soul. Many of the stalls I used to frequent closed due to the long renovation period i.e. [the Seremban beef noodles stall](https://www.burpple.com/mr-wong-seremban-beef-noodles). I also hate the fact every stall has to use the same cheap crappy brown plastic cutlery. Plastic chopsticks that are of such cheap quality they end up rough from use within months. And don't get me started on the tray self-return system, resulting in the effect that no one uses trays because they cost 50c and therefore stalls barely stock trays and you have to carry the hot soup back to your table by hand.
 
 ![Self-return trays](/assets/images/marine-parade-junshin-3.jpg "Self-return trays")
 
-Anyway, today it was raining, so I felt like soup. Attracted by the artwork of the *Jushin Fish Soup* stall, and the multiple banners, I decided to try their fried fish soup option.
+Anyway, it was raining. Good soup weather. Attracted by the artwork of the *Jushin Fish Soup* stall, and the multiple banners, I decided to try their **fried fish soup**.
 
 ![Stall artwork](/assets/images/marine-parade-junshin-2.jpg "Stall artwork")
 
-Uniquely as far as I know, the fried fish comes served on the side with tartar sauce, similar to [British fish and chips](https://en.wikipedia.org/wiki/Fish_and_chips). The **fish soup** was delicious and peppery, with nice silky beehoon and some tomato slices for sweetness. Great **fish soup** for a rainy day. While I loved the **fish soup**, I wasn't in love with the fried fish itself. Too much batter and oil for my preference, as well as cumbersome to eat with chopsticks. I'll caveat that I am also not a fan of tempura, so I could see how other people would love it.
+Uniquely, as far as I know, the fried fish comes served on the side with tartar sauce, similar to [British fish and chips](https://en.wikipedia.org/wiki/Fish_and_chips). The **fish soup** was delicious and peppery, with nice silky beehoon and some tomato slices for sweetness. A great soul warming **fish soup** for a rainy day. I wasn't as in love with the fried fish – too much batter and oil for my preference and cumbersome to eat with chopsticks. I'll caveat that I am also not a fan of tempura, so I could see how other people would love it.
 
-Also for $5 it only came with two small pieces of fish??? Seems too little for mine, even if it was very fresh tasting.
+Also for $5 it only came with two small pieces of fish??? Seems too little for mine, even if it tasted very fresh, so I *assume* I paid for quality.
 
 **Price:** $5.00
 
