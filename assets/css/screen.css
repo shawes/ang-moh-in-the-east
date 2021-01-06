@@ -171,9 +171,11 @@ section.recent-posts {
 
 .wrapfooter {
     font-size: .8rem;
-    display: flex;
-    align-items: center;
-    margin-bottom: 15px;
+    display: inline-block;
+    align-items: right;
+    margin-bottom: 5px;
+    vertical-align: top;
+    width: 100%;
 }
 
 .author-thumb {
@@ -232,10 +234,10 @@ span.post-read {
 }
 
 span.post-read-more {
-    align-items: center;
+    align-items: right;
     display: inline-block;
     float: right;
-    margin-top: 8px;
+
 }
 
 span.post-read-more a {
