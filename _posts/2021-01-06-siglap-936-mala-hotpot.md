@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Mala xiang guo @ 936 siglap spicy hot pot
-categories: 
-    - noodles
-    - siglap
-    - kopitiam
-    - sichuanese
+categories:
+- noodles
+- siglap
+- kopitiam
+- sichuanese
 image: assets/images/siglap-ltn-mlgx-1.jpg
 featured: true
 hidden: true
 rating: 4
 author: steve
+date: 2021-01-06 17:23 +0800
 ---
-
 It took me a long time to build the confidence to order **mala xiang guo (MLXG**). The first problem with **MLGX** is how to order. The process is slightly intimidating and my lack of mandarin skills means I am not always 100% sure what I end up ordering. I was initially intrigued by the huge bowls I was seeing at the coffee shop that led me to see they were coming from the **MLGX** stall. There was a queue, which gave me enough time to watch what people were doing and get the general vibe of the ordering process.
 
 The second problem is what to order. The are almost limitless combinations you can choose. Do you mix it up and get different ingredients every time or do you just stick to a regular order? The variety is huge, some fresher than others. I can see what meat is the chicken. The rest of the red meats are a bit more of a mystery. There are a few kinds of fish too - no idea what they are. But the choice of fresh vegetables was most appealing to me, something lacking in a lot of hawker food. I ended up choosing celery, eggplant &#x1F346;, lotus root, bok choy &#x1F96C;, black fungus, tau pok, tau kwa, luncheon meat, lap cheong, and one set of maggi noodles.

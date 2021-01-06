@@ -7,8 +7,8 @@ categories:
 - marine terrace
 - teochew
 image: assets/images/fish-soup-marine-terrace-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2020-12-20 12:45 +0800
