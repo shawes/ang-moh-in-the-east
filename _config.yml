@@ -62,7 +62,7 @@ adsense-data-ad-client: "ca-pub-5689621814678122"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 jekyll_compose:
   default_front_matter:
