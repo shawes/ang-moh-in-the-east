@@ -27,6 +27,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-compose
+  - amp-jekyll
     
 # Archives
 jekyll-archives:

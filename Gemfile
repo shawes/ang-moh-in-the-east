@@ -17,6 +17,7 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'jekyll-maps'
     gem 'jekyll-compose'
+    gem 'amp-jekyll'
     gem 'kramdown'
     gem 'rouge'
     gem 'sassc'
