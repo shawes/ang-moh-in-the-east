@@ -7,8 +7,8 @@ categories:
 - hawker
 - teochew
 image: assets/images/marine-parade-junshin-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2020-12-29 18:21 +0800

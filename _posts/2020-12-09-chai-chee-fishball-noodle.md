@@ -7,8 +7,8 @@ categories:
 - bedok
 - teochew
 image: assets/images/chai-chee-fishball-noodle-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 5
 author: steve
 date: 2020-12-09 18:19 +0800
