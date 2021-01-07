@@ -6,8 +6,8 @@ categories:
     - east coast lagoon
     - hawker
 image: assets/images/popiah-east-coast-lagoon-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 ---

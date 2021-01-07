@@ -6,8 +6,8 @@ categories:
     - joo chiat
     - kopitiam
 image: assets/images/dunman-fatty-wanton-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 ---

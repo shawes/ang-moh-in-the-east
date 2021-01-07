@@ -7,7 +7,7 @@ categories:
     - hawker
     - cantonese
 image: assets/images/marine-terrace-chee-cheong-fun-1.jpg
-featured: true
+featured: false
 hidden: false
 rating: 5
 author: steve

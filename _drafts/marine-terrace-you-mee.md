@@ -6,8 +6,8 @@ categories:
     - marine terrace
     - hawker
 image: assets/images/marine-terrace-you-mian-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 ---

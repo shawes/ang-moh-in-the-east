@@ -7,8 +7,8 @@ categories:
 - kopitiam
 - hokkien
 image: assets/images/swee-guan-hokkien-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2020-12-21 13:05 +0800

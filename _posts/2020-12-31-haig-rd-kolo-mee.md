@@ -6,8 +6,8 @@ categories:
 - hawker
 - geylang
 image: assets/images/haig-rd-kolo-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 author: steve
 date: 2020-12-31 09:24 +0800

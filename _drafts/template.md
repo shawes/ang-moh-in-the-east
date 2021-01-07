@@ -6,8 +6,8 @@ categories:
     - location
     - kopitiam / hawker / bar
 image: assets/images/template.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 0
 author: steve
 ---

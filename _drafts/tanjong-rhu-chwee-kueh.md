@@ -6,8 +6,8 @@ categories:
     - hawker
     - tanjong rhu
 image: assets/images/tanjong-rhu-chwee-kueh-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 ---

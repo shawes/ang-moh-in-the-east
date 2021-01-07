@@ -6,8 +6,8 @@ categories:
     - kopitiam
     - telok kurau
 image: assets/images/haikee-soya-chicken-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 ---
