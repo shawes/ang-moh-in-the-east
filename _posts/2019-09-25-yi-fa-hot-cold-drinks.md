@@ -7,6 +7,7 @@ featured: false
 hidden: false
 rating: 5
 author: steve
+date: 2019-09-25 11:44 +0800
 ---
 
 The craft beer scene is currently exploding in Singapore. You are able to taste delicious ranges of brews at [cool bars](https://www.facebook.com/DruggistsSG/), [stalls](https://www.facebook.com/smithstreettaps) in hawker centres, to local [microbreweries](http://pinkblossomsbrewing.com). In following this trend, it is refreshing to now see drink stalls in hawkers centres that offer more than the usual Asia Pacific or Carlsberg choices.

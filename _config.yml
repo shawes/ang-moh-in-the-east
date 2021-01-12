@@ -1,6 +1,6 @@
 # Site
-title: "Ang moh in the east"
-description: "Blog about the kopitiams, hawkers, and bars of Singapore's east coast"
+title: "An ang moh in the east."
+description: "Blog about the kopitiams, hawkers, and bars of Singapore's east coast."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 google_analytics: 'UA-146477071-2'
@@ -17,11 +17,11 @@ authors:
     gravatar: cf91810848bf33dd747b975a4e677331
     email: steve.singkarpor@gmail.com
     twitter: https://twitter.com/stevehawes
-    description: "Author of ang moh in the east, a food blog about the east coast of Singapore."
+    description: "Author of an ang moh in the east, a food blog about the east coast of Singapore."
 
 # Plugins
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
@@ -38,8 +38,15 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 21
-paginate_path: /page:num/
+pagination:
+  enabled: true
+  per_page: 6
+  collection: 'posts'
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
     
 # Other
 markdown: kramdown

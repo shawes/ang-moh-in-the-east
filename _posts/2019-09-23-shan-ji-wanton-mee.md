@@ -7,6 +7,7 @@ featured: false
 hidden: false
 rating: 4
 author: steve
+date: 2019-09-23 11:44 +0800
 ---
 
 **Wanton mee** is another fascinating Singaporean ([originally a Cantonese dish](https://darrenbloggie.com/wanton-mee-humble-history-has-made-it-a-cornerstone-of-asian-cuisine/)) hawker dish I'm currently obsessed with. Interestingly, for all the popularity of this dish around the south east asian region, I never saw once came across it in Australia - wontons in soup was probably the most similar.  

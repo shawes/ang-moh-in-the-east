@@ -5,11 +5,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- open graph description -->
-    <meta property="og:title" content="Ang moh in the east">
-    <meta property="og:description" content="Ang moh in the eats reviewing hawkers and bars in eastern Singapore">
+    <meta property="og:title" content="An ang moh in the east">
+    <meta property="og:description" content="An ang moh in the east reviewing hawkers and bars in Singapore's east">
     <meta property="og:url" content="https://angmohintheast.com">;
     <meta property="og:image" content="{{ site.baseurl }}/assets/images/logo.png"">;
-    <meta property="og:image:width" content="100" />
+    <meta property=" og:image:width" content="100" />
     <meta property="og:image:height" content="100" />
     <!-- open graph END -->
 
@@ -49,7 +49,8 @@
 <body class="{{layout}}">
     <!-- defer loading of font and font awesome -->
     <noscript id="deferred-styles">
-        <link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i"
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Waiting+for+the+Sunrise&display=swap"
             rel="stylesheet">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
             integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -159,13 +160,15 @@
                     {% if categories_list.first[0] == null %}
                     {% for category in categories_list %}
                     <a class="mt-1 mb-1"
-                        href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }}
+                        href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{
+                        category | camelcase }}
                         ({{ site.tags[category].size }})</a>
                     {% endfor %}
                     {% else %}
                     {% for category in categories_list %}
                     <a class="mt-1 mb-1"
-                        href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}
+                        href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{
+                        category[0] | camelcase }}
                         ({{ category[1].size }})</a>
                     {% endfor %}
                     {% endif %}
@@ -179,12 +182,13 @@
         <footer class="footer">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                    <div class="col-md-12 col-sm-12 text-center text-lg-right">
                         Copyright © {{ site.time | date: "%Y" }} {{ site.title }}
                     </div>
-                    <div class="col-md-6 col-sm-6 text-center text-lg-right">
-                        <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish
-                            Jekyll Theme</a> by WowThemes.net
+                </div>
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 text-center text-lg-right">
+                        Based on the <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
                     </div>
                 </div>
             </div>
@@ -220,11 +224,11 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146477071-2"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-    gtag('config', 'UA-146477071-2');
+        gtag('config', 'UA-146477071-2');
     </script>
 
 

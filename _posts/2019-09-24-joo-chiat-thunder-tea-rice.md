@@ -7,6 +7,7 @@ featured: false
 hidden: false
 rating: 5
 author: steve
+date: 2019-09-24 11:44 +0800
 ---
 
 I first heard of **thunder tea rice** or **lei cha** in Sarawak where there is a [large Hakka population](https://www.theborneopost.com/2013/04/12/research-being-done-on-history-of-hakkas/). I did not actually eat the dish there, but read about it on a random food blog about Kuching while trying to work out how to fill my free time there. The logistics to eat thunder tea rice in Kuching proved more than I could handle (both distance from my hotel and early opening hours), but ever since then I have kept my eyes open for hawkers selling it in Singapore - determined to finally taste this dish. **Thunder tea rice** visually reminded me of vegetarian version of [bibimbap](https://en.wikipedia.org/wiki/Bibimbap) a dish I got addicted to when working next door to a (since sadly closed) Korean eatery back in Sydney. One day I was meeting someone for a drink at the Cider Pit on Joo Chiat Rd, when I noticed next door was an eatery called "Thunder Tea Rice". I must have walked past it 100 times and never noticed it, perhaps because I did not know what it was and the fact is it inset from the road. I made it my mission to go there...for lunch the next day, first I had some cider to drink.

@@ -3,12 +3,20 @@ Template Name: Mediumish
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
 License: https://www.wowthemes.net/freebies-license/ 
 */
+
 @media screen and (min-width:1500px) {
-    html { font-size:18px; } /* Increase the font size on higher resolutions */
-    .container {max-width:80%;}
+    html {
+        font-size: 18px;
+    }
+    /* Increase the font size on higher resolutions */
+    .container {
+        max-width: 80%;
+    }
 }
+
 .mainheading {
     padding: 1rem 0rem;
+    font-family: 'Waiting for the Sunrise', cursive;
 }
 
 a {
@@ -66,9 +74,10 @@ section.recent-posts {
 .section-title h2 {
     border-bottom: 1px solid rgba(0, 0, 0, .125);
     margin-bottom: 25px;
-    font-weight: 700;
-    font-size: 1.4rem;
+    font-weight: 500;
+    font-size: 2rem;
     margin-bottom: 27px;
+    font-family: 'Waiting for the Sunrise', cursive;
 }
 
 .section-title span {
@@ -101,6 +110,8 @@ section.recent-posts {
     .navbar-expand-lg .navbar-nav .nav-link {
         padding-right: 0.8rem;
         padding-left: 0.8rem;
+        font-size: 1.5rem;
+        font-family: 'Waiting for the Sunrise', cursive;
     }
 }
 
@@ -149,7 +160,7 @@ section.recent-posts {
 
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
-    color: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .75);
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
@@ -230,18 +241,17 @@ span.author-meta {
 
 span.post-date,
 span.post-read {
-    color: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .75);
 }
 
 span.post-read-more {
     align-items: right;
     display: inline-block;
     float: right;
-
 }
 
 span.post-read-more a {
-    color: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .75);
 }
 
 span.post-name a,
@@ -256,11 +266,12 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .form-control {
-    font-size: 0.8rem;
+    font-size: 1.5rem;
     border-radius: 30px;
     overflow: hidden;
-    border: 1px solid rgba(0, 0, 0, 0.09);
+    border: 1px solid rgba(0, 0, 0, 0.5);
     min-width: 180px;
+    font-family: 'Waiting for the Sunrise', cursive;
 }
 
 .mediumnavigation .form-inline {
@@ -278,6 +289,12 @@ span.post-read-more a:hover {
 .mediumnavigation .form-inline .btn:active {
     background: transparent;
     color: green;
+}
+
+.btn-xl {
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
 }
 
 .mediumnavigation .navbar-brand {
@@ -307,7 +324,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
+    font-family: 'Waiting for the Sunrise', cursive;
 }
 
 .mainheading h1.posttitle {
@@ -319,12 +336,13 @@ span.post-read-more a:hover {
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
     padding-top: 15px;
     padding-bottom: 12px;
-    font-size: 0.8rem;
-    color: rgba(0, 0, 0, .44);
+    font-size: 1.0rem;
+    color: rgba(0, 0, 0, .75);
     margin-top: 50px;
     margin-bottom: 62px;
     position: relative;
     background: #fff;
+    font-family: 'Waiting for the Sunrise', cursive;
 }
 
 .link-dark {
@@ -401,7 +419,6 @@ blockquote {
     .featured-box-img-cover {
         height: 359px;
     }
-
     .alertbar {
         position: relative !Important;
         margin-bottom: 20px;
@@ -409,53 +426,42 @@ blockquote {
         box-shadow: none !Important;
         padding-right: 14px !Important;
     }
-
     #comments {
         margin-right: 15px;
     }
-
     .jumbotron.fortags {
         margin-bottom: 0 !Important;
     }
-
     .alertbar form {
         margin-top: 20px;
     }
-
     .alertbar span,
     .alertbar form {
         display: block;
     }
-
     .alertbar input[type="submit"] {
         border-radius: 3px !Important;
     }
-
     .alertbar input[type="email"] {
         margin-right: 0px !Important;
         display: block;
         border-right: 1px solid #ddd !Important;
         margin-bottom: 10px;
     }
-
     .jumbotron {
         margin-bottom: 0;
         border-radius: 0;
     }
-
     .listfeaturedtag .card {
         height: auto;
     }
-
     .listfeaturedtag .wrapfooter {
         position: relative;
         margin-top: 30px;
     }
-
     .listfeaturedtag .card-block {
         padding: 20px;
     }
-
     .footer {
         margin-top: 0px;
         margin-bottom: 0px;
@@ -618,6 +624,12 @@ ul.tags li a:hover {
     color: rgba(0, 0, 0, .5);
 }
 
+.form-control {
+    width: 80%;
+    height: 50px;
+    padding: 15px;
+}
+
 .authorpage h1 {
     font-weight: 700;
     font-size: 30px;
@@ -690,6 +702,11 @@ h6 {
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
+.jumbotron fortags .h2, 
+.jumbotron fortags h2 {
+    font-family: 'Waiting for the Sunrise', cursive;
+}
+
 .article-post .h1,
 .article-post .h2,
 .article-post .h3,
@@ -713,7 +730,7 @@ h6 {
 }
 
 .layout-page .article-post {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: Merriweather, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 1rem;
 }
 
@@ -727,12 +744,13 @@ img {
 
 .bottompagination span.navigation {
     display: block;
-    font-size: 0.93rem;
+    font-size: 0.9rem;
     padding: 15px 0 0 0;
     text-align: center;
     margin-bottom: 0rem;
     color: #999;
     border-top: 1px solid #ddd;
+    /* font-family: 'Waiting for the Sunrise', cursive; */
 }
 
 .pointerup {
@@ -779,14 +797,13 @@ iframe {
         background-image: url(../images/jumbotron.jpg);
         background-size: cover;
     }
-
     .jumbotron.fortags .col-md-4 {
         background: rgba(0, 0, 0, 0.75);
         color: #fff;
     }
-
     .jumbotron.fortags .row {
         margin: 0;
+
     }
 }
 
@@ -796,6 +813,11 @@ iframe {
     border-radius: 0;
     background-image: url(../images/jumbotron.jpg);
     background-size: cover;
+    /* font-family: 'Waiting for the Sunrise', cursive; */
+}
+
+.jumbotron.fortags h2 {
+    font-family: 'Waiting for the Sunrise', cursive;
 }
 
 .jumbotron.fortags a {
@@ -805,7 +827,7 @@ iframe {
     color: #fff;
     font-weight: 500;
     text-transform: lowercase;
-    font-size: 0.8rem;
+    font-size: 0.75rem;
     display: inline-block;
 }
 
@@ -831,7 +853,6 @@ iframe {
         -ms-flex-order: 1;
         order: 1;
     }
-
     .flex-first {
         -webkit-box-ordinal-group: 0;
         -webkit-order: 1;
@@ -886,7 +907,9 @@ iframe {
     opacity: 1;
 }
 
+
 /** Lazy img **/
+
 .lazyimg {
     display: block;
     border: 0 none;
