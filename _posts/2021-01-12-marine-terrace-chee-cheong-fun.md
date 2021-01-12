@@ -7,7 +7,6 @@ categories:
 - hawker
 - cantonese
 image: assets/images/marine-terrace-chee-cheong-fun-1.jpg
-description: Chee cheong fun at yong huat delight
 featured: true
 hidden: true
 rating: 5
