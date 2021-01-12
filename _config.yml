@@ -40,7 +40,7 @@ jekyll-archives:
 # Pagination 
 pagination:
   enabled: true
-  per_page: 6
+  per_page: 12
   collection: 'posts'
   permalink: '/page/:num/'
   title: ':title - page :num'
@@ -69,7 +69,7 @@ adsense-data-ad-client: "ca-pub-5689621814678122"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
+lazyimages: "disabled"
 
 jekyll_compose:
   default_front_matter:
