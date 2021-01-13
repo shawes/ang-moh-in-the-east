@@ -9,6 +9,8 @@ disqus: 'angmohintheeast'
 include: ["_pages"]
 permalink: /:title/
 
+debug: true
+
 # Authors
 authors:
   steve:

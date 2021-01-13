@@ -44,14 +44,17 @@
 </script>
 {% endif %}
 
-{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+{% capture layout %}
+    {% if page.layout %}
+        layout-{{ page.layout }}
+    {% endif %}
+{% endcapture %}
 
 <body class="{{layout}}">
     <!-- defer loading of font and font awesome -->
     <noscript id="deferred-styles">
         <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Waiting+for+the+Sunrise&display=swap"
-            rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Waiting+for+the+Sunrise&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
             integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     </noscript>
@@ -79,7 +82,6 @@
                 <!-- Begin Menu -->
 
                 <ul class="navbar-nav ml-auto">
-
                     {% if page.url == "/" %}
                     <li class="nav-item active">
                         {% else %}
@@ -188,7 +190,9 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-sm-12 text-center text-lg-right">
-                        Based on the <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
+                        Based on the <a target="_blank"
+                            href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a>
+                        by WowThemes.net
                     </div>
                 </div>
             </div>
