@@ -9,8 +9,6 @@ disqus: 'angmohintheeast'
 include: ["_pages"]
 permalink: /:title/
 
-debug: true
-
 # Authors
 authors:
   steve:
@@ -23,7 +21,7 @@ authors:
 
 # Plugins
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
@@ -41,15 +39,19 @@ jekyll-archives:
   
 
 # Pagination 
-pagination:
-  enabled: true
-  per_page: 12
-  collection: 'posts'
-  permalink: '/page/:num/'
-  title: ':title - page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+
+paginate: 12
+paginate_path: "/page/:num/"
+
+# pagination:
+#   enabled: true
+#   per_page: 12
+#   collection: 'posts'
+#   permalink: '/page/:num/'
+#   title: ':title - page :num'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
     
 # Other
 markdown: kramdown
