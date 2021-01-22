@@ -4,7 +4,7 @@ title: food @ hawker
 categories: 
     - rice / noodles / seafood
     - location
-    - kopitiam / hawker / bar
+    - kopitiam / hawker centre / bar
 image: assets/images/template.jpg
 featured: false
 hidden: false

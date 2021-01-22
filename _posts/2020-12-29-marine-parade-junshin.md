@@ -4,7 +4,7 @@ title: Fried fish soup @ Junshin fish soup
 categories:
 - noodles
 - marine parade
-- hawker
+- hawker centre
 - teochew
 image: assets/images/marine-parade-junshin-1.jpg
 featured: false

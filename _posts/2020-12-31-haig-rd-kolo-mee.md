@@ -3,7 +3,7 @@ layout: post
 title: Kolo mee @ Lin yu mei sarawak laksa & kolo mee
 categories:
 - noodles
-- hawker
+- hawker centre
 - geylang
 image: assets/images/haig-rd-kolo-mee-1.jpg
 featured: false
