@@ -7,8 +7,8 @@ categories:
 - hawker centre
 - cantonese
 image: assets/images/marine-terrace-chee-cheong-fun-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2021-01-13 18:17 +0800

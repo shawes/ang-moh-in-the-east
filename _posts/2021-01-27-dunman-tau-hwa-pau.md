@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Tau kwa pau @ Say seng famous tau kwa pau 
-categories: 
-    - tofu
-    - joo chiat
-    - hawker centre
+title: Tau kwa pau @ Say seng famous tau kwa pau
+categories:
+- tofu
+- joo chiat
+- hawker centre
 image: assets/images/dunman-tau-kwa-pau-1.jpg
 featured: true
 hidden: true
 rating: 4
 author: steve
+date: 2021-01-27 17:11 +0800
 ---
 I don't often venture into Dunman Food Centre, the building is not exactly welcoming with its enclosed eating space. And in these pandemic times every second table seems to be a *no sitting zone*, making it hard to find a place to makan during peak periods. So when I do, I try and eat something new. Today in the back right corner of the bottom level I noticed something I have never seen being sold before. Pockets of deep fried tofu, stuffed with a sort of rojack looking mixture. I was intrigued and bought one to sample.
 
