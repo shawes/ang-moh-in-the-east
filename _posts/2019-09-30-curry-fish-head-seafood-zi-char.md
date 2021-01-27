@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fish head curry @ Seafood zhi char"
+title: "Fish head curry @ Katong jago seafood zhi char"
 categories:
 - zi char
 - beer
@@ -26,6 +26,6 @@ Lesson learnt, **fish head curry** and a couple of wheat beers is a bad combinat
 
 ***  
 
-![Seafood zhi char](/assets/images/jago-zi-char-2.jpg "Seafood zhi char")
+![Katong jago seafood zhi char](/assets/images/jago-zi-char-2.jpg "Katong jago seafood zhi char")
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7794601923756!2d103.90540321421255!3d1.3075220990463587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da180cb49f7da1%3A0x9a27afd271b9961f!2sBrunners%20Coffeeshop!5e0!3m2!1sen!2ssg!4v1571715947289!5m2!1sen!2ssg" width="600" height="350" frameborder="0" style="border:0;" allowfullscreen=""></iframe>

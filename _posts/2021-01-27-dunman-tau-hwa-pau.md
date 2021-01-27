@@ -5,6 +5,7 @@ categories:
 - tofu
 - joo chiat
 - hawker centre
+- teochew
 image: assets/images/dunman-tau-kwa-pau-1.jpg
 featured: true
 hidden: true
