@@ -23,7 +23,7 @@ This is definitely a must try dish, I have not seen **chee cheong fun** anywhere
 
 **Price:** $2.50
 
-**Hawker centre / Coffee shop:** The food emporium
+**Hawker centre:** The food emporium
 **Address:** XXX Smith St, Smithsville  
 **Hours:** XXam - XXpm (closed xx)  
 
