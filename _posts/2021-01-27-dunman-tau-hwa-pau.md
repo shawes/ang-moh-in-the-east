@@ -7,8 +7,8 @@ categories:
 - hawker centre
 - teochew
 image: assets/images/dunman-tau-kwa-pau-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2021-01-27 17:11 +0800

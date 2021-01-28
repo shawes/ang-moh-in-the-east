@@ -2,14 +2,16 @@
 layout: post
 title: Soya sauce chicken rice @ Hai kee soy sauce chicken
 categories:
-    - rice
-    - kopitiam
-    - telok kurau
+- rice
+- kopitiam
+- telok kurau
+- cantonese
 image: assets/images/haikee-soya-chicken-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 5
 author: steve
+date: 2021-01-28 15:34 +0800
 ---
 I decided to try this stall because it sounded similar to what got [Hawker Chan](https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/liao-fan-hong-kong-soya-sauce-chicken-rice-noodle) his michelin star. And I had never tried soya sauce chicken before.
 
@@ -17,7 +19,7 @@ I bought the smallest soya sauce chicken rice option, with was served in a bowl,
 
 The chilli sauce and ginger sauce were also top notch and complimented the dish. After finishing my chicken, I ended up pouring the rest of the sauces over my rice so as not to waste any. Even the cucumber portions were generous and fresh, all to often the cucumber sides are dried out, probably prepared first thing in the morning. The texture closer to dried out rubber by the time they get plated. The attention to detail at this stall really makes them really standout.
 
-While this is the only soya sauce chicken I have ever tasted, it rivals the best chicken rices I have had in Singapore.
+While this is the only soya sauce chicken I have ever tasted, it rivals the best chicken rice's I have had in Singapore.
 
 **Price:** $3.50  
 
