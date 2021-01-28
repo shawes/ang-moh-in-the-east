@@ -12,7 +12,7 @@ hidden: false
 rating: 4
 author: steve
 ---
-I'm a sucker for fried noodles. Noodles over rice, any day of the week. Today I was going to have some beers with some mates and while I was waiting for them to arrive (why are Singaporeans always late?), I thought best to line my stomach with carbs. I decided to order from the zhi char I had previously ordered the [fish head curry from]({% post_url 2019-09-30-curry-fish-head-seafood-zi-char %}). The name "Hong Kong Noodle" caught my attention. I wondered if it was anything like Singapore noodles, the beehoon fried with curry powder that is eaten all over the world, except in Singapore.
+I'm a sucker for fried noodles. Noodles over rice, any day of the week. Today I was going to have some beers with some mates and while I was waiting for them to arrive (why are Singaporeans always late?), I thought best to line my stomach with carbs. I decided to order from the zhi char I had previously ordered the [fish head curry from]({% post_url 2019-09-30-curry-fish-head-seafood-zi-char %}). The name "Hong Kong Noodle" caught my attention. I wondered if it was anything like Singapore noodles, the beehoon fried with curry powder that is eaten all over the world, except in Singapore. It always amuses me.
 
 The size of the plate of noodles that was brought out to me was a little overwhelming. At least I can't complain about getting stinged on ingredients. $5.50 got me a mountain. There goes the diet. 
 
