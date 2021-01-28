@@ -24,9 +24,9 @@ I will definitely be back to try some of the other dishes, first on my list is t
 
 **Price:** $5.00  
 
-**Coffee shop:** Foodpark  
+**Coffee shop:** Foodpark   
 **Address:** #01-498, Blk 69 Bedok South Ave 3  
-**Hours:** 11am - 0pm (closed mondays)  
+**Hours:** 11am - 9pm (closed mondays)  
 
 ***  
 
