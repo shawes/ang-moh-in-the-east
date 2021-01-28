@@ -7,7 +7,7 @@ categories:
     - kopitiam / hawker centre / bar
 image: assets/images/template.jpg
 featured: false
-hidden: false
+hidden: true
 rating: 0
 author: steve
 ---
