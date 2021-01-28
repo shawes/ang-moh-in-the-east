@@ -3,7 +3,7 @@ layout: post
 title: Shredded duck hor fun @ Rong kee (Bedok 211 branch)
 categories:
 - noodles
-- bedok
+- bedok central
 - kopitiam
 - cantonese
 image: assets/images/duck-hor-fun-bedok-1.jpg

@@ -4,7 +4,7 @@ title: Fishball noodles @ Teochew kway teow fishball noodle soup
 categories:
 - noodles
 - kopitiam
-- bedok
+- chai chee
 - teochew
 image: assets/images/chai-chee-fishball-noodle-1.jpg
 featured: false
