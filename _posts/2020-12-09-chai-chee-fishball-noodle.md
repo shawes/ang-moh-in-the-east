@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fishball noodles @ Teochew kway teow fishball noodle soup
+title: Fishball noodles @ Shen ji teochew kway teow fishball noodle soup
 categories:
 - noodles
 - kopitiam
