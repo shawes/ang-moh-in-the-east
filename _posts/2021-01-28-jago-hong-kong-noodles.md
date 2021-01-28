@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Hong kong noodles @ Katong jago seafood zhi char
-categories: 
-    - noodles
-    - katong
-    - zhi char
-    - kopitiam
+categories:
+- noodles
+- katong
+- zi char
+- kopitiam
 image: assets/images/jago-hong-kong-noodle-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 4
 author: steve
+date: 2021-01-28 15:44 +0800
 ---
 I'm a sucker for fried noodles. Noodles over rice, any day of the week. Today I was going to have some beers with some mates and while I was waiting for them to arrive (why are Singaporeans always late?), I thought best to line my stomach with carbs. I decided to order from the zhi char I had previously ordered the [fish head curry from]({% post_url 2019-09-30-curry-fish-head-seafood-zi-char %}). The name "Hong Kong Noodle" caught my attention. I wondered if it was anything like Singapore noodles, the beehoon fried with curry powder that is eaten all over the world, except in Singapore. It always amuses me.
 

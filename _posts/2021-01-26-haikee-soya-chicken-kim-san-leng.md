@@ -7,11 +7,11 @@ categories:
 - telok kurau
 - cantonese
 image: assets/images/haikee-soya-chicken-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
-date: 2021-01-28 15:34 +0800
+date: 2021-01-26 15:34 +0800
 ---
 I decided to try this stall because it sounded similar to what got [Hawker Chan](https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/liao-fan-hong-kong-soya-sauce-chicken-rice-noodle) his michelin star. And I had never tried soya sauce chicken before.
 

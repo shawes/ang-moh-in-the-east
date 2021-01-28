@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Kway teow th'ng @ Shen ji teochew kway teow fishball noodle soup
-categories: 
-    - noodles
-    - chai chee
-    - kopitiam
-    - teochew
+categories:
+- noodles
+- chai chee
+- kopitiam
+- teochew
 image: assets/images/chai-chee-kway-teow-1.jpg
 featured: false
 hidden: false
 rating: 4.5
 author: steve
-date: 2020-12-09 18:19 +0800
+date: 2021-01-24 18:19 +0800
 ---
 I called this my new favourite shop to eat [fishball noodles]({% post_url 2020-12-09-chai-chee-fishball-noodle %}) after recently discovering it. So I had to come back and try more dishes. This time it was here quite early, before and appointment I had in chai chee. So I decided to go something clean and light for breakfast and opted for the kway teow th'ng.
 

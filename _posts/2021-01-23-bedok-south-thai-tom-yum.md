@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Tom yum goong @ I rak thai food
-categories: 
-    - seafood
-    - bedok south
-    - kopitiam
-    - thai
+categories:
+- seafood
+- bedok south
+- kopitiam
+- thai
 image: assets/images/bedok-south-thai-tom-yum-1.jpg
 featured: false
 hidden: false
 rating: 4
 author: steve
+date: 2021-01-23 15:38 +0800
 ---
 I do not normally order thai food from a kopitiam, as in the past I have found it either expensive or bland or both. So I only chose to try this stall based on the recommendation of a friend who lives nearby. He orders from here 2-3 times a week, so I had to try it. The menu is extensive, full of variety, and very reasonable prices for thai food. Feels more like a restaurant menu, showing off some impressive skills from the female chef (I suspect it is a husband and wife team).
 
@@ -24,7 +25,7 @@ I will definitely be back to makan the rest of the menu. Priority number one is 
 
 **Price:** $5.00  
 
-**Coffee shop:** Foodpark   
+**Coffee shop:** Foodpark  
 **Address:** #01-498, Blk 69 Bedok South Ave 3  
 **Hours:** 11am - 9pm (closed mondays)  
 
