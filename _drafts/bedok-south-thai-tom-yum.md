@@ -16,11 +16,11 @@ I do not normally order thai food from a kopitiam, as in the past I have found i
 
 ![Menu](/assets/images/bedok-south-thai-tom-yum-5.jpg "Menu")
 
-I chose the classic dish tom yum goong, on the basis if you cannot do the classics well, then how will you do the rest of the dishes well. Visually, it was not the most appealing tom yum I have ever seen, but flavour is more important and this bowl of soup had it in spades. The tangy sourness married with the spice that was hot enough to make me sweat. The star of this dish was the fish, so fresh and perfectly cooked, although I have no idea what species it was. The white mushrooms, again I do not know what species they are, but were also delicious, soaking up the juices of the soup. The only downside was the prawns, which while large, were obviously frozen and had that tough bite and gelatinous texture. 
+I chose the classic dish, tom yum goong, on the basis if you cannot do the classics well, then how will you do the rest of the dishes well. Visually, it was not the most appealing tom yum I have ever seen, but flavour is more important and this bowl of soup had it in spades. The tangy sourness married with the spice that was hot enough to make me sweat. The star of this dish was the fish, so fresh and perfectly cooked, although I have no idea what species it was. The white mushrooms, again I do not know what species they are, but were also delicious, soaking up the juices of the soup. The only downside was the prawns, which while large, were obviously frozen and had that tough bite and gelatinous texture. 
 
 ![Fish and mushroom](/assets/images/bedok-south-thai-tom-yum-6.jpg "Fish and mushroom")
 
-I will definitely be back to try some of the other dishes, first on my list is the boat noodles.
+I will definitely be back to makan the rest of the menu. Priority number one is the thai boat noodles, something I have been craving ever since my favourite ones in the basement at Golden Mile closed.
 
 **Price:** $5.00  
 
