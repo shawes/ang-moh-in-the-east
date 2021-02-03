@@ -13,13 +13,19 @@ rating: 4.5
 author: steve
 ---
 
+Chili sauce is power 
+Maybe some things too fried 
+Lots of options 
+Noodles with mince is a nice touch 
+
+
 ![Alt text](/assets/images/siglap-canal-yong-tau-fu-2.jpg "alt text")
 
 ![Alt text](/assets/images/siglap-canal-yong-tau-fu-4.jpg "alt text")
 
 **Price:** $6.20 ($3.00 for min 5 pieces + $1 for noodles)
 
-**Hawker centre / Coffee shop:** 3838 Eating Place  
+**Coffee shop:** 3838 Eating Place  
 **Address:** 727 East Coast Road, Siglap  
 **Hours:** XXam - XXpm (closed xx)  
 

@@ -5,6 +5,7 @@ categories:
     - bread
     - east coast lagoon
     - hawker
+    - hokkien
 image: assets/images/popiah-east-coast-lagoon-1.jpg
 featured: false
 hidden: false
