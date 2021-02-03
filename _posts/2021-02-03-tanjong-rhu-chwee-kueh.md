@@ -2,14 +2,15 @@
 layout: post
 title: Chwee kueh @ Ah mah chwee kueh
 categories:
-    - rice
-    - hawker
-    - tanjong rhu
+- rice
+- hawker
+- tanjong rhu
 image: assets/images/tanjong-rhu-chwee-kueh-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 4.5
 author: steve
+date: 2021-02-03 19:16 +0800
 ---
 In an effort to lose some extra kilos before CNY, I went cycling on Saturday along the east coast park connector, which led me one way or another to ending up around Tanjong Rhu. It was a strange day, it felt like a ghost down around lunchtime. I've never seen a HDB estate feel so empty during the day. I wonder if I was missing something.
 
