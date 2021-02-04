@@ -27,7 +27,7 @@ I'm jealous of the residents of Jalan Batu, who can eat this every morning if th
 **Price:** $2.00 (for 5 pieces)
 
 **Hawker centre:** Jalan Batu Hawker Centre  
-**Address:** #01-01, Blk 4A Jalan Batu
+**Address:** #01-01, Blk 4A Jalan Batu  
 **Hours:** 6am - 5pm  
 
 ***  
