@@ -2,7 +2,7 @@
 layout: post
 title:  "Thunder tea rice @ Joo chiat"
 categories: [ rice, katong, kopitiam, hakka ]
-image: assets/images/thunder-tea-rice-1.jpeg
+image: assets/images/thunder-tea-rice-1.jpg
 featured: false
 hidden: false
 rating: 5
@@ -16,7 +16,7 @@ The **lei cha** itself refers to the the ground tea soup, made primarily from te
 
 Accompanying the **lei cha** is a bowl of rice (often brown), finely shredded vegetables, tofu, peanuts, and fried ikan bilis (anchovies for the non-malay speakers), hence the similarities to bibimbap. The texture of the different ingredients is half the pleasure in eating this dish, softness of cabbage followed by the crunch of nuts and ikan bilis. My personal preference, which I have not seen others doing yet, is to pour the lei cha into the bowl of vegetables and rice, creating a soup.
 
-![thunder tea rice mixed]({{site.baseurl}}/assets/images/thunder-tea-rice-3.jpeg)
+![thunder tea rice mixed]({{site.baseurl}}/assets/images/thunder-tea-rice-3.jpg)
 
 It _feels_ as if it is one of the more healthy hawker dishes here in Singapore, although I have nothing to back that statement up with. However, it does make you feel good after one two many ciders the night before. Surprisingly, I have yet to find a Singaporean who shares with me this love of **thunder tea rice** 🤷‍♂
 
@@ -24,7 +24,7 @@ P.S. You have to try the homemade chilli sauce, hidden within the drinks fridge.
 
 P.P.S. I have since learnt the *thunder* comes from the **lei** sounding like the chinese word for thunder. The origins of the dish are the Hakka Hor Poh clan. While in China the *leicha* was consumed as a beverage, it has taken on this new form in Southeast Asia.
 
-![thunder tea rice mixed]({{site.baseurl}}/assets/images/thunder-tea-rice-4.jpeg "Thunder Tea Rice mixed")
+![thunder tea rice mixed]({{site.baseurl}}/assets/images/thunder-tea-rice-4.jpg "Thunder Tea Rice mixed")
 
 **Price:** $5.80
 

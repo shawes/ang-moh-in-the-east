@@ -5,7 +5,7 @@ categories:
 - popiah
 - siglap
 - kopitiam
-image: assets/images/popiah-1.jpeg
+image: assets/images/popiah-1.jpg
 featured: false
 hidden: false
 rating: 4.5
@@ -26,6 +26,6 @@ Auntie rojak is run by multiple generations of the same family, the pioneer gene
 
 ![Auntie rojak](/assets/images/auntie-rojak-collage.jpg "Auntie rojak")
 
-![Ltn eating house](/assets/images/siglap-beer-garden.jpeg "LTN Eating House")
+![Ltn eating house](/assets/images/siglap-beer-garden.jpg "LTN Eating House")
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.086813156933!2d103.9255317!3d1.3123947!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8579d6c94625a6a6!2s936%20LTN%20Food%20House!5e0!3m2!1sen!2ssg!4v1569412280651!5m2!1sen!2ssg" width="600" height="350" frameborder="0" style="border:0;" allowfullscreen=""></iframe>

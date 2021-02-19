@@ -56,7 +56,10 @@ paginate_path: "/page/:num/"
 #   sort_reverse: true
     
 # Other
-markdown: kramdown
+markdown: CommonMark
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table"]
 
 # Google maps
 maps:
