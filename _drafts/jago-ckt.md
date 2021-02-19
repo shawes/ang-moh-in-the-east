@@ -1,0 +1,31 @@
+---
+layout: post
+title: Char kway teow @ Katong Jago 1999
+categories: 
+    - noodles
+    - katong
+    - kopitiam
+    - teochew
+image: assets/images/jago-ckt-1.jpg
+featured: true
+hidden: false
+rating: 4.5
+author: steve
+---
+Char kway teow seems to be part of the holy trinity of Singapore cuisine, along with chili crab and chicken rice. But surprisingly you do not see it served as much, perhaps because of its calories, its falling out of vogue. I myself do not often order it, just because its quite a heavy meal, similar to hokkien mee. I prefer to share a plate with someone, at least before COVID-19 was an issue.
+
+Today I was sitting near the char kway teow stall, enjoying a refreshing Tiger at Brunner's kopitiam, and I couldn't resist the smells emanating from the wok any longer.
+
+First of all the char kway teow looks good. The blackness, the look and smell of the wok hei. The aromas are all there. And luckily also the flavour. The smokiness permeates each mouthful. The contrasting texture of the *al dente* egg noodles with the soft kway teow (maybe too soft if I am being nit picky) is perfect. The egg is so light and fluffy, you hardly notice it, blending in with the rest of the ingredients. The lap cheong is cut into long vertical strips, something I haven't seen before, but it keeps the sausage thin and stops it dominating the flavours. There were not many cockles in my plate, but I did order the small at $4, which I suspect was a CNY increase, as the price was hand written over the sign. Definitely recommend a try.
+
+**Price:** $4.00  
+
+**Coffee shop:** Brunner's cafe  
+**Address:** 228 East Coast Road  
+**Hours:** 12pm - 10:30pm  
+
+***  
+
+![Katong jago 1999 char kway teow](/assets/images/jago-ckt-2.jpg "Katong jago 1999 char kway teow")  
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7794601923756!2d103.90540321421255!3d1.3075220990463587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da180cb49f7da1%3A0x9a27afd271b9961f!2sBrunners%20Coffeeshop!5e0!3m2!1sen!2ssg!4v1571715947289!5m2!1sen!2ssg" width="600" height="350" frameborder="0" style="border:0;" allowfullscreen=""></iframe>  
