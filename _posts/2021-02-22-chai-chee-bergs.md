@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Cheeseburger @ Burg's by project warung
-categories: 
-    - bread
-    - chai chee
-    - kopitiam
-    - western
+categories:
+- bread
+- chai chee
+- western
 image: assets/images/chai-chee-burgs-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 4
 author: steve
+date: 2021-02-22 13:23 +0800
 ---
 It was a burger kind of day. I didn't know of any half-decent burgers\* under $20 in the area. Google informed me that there was a burger behind Decathlon at chai chee industrial park. While not strictly a coffee shop, the foodcourt feels like one. I must say it was not so easy to find, you had to go to the building behind and traverse it to a far flung corner. This pandemic closing all but one entrance to the building adds to the confusion.
 
@@ -26,7 +26,7 @@ The patty is cooked medium-rare and the meat juices combined with the sauce and 
 
 \*Disclaimer: I need to have *at least* 6 beers under my belt before I can stomach McDonalds or Burger King.
 
-**Price:** $6.00    
+**Price:** $6.00  
 
 **Coffee shop:** Centuries foodcourt  
 **Address:** #01-19, Viva Business Park, 750 Chai Chee Rd  
