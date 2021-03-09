@@ -1,15 +1,17 @@
 ---
 layout: post
 title: Cheng tng @ Ye lai xiang cheng tng
-categories: 
-    - dessert
-    - bedok
-    - hawker centre
+categories:
+- dessert
+- bedok
+- hawker centre
+- teochew
 image: assets/images/bedok-corner-cheng-tng-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 5
 author: steve
+date: 2021-03-09 22:24 +0800
 ---
 I have never had cheng tng before, at least not that I specifically remember – possibly as part of a wedding banquet. So I wasn't quite sure what to expect when I was ordering it. There was no one in front of me so I could glimpse what was on offer. However, this hawker centre is not exactly close to much, so I thought I should try in case I'm not back here in a while. 
 

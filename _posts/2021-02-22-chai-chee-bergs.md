@@ -6,8 +6,8 @@ categories:
 - chai chee
 - western
 image: assets/images/chai-chee-burgs-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2021-02-22 13:23 +0800
