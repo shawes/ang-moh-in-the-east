@@ -7,8 +7,8 @@ categories:
 - hawker centre
 - teochew
 image: assets/images/bedok-corner-cheng-tng-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2021-03-09 22:24 +0800
