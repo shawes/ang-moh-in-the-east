@@ -14,7 +14,6 @@ date: 2020-11-17 14:28 +0800
 ---
 After living in Singapore for two years, and visiting for over 10 years, I have never eaten "western" food from a hawker centre. Why? Well my attitude was that I didn't come to Singapore to eat food I can get back in Australia. But today I finally cracked and thought I should give the chop trinity a go (chicken, pork, lamb). I had been reading about the history of the Hainanese in Singapore and how working humbly as cooks in European households evolved into opening kopitiams and cooking the western recipes learnt for the masses.  
 
-
 On the recommendation of a friend, Western Barbeque was the stall that I should break my cherry with and tonight I just happened to find myself near Old Airport Rd. According to its website it has been around since [1974](https://www.facebook.com/westernbarbeque), so it has staying power, which is mighty impressive in the cut-throat Singapore F&B scene.
 
 ![Western bbq whatsapp](/assets/images/old-airport-western-bbq-3.jpg "Western bbq whatsapp")

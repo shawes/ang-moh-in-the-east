@@ -2,9 +2,10 @@
 layout: post
 title: "Fish head curry @ Katong jago seafood zhi char"
 categories:
-- zi char
-- beer
+- seafood
 - katong
+- singaporean
+- kopitiam
 image: assets/images/jago-zi-char-1.jpg
 featured: false
 hidden: false

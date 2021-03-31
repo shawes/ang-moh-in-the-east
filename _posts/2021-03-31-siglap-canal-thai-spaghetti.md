@@ -13,7 +13,7 @@ rating: 4.5
 author: steve
 date: 2021-03-31 12:07 +0800
 ---
-Love Noodles is a new hawker stall at the 3838 Eating House kopitiam adjacent to Siglap canal. They offer an intriguing new concept I haven't seen much of, thai-western fusion. How could I refuse to try?
+Love Noodles is a new hawker stall at the 3838 Eating House kopitiam adjacent to Siglap canal. They offer an intriguing new concept I haven't seen much of, thai-western fusion. How could I refuse to try? Especially since I also love noodles, [who doesn't](https://www.youtube.com/watch?v=W-DqLGRgbBo)?
 
 On recommendation of the owner, I ordered the spicy thai spaghetti. Its a choose your own adventure type scenario, type of noodle (spaghetti is the default), type of protein (I chose pork), and power of the chilli (to be safe I went with medium).
 
