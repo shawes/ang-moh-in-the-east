@@ -7,8 +7,8 @@ categories:
 - kopitiam
 - teochew
 image: assets/images/bedok-south-fishball-noodle-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2021-03-16 12:11 +0800
