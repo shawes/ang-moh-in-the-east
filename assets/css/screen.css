@@ -16,7 +16,9 @@ License: https://www.wowthemes.net/freebies-license/
 
 .mainheading {
     padding: 1rem 0rem;
-    font-family: 'Waiting for the Sunrise', cursive;
+    font-family: alternate-gothic-no-3-d, sans-serif;
+    font-style: normal;
+    font-weight: 500;
 }
 
 a {
@@ -74,10 +76,11 @@ section.recent-posts {
 .section-title h2 {
     border-bottom: 1px solid rgba(0, 0, 0, .125);
     margin-bottom: 25px;
-    font-weight: 500;
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin-bottom: 27px;
-    font-family: 'Waiting for the Sunrise', cursive;
+    font-family: alternate-gothic-no-3-d, sans-serif;
+    font-style: normal;
+    font-weight: 500;
 }
 
 .section-title span {
@@ -108,10 +111,12 @@ section.recent-posts {
 
 @media (min-width:992px) {
     .navbar-expand-lg .navbar-nav .nav-link {
-        padding-right: 0.8rem;
-        padding-left: 0.8rem;
-        font-size: 1.5rem;
-        font-family: 'Waiting for the Sunrise', cursive;
+        padding-right: 1.0rem;
+        padding-top: 0.8rem;
+        font-size: 1.0rem;
+        font-family: alternate-gothic-no-3-d, sans-serif;
+        font-style: normal;
+        font-weight: 500;
     }
 }
 
@@ -266,12 +271,14 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .form-control {
-    font-size: 1.5rem;
+    font-size: 1.0rem;
     border-radius: 30px;
     overflow: hidden;
     border: 1px solid rgba(0, 0, 0, 0.5);
-    min-width: 180px;
-    font-family: 'Waiting for the Sunrise', cursive;
+    min-width: 100px;
+    font-family: alternate-gothic-no-3-d, sans-serif;
+    font-style: normal;
+    font-weight: 500;
 }
 
 .mediumnavigation .form-inline {
@@ -279,9 +286,9 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .form-inline .btn {
-    margin-left: -50px;
+    margin-left: -10px;
     border: 0;
-    border-radius: 30px;
+    border-radius: 20px;
     cursor: pointer;
 }
 
@@ -324,7 +331,9 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: 'Waiting for the Sunrise', cursive;
+    font-family: alternate-gothic-no-3-d, sans-serif;
+    font-style: normal;
+    font-weight: 500;
 }
 
 .mainheading h1.posttitle {
@@ -336,13 +345,15 @@ span.post-read-more a:hover {
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
     padding-top: 15px;
     padding-bottom: 12px;
-    font-size: 1.0rem;
+    font-size: 0.75rem;
     color: rgba(0, 0, 0, .75);
     margin-top: 50px;
     margin-bottom: 62px;
     position: relative;
     background: #fff;
-    font-family: 'Waiting for the Sunrise', cursive;
+    font-family: alternate-gothic-no-3-d, sans-serif;
+    font-style: normal;
+    font-weight: 500;
 }
 
 .link-dark {
@@ -699,12 +710,14 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: alternate-gothic-no-3-d, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 .jumbotron fortags .h2, 
 .jumbotron fortags h2 {
-    font-family: 'Waiting for the Sunrise', cursive;
+    font-family: alternate-gothic-no-3-d, sans-serif;
+    font-style: normal;
+    font-weight: 500;
 }
 
 .article-post .h1,
@@ -817,7 +830,7 @@ iframe {
 }
 
 .jumbotron.fortags h2 {
-    font-family: 'Waiting for the Sunrise', cursive;
+    font-family: alternate-gothic-no-3-d, sans-serif;
 }
 
 .jumbotron.fortags a {
