@@ -5,6 +5,7 @@ categories:
     - noodles
     - marine terrace
     - hawker
+    - hokkien
 image: assets/images/marine-terrace-you-mian-1.jpg
 featured: false
 hidden: false

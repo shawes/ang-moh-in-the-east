@@ -21,4 +21,4 @@ author: steve
 
 ***  
 
-![Alt text](/assets/images/image.jpg "alt text")
+![Alt text](/assets/images/image.jpg "description text")

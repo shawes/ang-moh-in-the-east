@@ -3,8 +3,9 @@ layout: post
 title: Bah kut teh @ Han jia bah kut teh
 categories: 
     - rice
-    - east coast lagoon
+    - east coast
     - hawker
+    - hokkien
 image: assets/images/bkt-east-coast-lagoon-1.jpg
 featured: false
 hidden: false
