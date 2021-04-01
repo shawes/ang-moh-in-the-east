@@ -7,8 +7,8 @@ categories:
 - kopitiam
 - thai
 image: assets/images/siglap-canal-thai-spaghetti-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 author: steve
 date: 2021-03-31 12:07 +0800
