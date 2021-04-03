@@ -7,8 +7,8 @@ categories:
 - hawker centre
 - thai
 image: assets/images/lagoon-thai-beef-hor-fun-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2021-04-01 10:58 +0800
