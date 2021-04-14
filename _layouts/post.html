@@ -17,7 +17,7 @@ post_class: post-template
 
         <!-- Post -->
         {% assign author = site.authors[page.author] %}
-        
+
         <div class="col-md-9 flex-first flex-md-unordered">
             <div class="mainheading">
 
@@ -58,12 +58,11 @@ post_class: post-template
             {% if site.lazyimages == "enabled" %}
             <img class="featured-image img-fluid lazyimg"
                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
-                data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}"
-                alt="{{ page.title }}">
+                data-src="{% if page.image contains " ://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image
+                }}{% endif %}" alt="{{ page.title }}">
             {% else %}
-            <img class="featured-image img-fluid"
-                src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}"
-                alt="{{ page.title }}">
+            <img class="featured-image img-fluid" src="{% if page.image contains " ://" %}{{ page.image }}{% else %}{{
+                site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
             {% endif %}
 
             {% endif %}
@@ -95,8 +94,8 @@ post_class: post-template
             <!-- Post Date -->
             <p>
                 <small>
-                    <span class="post-date"><time class="post-date"
-                            datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
+                    <span class="post-date"><time class="post-date" datetime="{{ page.date | date:" %Y-%m-%d" }}">{{
+                            page.date | date_to_string }}</time></span>
                     {% if page.last_modified_at %}
                     (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}"
                         itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
@@ -110,8 +109,8 @@ post_class: post-template
                     {% assign sortedCategories = page.categories | sort %}
                     {% for category in sortedCategories %}
                     <li>
-                        <a class="smoothscroll"
-                            href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
+                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " "," -" }}">{{
+                            category }}</a>
                     </li>
                     {% endfor %}
                 </ul>
@@ -124,7 +123,8 @@ post_class: post-template
                     {% assign sortedTags = page.tags | sort %}
                     {% for tag in sortedTags %}
                     <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " "," -" }}">#{{ tag
+                            }}</a>
                     </li>
                     {% endfor %}
                 </ul>
@@ -132,7 +132,7 @@ post_class: post-template
             <!-- End Tags -->
 
             <!-- Prev/Next -->
-<!--             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
+            <!--             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
                 {% if page.previous.url %}
                 <a class="prev d-block col-md-6" href="{{page.previous.url}}"> &laquo;
                     {{page.previous.title}}</a>
@@ -171,30 +171,54 @@ post_class: post-template
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 {% if page.rating %}
-<script>
-    var hawker_title = (page.title).split("@")(1);
-</script>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org/",
-  "@type": "LocalBusiness",
-  "name": "{{ page.hawker }}",
-  "image": "{{ page.image }}",
-  "review": {
-    "@type": "Review",
-    "name" : "{{ page.title }}",
-    "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "{{ page.rating }}"
-    },
-    "author": {
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": "Restaurant",
+    "name": "{{ page.hawker }}",
+    "image": "{{ page.image }}",
+    "priceRange" : "$"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "{{ page.rating }}"
+  },
+  "name": {{ page.title }}
+  "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
+  "author": {
         "@type": "Person",
         "name": "{{ author.display_name }}"
     }
-  },
-  "priceRange" : "$",
-  "datePublished": "{{ page.date | date:"%Y-%m-%d" }}"
 }
-
 </script>
 {% endif %}
+
+"@context": "https://schema.org/",
+"@type": "Review",
+"itemReviewed": {
+"@type": "Restaurant",
+"image": "http://www.example.com/seafood-restaurant.jpg",
+"name": "Legal Seafood",
+"servesCuisine": "Seafood",
+"priceRange": "$$$",
+"telephone": "1234567",
+"address" :{
+"@type": "PostalAddress",
+"streetAddress": "123 William St",
+"addressLocality": "New York",
+"addressRegion": "NY",
+"postalCode": "10038",
+"addressCountry": "US"
+}
+},
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"name": "A good seafood place.",
+"author": {
+"@type": "Person",
+"name": "Bob Smith"
+},
