@@ -175,22 +175,22 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <script type="application/ld+json">
 {
   "@context": "http://schema.org/",
-  "@type": "Review",
-  "itemReviewed": {
-    "@type": "LocalBusiness",
-    "name": "{{ page.title }}",
-    "image": "{{ page.image }}",
-    "priceRange" : "$"
+  "@type": "LocalBusiness",
+  "name": "{{ page.title }}",
+  "image": "{{ page.image }}",
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "{{ page.rating }}"
+    }.
+  "priceRange" : "$"
   },
   "author": {
     "@type": "Person",
     "name": "{{ author.display_name }}"
   },
-  "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "{{ page.rating }}",
-    "bestRating": "5"
+  "datePublished": "{{ page.date | date:"%Y-%m-%d" }}"
   }
 }
 </script>
