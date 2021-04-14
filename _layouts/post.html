@@ -177,7 +177,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
   "@type": "Review",
   "itemReviewed": {
     "@type": "Restaurant",
-    "name": "{{ page.hawker }}",
+    "name": {% if page.hawker %} "{{ page.hawker }}" {% else %} "{{page.title}}" {% endif %},
     "image": "{{ page.image }}",
     "priceRange" : "$"
   },
@@ -185,7 +185,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
     "@type": "Rating",
     "ratingValue": "{{ page.rating }}"
   },
-  "name": {{ page.title }}
+  "name": "{{ page.title }}"
   "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
   "author": {
         "@type": "Person",
