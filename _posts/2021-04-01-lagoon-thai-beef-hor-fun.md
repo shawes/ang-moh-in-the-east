@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Thai beef hor fun @ Siam thai kitchen
+title: Thai beef hor fun 
+hawker: Siam thai kitchen
 categories:
 - noodles
 - east coast

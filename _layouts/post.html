@@ -43,8 +43,7 @@ post_class: post-template
                 {% endif %}-->
 
                 <!-- Post Title -->
-                <h1 class="posttitle">{{ page.title }}</h1>
-
+                <h1 class="posttitle">{{ page.title }} {% if page.hawker %} @ {{ page.hawker }}{% endif %}</h1>
             </div>
 
             <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
@@ -172,14 +171,18 @@ post_class: post-template
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 {% if page.rating %}
+<script>
+    var hawker_title = (page.title).split("@")(1);
+</script>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org/",
   "@type": "LocalBusiness",
-  "name": "{{ page.title }}",
+  "name": "{{ page.hawker }}",
   "image": "{{ page.image }}",
   "review": {
     "@type": "Review",
+    "name" : "{{ page.title }}",
     "reviewRating": {
         "@type": "Rating",
         "ratingValue": "{{ page.rating }}"
