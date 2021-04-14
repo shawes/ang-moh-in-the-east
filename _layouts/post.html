@@ -184,12 +184,12 @@ https://search.google.com/structured-data/testing-tool/u/0/
         "@type": "Rating",
         "ratingValue": "{{ page.rating }}"
     },
-  "priceRange" : "$"
+    "author": {
+        "@type": "Person",
+        "name": "{{ author.display_name }}"
+    }
   },
-  "author": {
-    "@type": "Person",
-    "name": "{{ author.display_name }}"
-  },
+  "priceRange" : "$",
   "datePublished": "{{ page.date | date:"%Y-%m-%d" }}"
 }
 
