@@ -1,15 +1,16 @@
 ---
 layout: post
-title: food
-hawker: hawker name
+title: Hong kong noodle
+hawker: Fresh little veg zhi char
 categories: 
-    - rice / noodles / seafood
-    - location
-    - kopitiam / hawker centre / bar
-image: assets/images/template.jpg
+    - noodles
+    - siglap
+    - kopitiam
+    - cantonese
+image: assets/images/frankel-hk-noodle-1.jpg
 featured: false
 hidden: true
-rating: 0
+rating: 4
 author: steve
 ---
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: food
-hawker: hawker name
+title: Kway chap
+hawker: Miao shung vegetarian
 categories: 
-    - rice / noodles / seafood
+    - noodles
     - location
-    - kopitiam / hawker centre / bar
-image: assets/images/template.jpg
+    - hawker centre
+    - vegetarian
+image: assets/images/marine-terrace-veg-kway-chap-1.jpg
 featured: false
 hidden: true
 rating: 0
