@@ -7,8 +7,8 @@ categories:
 - kopitiam
 - peranakan
 image: assets/images/changi-rd-katong-laksa-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2021-04-03 15:45 +0800

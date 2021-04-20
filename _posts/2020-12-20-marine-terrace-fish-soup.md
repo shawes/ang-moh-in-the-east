@@ -24,6 +24,7 @@ The broth is definitely the star of this dish.
 **Hawker centre:** Marine Terrace Market and Food Centre  
 **Address:** Block 50A Marine Terrace, #01-277  
 **Hours:** 6:30am - 8:30pm (closed thursdays)  
+
 ***  
 
 ![Seng hoe fish ball minced meat noodle stall](/assets/images/fish-soup-marine-terrace-2.jpg "Seng hoe fish ball minced meat noodle stall")
