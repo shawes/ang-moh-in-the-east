@@ -8,8 +8,8 @@ categories:
 - hawker centre
 - teochew
 image: assets/images/marine-terrace-bak-chor-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2021-04-20 16:44 +0800
