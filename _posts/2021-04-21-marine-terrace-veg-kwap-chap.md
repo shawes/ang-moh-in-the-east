@@ -8,8 +8,8 @@ categories:
 - hawker centre
 - vegetarian
 image: assets/images/marine-terrace-veg-kway-chap-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 author: steve
 date: 2021-04-21 15:26 +0800
