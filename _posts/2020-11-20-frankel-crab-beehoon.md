@@ -30,7 +30,7 @@ While this **crab bee hoon** special is still going, I will be a regular patron 
 
 **Coffee shop:** Kwee Sai Fong Eating House  
 **Address:** 65 Frankel Ave, Siglap  
-**Hours:** 12pm - 10pm  
+**Hours:** 10am - 10pm  
 
 ***  
 
