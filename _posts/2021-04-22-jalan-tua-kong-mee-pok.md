@@ -7,8 +7,8 @@ categories:
 - kopitiam
 - teochew
 image: assets/images/jalan-tua-kong-mee-pok-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2021-04-22 10:50 +0800

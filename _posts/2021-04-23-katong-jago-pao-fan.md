@@ -2,16 +2,17 @@
 layout: post
 title: Pao fan
 hawker: Katong jago seafood zhi char
-categories: 
-    - rice
-    - katong
-    - kopitiam
-    - teochew
+categories:
+- rice
+- katong
+- kopitiam
+- teochew
 image: assets/images/katong-jago-pao-fan-1.jpg
 featured: true
 hidden: true
 rating: 4.5
 author: steve
+date: 2021-04-23 07:51 +0800
 ---
 Another rainy day over the easter weekend found me down at [Brunner's coffee shop](https://www.facebook.com/Brunners-Coffeeshop-FB-189197318523252/) at Katong. Torrential rain meant I was going to be stuck here for the foreseeable future. Normally I only frequent this coffee shop at night time, so I was intrigued as to what the lunch options were. The first thing I saw was the specials offered by the zhi char, which today was pao fan. I don't read mandarin, but google translate works a treat in these situations. What could be better for a cold rainy day? A dish that is apparently [making a comeback in Singapore](https://www.straitstimes.com/life/food/pao-fan-fever-is-on-in-singapore-with-new-entrants-targeting-the-mass-market). The pao fan came with different options, fish, lala, prawns, or combination of all three. I opted for the pao fan with just the fish.
 
