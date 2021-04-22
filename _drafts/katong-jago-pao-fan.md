@@ -9,7 +9,7 @@ categories:
     - teochew
 image: assets/images/katong-jago-pao-fan-1.jpg
 featured: true
-hidden: false
+hidden: true
 rating: 4.5
 author: steve
 ---
