@@ -13,7 +13,7 @@ hidden: true
 rating: 4
 author: steve
 ---
-I'm still not sure what Hong Kong noodles are exactly, friend chow mein? But I know I always tend to enjoy it when I order them. Today I was at the fresh little meat zhi char at frankel avenue. The portion of this hong kong noodle was not as large as the one at [jago close]({% post_url 2021-01-28-jago-hong-kong-noodles %}), but the quality of the protein ingredients was a lot better. The fried egg noodles came with a mixture of pork, sotong, and prawns. The sotong especially was cooked to perfection, melt in your mouth squid. There was only a smattering of beansprouts and cabbage, but I was here for the grease, not the health. The sauce was dominated by dark soy, with surprisingly no chilli included at all.
+I'm still not sure what Hong Kong noodles are exactly, friend chow mein? But I know I always tend to enjoy it when I order them. Today I was at the fresh little meat zhi char at frankel avenue. The portion of this hong kong noodle was not as large as the one at [jago close]({% post_url 2021-01-28-jago-hong-kong-noodles %}), but the quality of the protein ingredients was a lot better. The fried egg noodles came with a mixture of pork, sotong, and prawns. The sotong especially was cooked to perfection, melt in your mouth squid. There was only a smattering of bean sprouts and cabbage, but I was here for the grease, not the health. The sauce was dominated by dark soy, with surprisingly no chilli included at all.
 
 The dish was not amazing, but it hits just the spot when you are hungover, brings you back to life.
 
