@@ -30,9 +30,9 @@ Go try this special before it disappears!
 
 **Price:** $6.00  
 
-**Coffee shop:** Brunner's coffeeshop  
-**Address:** 228 East coast road  
-**Hours:** 7am - 10:30pm  
+**Coffee shop:** Brunner's Coffeeshop  
+**Address:** 228 East Coast Road, Katong  
+**Hours:** 7:00am - 10:30pm  
 
 ***  
 
