@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - teochew
 image: assets/images/katong-jago-pao-fan-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 author: steve
 date: 2021-04-23 07:51 +0800

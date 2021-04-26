@@ -2,16 +2,17 @@
 layout: post
 title: Pig's organ soup
 hawker: Aik kee haslet soup
-categories: 
-    - soup
-    - geylang east
-    - hawker centre
-    - teochew
+categories:
+- soup
+- geylang east
+- hawker centre
+- teochew
 image: assets/images/geylang-east-haslet-soup-1.jpg
 featured: true
 hidden: true
 rating: 5
 author: steve
+date: 2021-04-26 14:18 +0800
 ---
 I took a chance on this stall, not knowing exactly what I was ordering. All I could determine from the sign is that it involved pig, from the cartoon little pig all dressed up for market, and soup, as the only english word in the name of the stall was soup.
 
