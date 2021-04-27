@@ -8,8 +8,8 @@ categories:
 - hawker centre
 - teochew
 image: assets/images/geylang-east-haslet-soup-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2021-04-26 14:18 +0800
