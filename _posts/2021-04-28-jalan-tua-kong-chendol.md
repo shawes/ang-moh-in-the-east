@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Chendol @ Chendol melaka
-categories: 
-    - dessert
-    - siglap
-    - kopitiam
-    - nonya
+categories:
+- dessert
+- siglap
+- kopitiam
+- nonya
 image: assets/images/jalan-tua-kong-chendol-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 5
 author: steve
+date: 2021-04-28 10:46 +0800
 ---
 Today was one of those stinking hot days in Singapore, not a cloud in the sky, and just leaving the house makes you sweat. On days like this, Singapore desserts with shaved ice come into their own. Although dessert stalls seem to be few and far between these days. The nearest cendol to my house is at Jalan Tua Kong, so I promptly headed down there for some relief to this heat.
 

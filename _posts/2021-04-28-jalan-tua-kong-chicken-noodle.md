@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Roasted chicken noodles @ Peking roasted chicken rice
-categories: 
-    - noodles
-    - siglap
-    - kopitiam
-    - peking
+categories:
+- noodles
+- siglap
+- kopitiam
+- peking
 image: assets/images/jalan-tua-kong-chicken-mee-1.jpg
-featured: true
+featured: false
 hidden: false
 rating: 4.5
 author: steve
+date: 2021-04-28 10:46 +0800
 ---
 Peking roasted chicken rice, at jalan tua kong, always has regular queue of customers. The stall also appears to be the first to open and last to close in the coffee shop. The uncle loves to race motor cars, having showed me pictures of him racing in Malaysia. Its also not uncommon to see him strumming a guitar or listening to music on the radio towards the end of the day.
 

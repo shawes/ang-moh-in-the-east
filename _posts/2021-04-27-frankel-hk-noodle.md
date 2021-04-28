@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - cantonese
 image: assets/images/frankel-hk-noodle-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2021-04-27 13:20 +0800
