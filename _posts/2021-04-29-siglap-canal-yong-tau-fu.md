@@ -7,8 +7,8 @@ categories:
 - kopitiam
 - hakka
 image: assets/images/siglap-canal-yong-tau-foo-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 author: steve
 date: 2021-04-29 09:11 +0800

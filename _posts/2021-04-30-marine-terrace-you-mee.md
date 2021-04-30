@@ -1,20 +1,21 @@
 ---
 layout: post
 title: You mee dry @ Le le handmade noodle
-categories: 
-    - noodles
-    - marine terrace
-    - hawker
-    - hokkien
+categories:
+- noodles
+- marine terrace
+- hawker
+- hokkien
 image: assets/images/marine-terrace-you-mian-1.jpg
 featured: true
 hidden: true
 rating: 5
 author: steve
+date: 2021-04-30 14:56 +0800
 ---
 If you have read other posts on the blog, you will understand I have a love of noodles. When I was in Australia, I would make fresh pasta several times a week. The process of making fresh pasta was a good wind down from work. I bring this up, because handmade you or ban mee is probably the closest hawker dish to pasta. The first time I discovered you mee was at this stall in marine terrace, le le handmade noodle.
 
-I switch between ordering the dry and the soup version, but I prefer the dry I must admit. The noodles, being handmade, have that wonder fresh egg and flour flavour without the starch. Soft and glorious. A poached egg with a runny yolk is add on top. I like the brak the yolk and stir it into my noodles. The noodles come with an earthy chilli sauce, which is balanced out by the saltiness of the fried ikan bilis. The soup is salty, but not overly so, and comes from the water the egg was poached in, small bits of egg white remain. For me, this is true comfort food. One bowl is ample for lunch. And to top it off, the uncle will come and find you anywhere in the hawker centre so you don't have to wait outside the stall. Great for these social distancing times.
+I switch between ordering the dry and the soup version, but I prefer the dry I must admit. The noodles, being handmade, have that wonder fresh egg and flour flavour without the starch. Soft and glorious. A poached egg with a runny yolk is add on top. I like the break the yolk and mix the gooeyness into my noodles. The noodles come with an earthy chilli sauce, which is balanced out by the saltiness of the fried ikan bilis. The soup is salty, but not overly so, and comes from the water the egg was poached in, small bits of egg white remain. For me, this is true comfort food. One bowl is ample for lunch. And to top it off, the uncle will come and find you anywhere in the hawker centre (ok its not massive) so you don't have to wait outside the stall. Great for these social distancing times.
 
 **Price:** $3.00  
 
