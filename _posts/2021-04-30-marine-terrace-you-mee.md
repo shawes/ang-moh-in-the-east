@@ -7,8 +7,8 @@ categories:
 - hawker
 - hokkien
 image: assets/images/marine-terrace-you-mian-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2021-04-30 14:56 +0800

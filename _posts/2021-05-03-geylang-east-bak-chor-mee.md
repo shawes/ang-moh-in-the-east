@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Bak chor mee @ Teochew fishball minced meat noodle
-categories: 
-    - noodles
-    - geylang
-    - kopitiam
+categories:
+- noodles
+- geylang
+- kopitiam
 image: assets/images/geylang-east-bak-chor-mee-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 3.5
 author: steve
+date: 2021-05-03 16:25 +0800
 ---
 I found myself in geylang east visiting an aunty for some peranakan cooking lessons. To get some sustenance before my lessons I decided to get some carbs into me. I was attracted to this stall because it was run by some young guys and I always want to support young hawkers. 
 
