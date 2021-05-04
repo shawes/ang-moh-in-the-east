@@ -3,6 +3,7 @@ layout: post
 title: Lemongrass chicken wings
 hawker: Love noodles
 categories:
+- snack
 - siglap
 - kopitiam
 - thai
