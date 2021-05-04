@@ -6,8 +6,8 @@ categories:
 - geylang
 - kopitiam
 image: assets/images/geylang-east-bak-chor-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2021-05-03 16:25 +0800
