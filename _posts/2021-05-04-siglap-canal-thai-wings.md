@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - thai
 image: assets/images/siglap-canal-thai-wings-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2021-05-04 17:31 +0800
