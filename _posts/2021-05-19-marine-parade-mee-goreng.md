@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - halal
 image: assets/images/marine-parade-mee-goreng-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2021-05-19 16:06 +0800
