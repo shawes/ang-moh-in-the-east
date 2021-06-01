@@ -24,3 +24,5 @@ group :jekyll_plugins do
     gem 'sassc'
     gem 'github-pages'
 end
+
+gem "webrick", "~> 1.7"
