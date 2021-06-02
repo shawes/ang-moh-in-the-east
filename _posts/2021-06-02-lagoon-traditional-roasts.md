@@ -7,7 +7,7 @@ categories:
 - east coast
 - hawker centre
 - cantonese
-image: assets/images/lagoon-traditional-meats-1.jpg
+image: assets/images/lagoon-traditional-roasts-1.jpg
 featured: true
 hidden: true
 rating: 4
@@ -20,7 +20,7 @@ One chinese new year I came back and their stall at jago close had closed. Using
 
 Siang yuen is a husband and wife team, Joe and Pauline, he roasts the meats, she takes the orders. What sets Siang yuen apart from many other roast meats stalls is that they still roast their meats using the traditional charcoal fired method. The taste of the charcoal meat is always superior to gas, but it takes more effort, hence is it seen less and less these days.
 
-![Charcoal cooker](/assets/images/lagoon-traditional-meats-3.jpg "Charcoal cooker")
+![Charcoal cooker](/assets/images/lagoon-traditional-roasts-3.jpg "Charcoal cooker")
 
 Joe's skill means the skin on his duck is always super crispy, just how I like it. The meat is flavoursome and juicy - but hey duck is duck, hard to go wrong. While the amount of duck you get makes it on the pricier side, you are paying for tradition. The roasted duck came with some achar on the side also, which was top notch. Spicy, sweet, and sour all at the same time — I will admit I am a pickle affectionado.
 
@@ -32,7 +32,7 @@ Joe's skill means the skin on his duck is always super crispy, just how I like i
 
 ***  
 
-![Siang yuen traditional meats](/assets/images/lagoon-traditional-meats-2.jpg "Siang yuen traditional meats")
+![Siang yuen traditional roasts](/assets/images/lagoon-traditional-roasts-2.jpg "Siang yuen traditional roasts")
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.78049912728!2d103.93275511475396!3d1.3068680990468287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da18764013f43b%3A0x6cfef20f595a57b0!2sEast%20Coast%20Lagoon%20Food%20Village!5e0!3m2!1sen!2ssg!4v1567135621194!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
