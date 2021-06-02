@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - teochew
 image: assets/images/siglap-grandfather-bak-chor-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.75
 author: steve
 date: 2021-05-28 12:50 +0800

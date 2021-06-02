@@ -2,16 +2,17 @@
 layout: post
 title: Roasted duck rice
 hawker: Siang yuen traditional roasts
-categories: 
-    - rice
-    - east coast
-    - hawker centre
-    - cantonese
+categories:
+- rice
+- east coast
+- hawker centre
+- cantonese
 image: assets/images/lagoon-traditional-meats-1.jpg
 featured: true
 hidden: true
 rating: 4
 author: steve
+date: 2021-06-02 14:25 +0800
 ---
 This is one of the first stalls I ever patronised as a tourist in Singapore. Back then they were located in the jago close kopitiam, before it was called Brunners. The old owner back then was so cheap he would turn the power off between lunch and dinner. Lights and fans came on only if customers arrived, leaving the hawkers to swelter in the heat. The uncle always stood out because he would always be dressed immaculately in his chef's uniform. Not a common sight behind a hawker stall and I appreciate his dedication to the threads.
 
