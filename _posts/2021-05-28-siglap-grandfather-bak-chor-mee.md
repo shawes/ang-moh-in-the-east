@@ -26,6 +26,8 @@ Grandfather's back chor mee is absolutely delicious. Packed full of ingredients;
 
 My favourite bak chor mee in the east just got a new champion. The price is higher than some, but the plethora of ingredients justifies it, I just wish there was some pork liver included.
 
+*Editor's Note:* After purchasing several times, I feel the newness of the shop means they have not quite got their consistency down just quite yet. Each time I get a bowl it tastes slightly different. But that should come with time.
+
 **Price:** $4.50
 
 **Coffee shop:** LTN Food Village  
