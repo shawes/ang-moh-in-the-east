@@ -5,7 +5,7 @@ categories:
 - noodles
 - siglap
 - kopitiam
-image: assets/images/frankel-bak-chor-mee-1.jpg
+image: assets/images/frankel-bak-chor-mee-closed.jpg
 featured: false
 hidden: false
 rating: 4

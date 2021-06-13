@@ -6,7 +6,7 @@ categories:
 - kopitiam
 - siglap
 - hainanese
-image: assets/images/frankel-chicken-rice-1.jpg
+image: assets/images/frankel-chicken-rice-closed.jpg
 featured: false
 hidden: false
 rating: 3.5
