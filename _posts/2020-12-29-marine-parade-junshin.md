@@ -6,7 +6,7 @@ categories:
 - marine parade
 - hawker centre
 - teochew
-image: assets/images/marine-parade-junshin-1.jpg
+image: assets/images/marine-parade-junshin-closed.jpg
 featured: false
 hidden: false
 rating: 3.5
