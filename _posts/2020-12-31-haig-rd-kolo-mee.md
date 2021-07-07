@@ -5,6 +5,7 @@ categories:
 - noodles
 - hawker centre
 - geylang
+- sarawak
 image: assets/images/haig-rd-kolo-mee-1.jpg
 featured: false
 hidden: false

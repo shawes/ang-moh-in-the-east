@@ -5,6 +5,7 @@ categories:
 - noodles
 - bedok
 - kopitiam
+- sarawak
 image: assets/images/kolo-mee-yun-xiang-closed.jpg
 featured: false
 hidden: false
