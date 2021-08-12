@@ -2,18 +2,18 @@
 layout: post
 title: Hokkien mee
 hawker: Geylang lorong 29 charcoal fried hokkien mee
-categories: 
-    - noodles
-    - telok kurau
-    - kopitiam
-    - beer
+categories:
+- noodles
+- telok kurau
+- kopitiam
+- beer
 image: assets/images/telok-kurau-hokkien-mee-1.jpg
 featured: true
 hidden: true
 rating: 3.25
 author: steve
+date: 2021-08-12 12:46 +0800
 ---
-
 After another long lockdown, it felt liberating to be back eating outside at a coffee shop again. There is something comforting, almost tranquil, about the cooking sounds of spatulas banging against woks. Add to that the aromas that waft out from behind each hawker stall as the cooking occurs. It is Singapore.
 
 I was first introduced to this particular hokkien mee by my mother-in-law over a decade ago. Extended family gatherings are often accompanied by huge quantities of this hokkien mee wrapped in the [traditional opeh leaves](https://johorkaki.blogspot.com/2020/07/where-do-opeh-leaf-wrappings-come-from.html). So I must admit I rarely bother to go down and purchase it myself.
