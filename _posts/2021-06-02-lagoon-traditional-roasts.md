@@ -8,8 +8,8 @@ categories:
 - hawker centre
 - cantonese
 image: assets/images/lagoon-traditional-roasts-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2021-06-02 14:25 +0800

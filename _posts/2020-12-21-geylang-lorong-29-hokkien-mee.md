@@ -20,7 +20,7 @@ Both these stalls cook their dishes the old fashioned way using charcoal, impart
 **Price:** $6.00  
 
 **Coffee shop:** Lor 29 Xing Lian Eating House (since 1954)  
-**Address:** 549 Geylang Rd  
+**Address:** 5 Lorong 29 Geylang    
 **Hours:** 4:30pm - 11:00pm (closed on wednesdays)  
 
 ***  

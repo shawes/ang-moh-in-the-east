@@ -10,7 +10,7 @@ categories:
 image: assets/images/siglap-grandfather-bak-chor-mee-1.jpg
 featured: false
 hidden: false
-rating: 4.75
+rating: 4
 author: steve
 date: 2021-05-28 12:50 +0800
 ---

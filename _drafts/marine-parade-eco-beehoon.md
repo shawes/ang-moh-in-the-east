@@ -6,20 +6,32 @@ categories:
     - noodles
     - marine parade
     - hawker centre
-image: assets/images/template.jpg
-featured: false
-hidden: true
-rating: 0
+image: assets/images/marine-parade-eco-beehoon-1.jpg
+featured: true
+hidden: false
+rating: 3.5
 author: steve
 ---
 
+Surprised ang moh ordering . Next door super popular stall. I don’t like queuing though. 
 
-**Price:** $X.XX  
+$3.30
+Cabbage carrot fungus, bean curd. Slightly oily 
 
-**Hawker centre / Coffee shop:** The food emporium
-**Address:** XXX Smith St, Smithsville  
+Spring roll and daikon and carrot
+
+Egg night fluffy . Not overcooked 
+Mee cooked with bean sprouts . Lots of black sauce
+
+Chili sauce nice and earthly. Slightly acidic . Malty. 
+
+
+**Price:** $3.30  
+
+**Hawker centre:** Marine parade central  
+**Address:** 84 Marine Parade Central  
 **Hours:** XXam - XXpm (closed xx)  
 
 ***  
 
-![Alt text](/assets/images/image.jpg "description text")
+![Alt text](/assets/images/marine-parade-eco-beehoon-2.jpg "description text")

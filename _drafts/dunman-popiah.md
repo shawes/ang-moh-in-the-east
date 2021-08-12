@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Coffee and salted bun
-hawker: Marine parade coffee
+title: food
+hawker: hawker name
 categories: 
     - rice / noodles / seafood
     - location
@@ -12,6 +12,12 @@ hidden: true
 rating: 0
 author: steve
 ---
+
+$1.70
+
+Lettuce leaf 
+Crunchy
+Strong prawn taste
 
 
 **Price:** $X.XX  
