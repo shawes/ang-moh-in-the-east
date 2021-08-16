@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - beer
 image: assets/images/telok-kurau-hokkien-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.25
 author: steve
 date: 2021-08-12 12:46 +0800
@@ -30,7 +30,7 @@ As a bonus, the coffee shop sells a selection of about 20-30 different craft bee
 
 ![Quality ingredients](/assets/images/telok-kurau-hokkien-mee-4.jpg "Quality prawns and sotong in the hokkien mee")
 
-This is good hokkien mee and I can see why so many people [love it](http://ieatishootipost.sg/singapores-famous-five-best-hokkien-mee/), but personally I prefer the brothers version [physically located at geylang lor 29](/_posts/2020-12-21-geylang-lorong-29-hokkien-mee.md).
+This is good hokkien mee and I can see why so many people [love it](http://ieatishootipost.sg/singapores-famous-five-best-hokkien-mee/), but personally I prefer the brothers version [physically located at geylang lor 29]({% post_url 2020-12-21-geylang-lorong-29-hokkien-mee %}).
 
 **Price:** $6.00  
 
