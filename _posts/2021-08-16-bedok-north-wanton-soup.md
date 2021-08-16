@@ -2,15 +2,17 @@
 layout: post
 title: Wanton soup
 hawker: Good taste wanton mee
-categories: 
-    - soup
-    - bedok north
-    - kopitiam
+categories:
+- soup
+- bedok north
+- kopitiam
+- cantonese
 image: assets/images/bedok-north-wanton-soup-1.jpg
 featured: true
 hidden: true
 rating: 3.5
 author: steve
+date: 2021-08-16 16:58 +0800
 ---
 Getting caught cycling in the rain, I needed to seek shelter and the downpour became heavier and heavier. I sought cover at first coffee shop I saw, which happened to be in Bedok North.
 
