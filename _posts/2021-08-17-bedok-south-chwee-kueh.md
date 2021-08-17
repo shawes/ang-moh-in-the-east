@@ -2,18 +2,18 @@
 layout: post
 title: Chwee kueh
 hawker: Xiang xiang chwee kueh
-categories: 
-    - rice
-    - bedok south
-    - hawker centre
-    - teochew
+categories:
+- rice
+- bedok south
+- hawker centre
+- teochew
 image: assets/images/bedok-south-chwee-kueh-1.jpg
 featured: false
 hidden: false
 rating: 3
 author: steve
+date: 2021-08-17 17:30 +0800
 ---
-
 Chwee kueh is one of those simple meals that are amazingly satisfying. This stall at bedok south market is slightly more expensive than most, charging 40c per piece. The chwee kueh itself was soft, almost a creamy texture. It was topped with a very generous amount of chye poh, but there was something missing in the flavour. The chilli was nice but too salty for mine. This stall also serves chee cheong fun and soon kueh. Maybe these two are better options.
 
 **Price:** $1.60 for 4  
