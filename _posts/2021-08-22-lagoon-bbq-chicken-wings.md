@@ -7,8 +7,8 @@ categories:
 - lagoon
 - hawker centre
 image: assets/images/lagoon-bbq-chicken-wings-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2021-08-22 14:33 +0800

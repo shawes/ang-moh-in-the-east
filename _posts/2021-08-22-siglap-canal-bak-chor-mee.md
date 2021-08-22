@@ -2,18 +2,18 @@
 layout: post
 title: Bak chor mee soup
 hawker: 321 minced meat noodles
-categories: 
-    - noodles
-    - siglap
-    - kopitiam
-    - teochew
+categories:
+- noodles
+- siglap
+- kopitiam
+- teochew
 image: assets/images/siglap-canal-bak-chor-mee-1.jpg
 featured: true
-hidden: false
+hidden: true
 rating: 4
 author: steve
+date: 2021-08-22 17:37 +0800
 ---
-
 My wife and I have been coming to this minced meat noodle stall semi-regularly for nearly a decade, in fact it could have been the first hawker stall I ever visited. Back when the coffee shop was under a different operation and those pre-mio halycon days when EPL was being shown on multiple screens at coffee shops. Ah the memories. Well it was either this stall or somewhere in newton circus after drinks around clarke quay. The memories are hazy.
 
 Mostly we come here for the convenience as it is located walking distance to where we reside. The aunty must have a photographic memory, she always remembers you (and your order), even if it has been months since the last visit. I'll admit I find this a bit intimidating, especially if I want something else to eat in the coffee shop. The way she waves at you to get your attention, "I haven't seen you around in so long...". Sometimes I end up ordering out of guilt more than anything, while staring longingly at the kway chap next door.
