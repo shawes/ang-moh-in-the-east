@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - cantonese
 image: assets/images/bedok-north-wanton-soup-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2021-08-16 16:58 +0800
