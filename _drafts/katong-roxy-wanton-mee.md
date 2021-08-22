@@ -15,6 +15,14 @@ author: steve
 ---
 
 
+$6
+4 fried wanton 
+Thick cut pork caramel
+Wonderful Qq noolde
+Savoury chili
+
+
+
 ![Chunky char siew](/assets/images/katong-roxy-wanton-mee-2.jpg "Chunky char siew")
 
 **Price:** $6.00  
