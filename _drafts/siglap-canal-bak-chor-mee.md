@@ -14,21 +14,19 @@ rating: 4
 author: steve
 ---
 
-My wife and I have been coming to this stall off and on for nearly a decade, in fact it could have been the first hawker I ever visited. Back when the coffee shop was under a different operation and EPL was being shown on multiple screens. Mostly for the convincence, more so than the food I will admit. The aunty must have a photographic memory, she always remembers you (and your order), even if it has been months to a year since the last visit. I find this a bit intimidating, especially if I want something else to eat in the coffee shop. The way she says "I haven't seen you around in so long...". I end up ordering out of guilt more than anything.
+My wife and I have been coming to this minced meat noodle stall semi-regularly for nearly a decade, in fact it could have been the first hawker stall I ever visited. Back when the coffee shop was under a different operation and those pre-mio halycon days when EPL was being shown on multiple screens at coffee shops. Ah the memories. Well it was either this stall or somewhere in newton circus after drinks around clarke quay. The memories are hazy.
 
-Once again, like clockwork, she recognised me and waved as I cycled past. But it was a cold rainy day, so why not get a soup? I ordered the bak chor mee soup with mee tai mak. I have eaten the dry but I don't like the brand of mee pok she uses.
+Mostly we come here for the convenience as it is located walking distance to where we reside. The aunty must have a photographic memory, she always remembers you (and your order), even if it has been months since the last visit. I'll admit I find this a bit intimidating, especially if I want something else to eat in the coffee shop. The way she waves at you to get your attention, "I haven't seen you around in so long...". Sometimes I end up ordering out of guilt more than anything, while staring longingly at the kway chap next door.
 
-I've never encountered a noodle that divides opinion like the humble mee tai mak. It seems like you either love it or you hate it. I fall into the love it camp. 
+Once again, like clockwork, she recognised me and waved as I cycled past. But it was a cool rainy august day, so why not get a soup? I ordered the bak chor mee soup with mee tai mak. I have eaten the dry version here, but I don't like the brand of mee pok she uses — the noodle changed sometime back in 2018.
 
-The sliced pork is cooked to perfection, tender and so so sweet to taste. She is generous with her servings of beansprouts, which I wholeheartedly applaud. The mee tai mak is cooked *al dente*, with a nice bite before than slither down your throat. The eating experience is similar to Katong laksa, whereby the entire bowl can just be eaten with a spoon.
+The sliced pork is cooked to perfection, tender and so so sweet to taste. She is generous with her servings of beansprouts, which I wholeheartedly applaud. The mee tai mak is cooked *al dente*, with a nice bite before than slither down your throat. The eating experience is similar to Katong laksa, whereby the entire bowl can just be eaten with a spoon. I've never encountered a noodle that divides opinion like the humble mee tai mak. It seems like you either love it or you hate it. I fall into the love it camp. 
 
-The downside are the fishballs. They are terrible. I just cannot stand them. The flavour is strong but unappealing at best. The texture is rubbery, breaking up on the mouth like you are chewing on an agar based kueh. Next time I will be asking without the fishballs.
+The downside are the fishballs. Frankly, IMO they are terrible. The flavour is strong but unappealing at best, the texture is rubbery and crumbles in your mouth like you are chewing on an agar based kueh. Mental note for next time to ask for no fishballs.
 
 ![Flavoursome broth](/assets/images/siglap-canal-bak-chor-mee-2.jpg "321 minced Flavoursome broth")
 
-But I don't want to dwell on the negatives. The minced meat broth is divine. You couldn't pack much more flavour in there if you tried. The soup is definitely the star.
-
-This back chor mee soup is worth trying for the soup alone. Its even better for breakfast or lunch an overcast rainy day.
+But I don't want to dwell on the negatives. The minced meat broth is divine. You couldn't pack much more flavour in there if you tried. The soup is definitely the star. In fact, this back chor mee soup is worth trying for the soup alone. Its even better for breakfast or lunch an overcast rainy day.
 
 **Price:** $4.00  
 
