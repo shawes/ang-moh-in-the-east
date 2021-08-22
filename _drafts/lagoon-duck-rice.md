@@ -3,13 +3,14 @@ layout: post
 title: Duck rice
 hawker: Lagoon duck
 categories: 
-    - rice / noodles / seafood
-    - location
-    - kopitiam / hawker centre / bar
-image: assets/images/template.jpg
+    - rice
+    - lagoon
+    - hawker centre
+    - teochew
+image: assets/images/lagoon-duck-rice-1.jpg
 featured: false
 hidden: true
-rating: 0
+rating: 3.5
 author: steve
 ---
 
@@ -29,4 +30,4 @@ Soup was underwhelming
 
 ***  
 
-![Alt text](/assets/images/image.jpg "description text")
+![Alt text](/assets/images/lagoon-duck-rice-2.jpg "description text")

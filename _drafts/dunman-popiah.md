@@ -6,7 +6,7 @@ categories:
     - rice / noodles / seafood
     - location
     - kopitiam / hawker centre / bar
-image: assets/images/template.jpg
+image: assets/images/dunman-popiah-1.jpg
 featured: false
 hidden: true
 rating: 0
@@ -19,6 +19,7 @@ Lettuce leaf
 Crunchy
 Strong prawn taste
 
+![Alt text](/assets/images/dunman-popiah-2.jpg "description text")
 
 **Price:** $X.XX  
 
@@ -28,4 +29,4 @@ Strong prawn taste
 
 ***  
 
-![Alt text](/assets/images/image.jpg "description text")
+![Alt text](/assets/images/dunman-popiah-3.jpg "description text")

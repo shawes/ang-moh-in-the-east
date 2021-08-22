@@ -1,22 +1,26 @@
 ---
 layout: post
-title: Bak chor mee
-hawker: hawker name
+title: Bak chor mee soup
+hawker: Famous eunos bak chor mee
 categories: 
-    - rice / noodles / seafood
-    - location
-    - kopitiam / hawker centre / bar
-image: assets/images/template.jpg
+    - noodles
+    - eunos
+    - kopitiam
+    - teochew
+image: assets/images/eunos-bak-chor-mee-1.jpg
 featured: false
 hidden: true
-rating: 0
+rating: 4.5
 author: steve
 ---
+Famous. Like "world famous pies" in the Australian outback, normally beguiles "average pies".
 
-Long wait - even though only 2?
-Had to remake the soup again it seems . 
+I've never heard of it.
 
-Dumpings and noodles abs pork fat
+I had rather a long wait. The soup had to be remade. Attention to detail?
+
+
+Dumpings and noodles and pork fat
 Soup is savoury, complex. 
 Default noolde is mee kia 
 Noolde are al dente 
@@ -25,12 +29,12 @@ Honglee eating house
 $3.50
 
 
-**Price:** $X.XX  
+**Price:** $3.50  
 
-**Hawker centre / Coffee shop:** The food emporium
-**Address:** XXX Smith St, Smithsville  
-**Hours:** XXam - XXpm (closed xx)  
+**Coffee shop:** Hong Lee Coffeeshop  
+**Address:** 7 Eunos Cres, 400007  
+**Hours:** 6am - 7:30pm  
 
 ***  
 
-![Alt text](/assets/images/image.jpg "description text")
+![Alt text](/assets/images/eunos-bak-chor-mee-2.jpg "description text")

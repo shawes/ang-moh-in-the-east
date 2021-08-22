@@ -34,4 +34,4 @@ Chili sauce nice and earthly. Slightly acidic . Malty.
 
 ***  
 
-![Alt text](/assets/images/marine-parade-eco-beehoon-2.jpg "description text")
+![Hup lee fried bee hoon](/assets/images/marine-parade-eco-beehoon-2.jpg "Hup lee fried bee hoon")
