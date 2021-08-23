@@ -19,7 +19,7 @@ Chwee kueh is one of those simple meals that are amazingly satisfying. This stal
 **Price:** $1.60 for 4  
 
 **Hawker centre:** Block 16 Bedok South Market & Food Centre  
-**Address:** 16 Bedok South Rd, #01-14, 460016  
+**Address:**  #01-14, 16 Bedok South Rd, 460016  
 **Hours:** 7am – 1pm (closed mondays)  
 
 ***  

@@ -26,7 +26,7 @@ I'll be back for many more of these wings.
 **Price:** $1.30 per wing
 
 **Hawker centre:** East Coast Lagoon Food Village  
-**Address:** 1220 East Coast Park Service Rd, 468960  
+**Address:** #01-14, 1220 East Coast Park Service Rd, 468960  
 **Hours:** 3pm - 11pm (open from 12pm on weekends)  
 
 ***  
