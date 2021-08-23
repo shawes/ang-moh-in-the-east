@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - teochew
 image: assets/images/siglap-canal-bak-chor-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2021-08-22 17:37 +0800
