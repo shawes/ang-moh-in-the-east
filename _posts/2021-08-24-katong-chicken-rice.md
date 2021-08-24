@@ -2,16 +2,17 @@
 layout: post
 title: Chicken rice
 hawker: Delicious boneless chicken rice
-categories: 
-    - rice
-    - katong
-    - kopitiam
-    - hainanese
+categories:
+- rice
+- katong
+- kopitiam
+- hainanese
 image: assets/images/katong-chicken-rice-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 5
 author: steve
+date: 2021-08-24 12:22 +0800
 ---
 I had read about this stall because of the burgeoning [TikTok career of the owner](https://mothership.sg/2020/02/tiktok-katong-chicken-rice-soki-wu/). So when I found myself in Katong Shopping Centre for an unrelated errand, I decided to give the chicken rice a go. First of all it wasn't super easy to find, navigating weirdly placed escalators, the basement eatery is at the far end of the shopping centre its — the haig rd end.
 
