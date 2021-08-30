@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - hainanese
 image: assets/images/katong-chicken-rice-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2021-08-24 12:22 +0800
