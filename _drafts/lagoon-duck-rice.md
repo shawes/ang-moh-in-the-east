@@ -4,7 +4,7 @@ title: Duck rice
 hawker: Lagoon duck
 categories: 
     - rice
-    - lagoon
+    - east coast
     - hawker centre
     - teochew
 image: assets/images/lagoon-duck-rice-1.jpg
