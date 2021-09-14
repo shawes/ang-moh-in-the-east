@@ -2,16 +2,17 @@
 layout: post
 title: Mee goreng merah
 hawker: A.L Yursa
-categories: 
-    - noodles
-    - east coast
-    - hawker centre
-    - halal
+categories:
+- noodles
+- east coast
+- hawker centre
+- halal
 image: assets/images/lagoon-mee-goreng-1.jpg
 featured: true
-hidden: false
+hidden: true
 rating: 4.75
 author: steve
+date: 2021-09-14 15:02 +0800
 ---
 After a mid-morning stroll through east coast park, I arrived at lagoon hawker centre at midday, on a weekday I must add. The options are severely limited. Not even 10% of the stalls seem to be open. Mind you there is no crowd either, so you can't blame them. Chicken and egg scenario.
 

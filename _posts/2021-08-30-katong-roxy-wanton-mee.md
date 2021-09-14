@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - cantonese
 image: assets/images/katong-roxy-wanton-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2021-08-30 11:36 +0800
