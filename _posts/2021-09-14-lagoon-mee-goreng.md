@@ -8,8 +8,8 @@ categories:
 - hawker centre
 - halal
 image: assets/images/lagoon-mee-goreng-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.75
 author: steve
 date: 2021-09-14 15:02 +0800
