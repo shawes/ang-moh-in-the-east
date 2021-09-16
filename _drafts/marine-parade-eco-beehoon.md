@@ -25,6 +25,7 @@ Mee cooked with bean sprouts . Lots of black sauce
 
 Chili sauce nice and earthly. Slightly acidic . Malty. 
 
+I felt a little quesy after eating it due to all the oil. The flavour was there though. 
 
 **Price:** $3.30  
 
