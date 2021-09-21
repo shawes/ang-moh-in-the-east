@@ -8,7 +8,7 @@ categories:
 - hawker centre
 - teochew
 image: assets/images/lagoon-duck-rice-1.jpg
-featured: true
+featured: false
 hidden: false
 rating: 3.5
 author: steve
