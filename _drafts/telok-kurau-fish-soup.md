@@ -1,24 +1,22 @@
 ---
 layout: post
-title: Assorted kueh
-hawker: Yong's teochew kueh
+title: Fried fish beehoon soup
+hawker: 
 categories: 
-    - kueh
-    - katong
-    - teochew
-    - snack
-image: assets/images/katong-teochew-kueh.jpg
+    - rice / noodles / seafood
+    - location
+    - kopitiam / hawker centre / bar
+image: assets/images/template.jpg
 featured: false
 hidden: true
-rating: 5
+rating: 0
 author: steve
 ---
 
 
-
 **Price:** $X.XX  
 
-**Coffee shop:** The food emporium
+**Hawker centre / Coffee shop:** The food emporium
 **Address:** XXX Smith St, Smithsville  
 **Hours:** XXam - XXpm (closed xx)  
 
