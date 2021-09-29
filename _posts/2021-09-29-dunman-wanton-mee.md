@@ -1,17 +1,18 @@
 ---
 layout: post
 title: Wanton mee
-hawker: Dunman road char siew wan ton mee 
-categories: 
-    - noodles
-    - joo chiat
-    - hawker centre
-    - cantonese
+hawker: Dunman road char siew wan ton mee
+categories:
+- noodles
+- joo chiat
+- hawker centre
+- cantonese
 image: assets/images/dunman-wanton-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
+date: 2021-09-29 15:12 +0800
 ---
 Sitting at dunman food centre gives the impression you are in a war zone. Metres and metres of orange mesh fencing is strewn across the tables and chairs. An orange camouflage against covid-19. Not exactly a pleasant experience any more — makes you want to eat fast and get out.
 
