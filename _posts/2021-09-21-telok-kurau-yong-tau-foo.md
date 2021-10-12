@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - hakka
 image: assets/images/telok-kurau-yong-tau-foo-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 author: steve
 date: 2021-09-21 16:04 +0800

@@ -2,16 +2,17 @@
 layout: post
 title: Laksa
 hawker: Janggut laksa
-categories: 
-    - noodles
-    - katong
-    - kopitiam
-    - nonya
+categories:
+- noodles
+- katong
+- kopitiam
+- nonya
 image: assets/images/katong-roxy-laksa-1.jpg
 featured: true
 hidden: true
 rating: 5
 author: steve
+date: 2021-10-12 14:14 +0800
 ---
 There have been many words written on the laksa wars of katong ([here](https://www.straitstimes.com/singapore/5-famous-singapore-food-feuds-0), [here](https://live2makan.com/2018/09/17/the-laksa-war/), and my favourite [here](https://johorkaki.blogspot.com/2020/01/a-history-of-singapore-katong-laksa.html)). I am fascinated by the history of the hawkers and their stories. I have previously reviewed one of the roxy [laksa]({% post_url 2021-04-03-changi-rd-katong-laksa %})
 
