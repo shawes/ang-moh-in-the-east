@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - nonya
 image: assets/images/katong-roxy-laksa-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2021-10-12 14:14 +0800
