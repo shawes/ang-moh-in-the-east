@@ -23,7 +23,9 @@ Let's start with the highlight of this dish, the side soup. Yes, I know what thi
 
 The hor fun itself was not mind-blowing. It came with the same masterchef style plating as the roxy square stall. The noodles were doing all the heavy lifting. So slippery and slurpable I could barely raise them to my mouth, repeatedly dropping back into the plate and splashing the sauce all over my shirt. These are great noodles, lavishly covering themselves in the sweet sauce of the dish. Not a dish to eat when you are on a date or with work colleagues.
 
-The best thing I can say about the shredded chicken is that the portion size was generous. Other than that, it suffered the bland dryness that most chicken breast, unless cooked perfectly, suffers from. It was not enjoyable to chew. I had to make sure I had some of the noodles in my mouth at the same time.
+The best thing I can say about the shredded chicken is that the portion size was generous. Other than that, it suffered the bland dryness that most chicken breast, unless cooked perfectly, suffers from. It was not enjoyable to chew. I had to make sure I had some of the noodles in my mouth at the same time. The vegetables seemed almost like an afterthought, blanched to within an inch of their life and just plated on top of the rest.
+
+Maybe I'll stick to ordering the wanton mee.
 
 I washed the meal down with a Fuller's london pride ($10 on tap), the perfect lunchtime ale with a slight bitterness and only 4% alcohol. A beer I have only seen once on tap before in Singapore, in a pub that has long since closed. I applaud the efforts of the coffee shop in offering some variety. The choice of tiger or carlsberg loses its novelty after a while.
 
