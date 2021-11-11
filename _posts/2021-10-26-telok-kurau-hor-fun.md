@@ -9,8 +9,8 @@ categories:
 - cantonese
 - craft beer
 image: assets/images/telok-kurau-hor-fun-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2021-10-26 14:40 +0800
