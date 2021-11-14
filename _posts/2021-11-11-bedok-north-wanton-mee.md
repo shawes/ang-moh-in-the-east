@@ -8,8 +8,8 @@ categories:
     - hawker centre
     - cantonese
 image: assets/images/bedok-north-wanton-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2021-11-11 16:00 +0800
