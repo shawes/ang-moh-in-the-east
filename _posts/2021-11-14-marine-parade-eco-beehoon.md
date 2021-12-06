@@ -7,8 +7,8 @@ categories:
 - marine parade
 - hawker centre
 image: assets/images/marine-parade-eco-beehoon-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2021-11-14 18:45 +0800
