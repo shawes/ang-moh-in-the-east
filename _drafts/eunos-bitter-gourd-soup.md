@@ -9,7 +9,7 @@ categories:
     - teochew
 image: assets/images/eunos-bitter-gourd-soup-1.jpg
 featured: false
-hidden: true
+hidden: false
 rating: 5
 author: steve
 ---

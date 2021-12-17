@@ -6,9 +6,9 @@ categories:
     - noodles
     - geylang
     - kopitiam
-image: assets/images/geylang-chilli-ban-mee-1.jpg
+image: assets/images/geylang-kl-ban-mee-1.jpg
 featured: false
-hidden: true
+hidden: false
 rating: 5
 author: steve
 ---
@@ -22,7 +22,7 @@ Fried garlic. Super fine minced pork.
 
 Levels of chilli to choose from (1 to 5). 
 
-![Thick noodles](/assets/images/geylang-chilli-ban-mee-2.jpg "Thick noodles")
+![Thick noodles](/assets/images/geylang-kl-ban-mee-2.jpg "Thick noodles")
 
 **Price:** $X.XX  
 
@@ -32,4 +32,4 @@ Levels of chilli to choose from (1 to 5).
 
 ***  
 
-![Alt text](/assets/images/geylang-chilli-ban-mee-3.jpg "description text")
+![Alt text](/assets/images/geylang-kl-ban-mee-3.jpg "description text")

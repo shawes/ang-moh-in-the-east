@@ -6,10 +6,10 @@ categories:
     - rice
     - marine terrace
     - hawker centre
-    - indonesian
+    - javanese
 image: assets/images/marine-terrace-ayam-penyet-1.jpg
 featured: false
-hidden: true
+hidden: false
 rating: 3
 author: steve
 ---
@@ -21,13 +21,18 @@ Rice a little gluggy
 Chicken was good but a bit bland . Chicken was moist though
 soup was too oily
 
+![Cucumber](/assets/images/marine-terrace-ayam-penyet-2.jpg "Cucumber")
 
-**Price:** $X.XX  
+![Oily soup](/assets/images/marine-terrace-ayam-penyet-3.jpg "Oily soup")
 
-**Hawker centre / Coffee shop:** The food emporium
+
+**Price:** $5.00  
+
+**Hawker centre:** The food emporium  
 **Address:** XXX Smith St, Smithsville  
 **Hours:** XXam - XXpm (closed xx)  
 
 ***  
 
-![Alt text](/assets/images/image.jpg "description text")
+
+![Warung 786 ipu](/assets/images/marine-terrace-ayam-penyet-4.jpg "Warung 786 ipu")

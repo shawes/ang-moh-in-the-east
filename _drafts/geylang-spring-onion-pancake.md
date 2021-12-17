@@ -9,8 +9,8 @@ categories:
     - taiwanese
 image: assets/images/geylang-spring-onion-pancake-1.jpg
 featured: false
-hidden: true
-rating: 0
+hidden: false
+rating: 2
 author: steve
 ---
 
@@ -24,7 +24,7 @@ Crispy at the edges
 
 Soya milk is ok . Not amazing. Not too sweet and order cold comes with no ice. I also hate the plastic mugs. 
 
-![Soya milk](/assets/images/geylang-shallot-pancake-2.jpg "Soya milk")
+![Soya milk](/assets/images/geylang-spring-onion-pancake-2.jpg "Soya milk")
 
 
 
