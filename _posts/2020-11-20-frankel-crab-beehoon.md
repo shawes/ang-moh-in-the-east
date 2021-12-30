@@ -13,7 +13,7 @@ author: steve
 date: 2020-11-20 10:26 +0800
 ---
 
-**UPDATE:** Sadly I cannot keep to this past good review anymore, after repeat visits the quality has gone downhill, from the food quality, to the service, to the fact they serve lukewarm beers. Everything seems to have dropped in standard. There's so many zi char options around, it confuses me how they expect to stay in business.
+**UPDATE:** Sadly I cannot keep to this past good review anymore, after repeat visits the quality has gone downhill, from the food quality, to the service, to the fact they serve lukewarm beers. Everything seems to have dropped in standard. There's so many zi char options around, it confuses me how they expect to stay in business. The *little* makes more sense now.
 
 Another new addition to the refurbished coffee shop @ Frankel Avenue is *"Fresh Little Meat"* zi char and they currently have an opening special of $38 for **crab bee hoon** that caught my eye. It doesn't get much better than crab for a good meal and its hard to find it this price these days. Recently at a [city restaurant](https://www.holycrab.sg) I got big case of bill shock as two crabs (admittedly Sri Lankan and they were large) came to over $300?! I just want to eat the crab, not frame them and put them on the wall. Egalitarian seafood is where it is at, everyone should be able to afford crab in a perfect world.
 
