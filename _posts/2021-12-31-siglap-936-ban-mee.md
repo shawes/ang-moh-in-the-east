@@ -2,18 +2,18 @@
 layout: post
 title: Ban mee
 hawker: King of ban mee
-categories: 
-    - noodles
-    - siglap
-    - kopitiam
-    - hokkien
+categories:
+- noodles
+- siglap
+- kopitiam
+- hokkien
 image: assets/images/siglap-936-ban-mee-1.jpg
 featured: true
-hidden: false
+hidden: true
 rating: 4.5
 author: steve
+date: 2021-12-31 14:21 +0800
 ---
-
 First of all going into the coffee shop at 4pm for lunch leaves you little options, you take what you can get from whatever stall is open. Today that stall was "King of Ban Mee".
 
 First impressions weren't good. The soup was scalding hot, I burnt the tip of my tongue before I almost dropped the spoon back into the bowl. The spoon was another bugbear of mine, some decent chopsticks accompanied by a disposable plastic spoon. IS IT SO HARD TO NOT HAVE DISPOSABLE CUTLERY?!

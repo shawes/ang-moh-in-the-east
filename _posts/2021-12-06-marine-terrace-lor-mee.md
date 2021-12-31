@@ -8,7 +8,7 @@ categories:
 - hawker centre
 - hokkien
 image: assets/images/marine-terrace-lor-mee-1.jpg
-featured: true
+featured: false
 hidden: false
 rating: 4.5
 author: steve
