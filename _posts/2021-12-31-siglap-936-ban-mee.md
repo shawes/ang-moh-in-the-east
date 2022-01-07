@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - hokkien
 image: assets/images/siglap-936-ban-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 author: steve
 date: 2021-12-31 14:21 +0800

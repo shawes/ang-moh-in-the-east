@@ -2,17 +2,19 @@
 layout: post
 title: Soto ayam
 hawker: Inspirasi
-categories: 
-    - rice
-    - bedok
-    - hawker centre
+categories:
+- rice
+- bedok
+- hawker centre
+- halal
+- malay
 image: assets/images/bedok-central-soto-ayam-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 5
 author: steve
+date: 2022-01-07 09:36 +0800
 ---
-
 On this rainy, overcast January day I found myself in Bedok MRT (undertaking a carousell exchange). Rainy days tend to elicit thoughts of something warm and soupy. Walking into the fenced off for COVID, Bedok Interchange hawker centre, the sign of Inspirasi immediately caught my eye. Specifically, the $2.50 price tag as advertised for the soto ayam. How could I resist? I promptly walked up and ordered a bowl, adding a begedil on the side. You can tell this hawker stall is a well oiled machine, everyone has defined roles and the service is amazingly prompt. As I took my bowl I turned around and suddenly there were 20 people queuing behind me for Insprasi's fare. I did not realise how popular this stall was, I must have lucked out with my timing. However, the pace of service at Inspirasi means queueing must not be too much of an issue.
 
 ![Begedil](/assets/images/bedok-central-soto-ayam-2.jpg "Begedil")
