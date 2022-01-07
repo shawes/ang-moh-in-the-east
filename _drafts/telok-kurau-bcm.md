@@ -22,7 +22,7 @@ A bak chor mee that's worth eating without a queue.
 **Price:** $3.50  
 
 **Coffee shop:** Kim San Leng @ Changi  
-**Address:** 324 Changi Rd, Singapore 419799 
+**Address:** 324 Changi Rd, Singapore 419799  
 **Hours:** 9am - 8pm  
 
 ***  
