@@ -13,21 +13,19 @@ rating: 5
 author: steve
 ---
 
-It was a rainy day and I found myself in Bedok (doing a carousell exchange). I felt like something soupy and as I walked into the Bedok Interchange hawker centre Inspirasi caught my eye. Specifically, the $2.50 price for soto ayam. How could I resist trying? I walked up and ordered a bowl and added a begedil, which was served in haste. I glanced back behind me and I took my bowl and suddenly there were 20 people queuing. I did not realise how popular this stall was, I just lucked out today I suppose.
-
-The first thing I ate was the begedil. I cannot resist these little fried pockets of spiced potato and this one didn't let me down. So good.
+On this rainy, overcast January day I found myself in Bedok MRT (undertaking a carousell exchange). Rainy days tend to elicit thoughts of something warm and soupy. Walking into the fenced off for COVID, Bedok Interchange hawker centre, the sign of Inspirasi immediately caught my eye. Specifically, the $2.50 price tag as advertised for the soto ayam. How could I resist? I promptly walked up and ordered a bowl, adding a begedil on the side. You can tell this hawker stall is a well oiled machine, everyone has defined roles and the service is amazingly prompt. As I took my bowl I turned around and suddenly there were 20 people queuing behind me for Insprasi's fare. I did not realise how popular this stall was, I must have lucked out with my timing. However, the pace of service at Inspirasi means queueing must not be too much of an issue.
 
 ![Begedil](/assets/images/bedok-central-soto-ayam-2.jpg "Begedil")
 
-The soup itself is delicious. Not too oily, not too salty, not too grainy, just a moreish chicken and tumeric flavour.
+The first thing I ate was the begedil, a little entree for the main course. I cannot resist buying these little fried pockets of spiced potato when I see them. And this begedil didn't let me down. So good. When I order with soto ayam, I prefer to let it soak in the soup for a while and absorb the extra flavours. The soup itself is delicious, the foundations of the dish. Not too oily, not too salty, not too grainy, just a moreish chicken and tumeric flavour. Satisfying rainy day food.
 
 ![Rice cakes](/assets/images/bedok-central-soto-ayam-3.jpg "Rice cakes")
 
-The rice cakes taste so fresh, almost creamy in texture, and they feel lower in calories than noodles, even if that's not the case. Mind over matter. The chicken is tender, melting in your mouth, even if there is not a lot of it. The beansprouts are crunchy, which is how I prefer them to be, adding texture to the dish.
-
-The bowl was so good I finished all of the soup. Definitely a stall worth checking out for some great malay food.
+The rice cakes (I'm not sure if they are called ketupat, lontong, or nasi impit) taste so fresh, almost creamy in texture. There's also an added bonus in that the rice cakes feel lower in calories than noodles, even if that's not the case. Mind over matter. The chicken is the soup tender, melting off the bone and in your mouth. The bean sprouts are crunchy, which is how I prefer them to be, adding texture to the dish.
 
 ![Empty bowl](/assets/images/bedok-central-soto-ayam-4.jpg "Empty bowl")
+
+The soto ayam was so good I left a clean bowl behind. Definitely a stall worth checking out for some great malay food.
 
 **Price:** $2.50 (+ 50c for begedil)
 
