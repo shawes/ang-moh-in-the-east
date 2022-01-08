@@ -9,8 +9,8 @@ categories:
 - halal
 - malay
 image: assets/images/bedok-central-soto-ayam-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2022-01-07 09:36 +0800

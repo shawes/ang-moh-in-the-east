@@ -2,16 +2,17 @@
 layout: post
 title: Nasi lemak
 hawker: Madas nasi lemak
-categories: 
-    - rice
-    - siglap
-    - kopitiam
-    - halal
+categories:
+- rice
+- siglap
+- kopitiam
+- halal
 image: assets/images/siglap-canal-nasi-lemak-1.jpg
 featured: true
 hidden: true
 rating: 3.5
 author: steve
+date: 2022-01-08 10:47 +0800
 ---
 Nasi lemak is possibly my favourite local breakfast, tied with soft boiled eggs and kaya toast. There is something about the combination of flavours and texture of nasi lemak that makes it so great. Salty, sweet, crunchy, chewy. The dish also feels light (not much sauce and a cucumber?) that makes it a feel good way to start the day. One stipulation of breakfast food is that it needs to be close to home, you don't want to travel too far for that first meal. Sadly, there are limited options for nasi lemak around me. 
 
