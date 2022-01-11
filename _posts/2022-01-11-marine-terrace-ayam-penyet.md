@@ -2,16 +2,18 @@
 layout: post
 title: Ayam penyet
 hawker: Warung 786 ibu
-categories: 
-    - rice
-    - marine terrace
-    - hawker centre
-    - javanese
+categories:
+- rice
+- marine terrace
+- hawker centre
+- javanese
+- halal
 image: assets/images/marine-terrace-ayam-penyet-1.jpg
 featured: false
 hidden: false
 rating: 2
 author: steve
+date: 2022-01-11 12:33 +0800
 ---
 Ayam penyet is not your everyday meal, the calorie count must be outrageous. So when you do decide to eat it, it must be good. Why waste precious calories on sub-standard food?? With this in mind, I decided to treat myself to some ayam penyet down at Warung 786 Ibu. Sadly, this was not the penyet I desired.
 
