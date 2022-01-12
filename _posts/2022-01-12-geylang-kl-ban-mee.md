@@ -2,21 +2,21 @@
 layout: post
 title: Chilli ban mee
 hawker: KL traditional chilli ban mee
-categories: 
-    - noodles
-    - geylang
-    - kopitiam
-    - hokkien
+categories:
+- noodles
+- geylang
+- kopitiam
+- hokkien
 image: assets/images/geylang-kl-ban-mee-1.jpg
-featured: true
+featured: false
 hidden: false
 rating: 5
 author: steve
+date: 2022-01-12 19:08 +0800
 ---
-
 I noticed this stall tucked away in the corner of a coffee shop as I was headed towards the [SSVP shop](https://ssvpsingapore.org/ssvp-shop/) on geylang rd for some thrift shopping. I am assuming the KL traditional chilli ban mee stands for 'Kuala Lumpur', but with the comic sans font it is hard to assume anything. I have only eaten ban mee in KL once from a roadside stall and all I can really remember was that it was spicy. This stall lets you choose your own spice levels, from 1-5, so perhaps it is authentic?? I ordered the signature chilli ban mee with spice level 3.
 
-The bowl of ban mee is served with a runny yolked poached egg, just how I like it. I mix the runny yolk goodness in with all the noodles. The noodles are amazing. Thick and chewy, similar to udon noodles, with a really satisfying mouthfeel as you masticate. The pork balls feel home-made, or at least boutique factory made, with a nice meaty texture and well balanced flavour. The dish is topped off with fried garlic and probably the finest minced prok I have ever seen. What's not too like?
+The bowl of ban mee is served with a runny yolk poached egg, just how I like it. I mix the runny yolk goodness in with all the noodles. The noodles are amazing. Thick and chewy, similar to udon noodles, with a really satisfying mouthfeel as you masticate. The pork balls feel home-made, or at least boutique factory made, with a nice meaty texture and well balanced flavour. The dish is topped off with fried garlic and probably the finest minced pork I have ever seen. What's not too like?
 
 ![Thick chewy noodles](/assets/images/geylang-kl-ban-mee-2.jpg "Thick chewy noodles")
 
