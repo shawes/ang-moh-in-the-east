@@ -2,16 +2,17 @@
 layout: post
 title: Bak chor mee
 hawker: Hua kee noodles
-categories: 
-    - noodles
-    - telok kurau
-    - kopitiam
-    - hokkien
+categories:
+- noodles
+- telok kurau
+- kopitiam
+- hokkien
 image: assets/images/telok-kurau-bcm-1.jpg
 featured: false
 hidden: false
 rating: 3.5
 author: steve
+date: 2022-01-13 10:22 +0800
 ---
 There is nothing special about this bak chor mee, it is just a good old honest meal. The epitome of comfort food. Everything is done well.
 
