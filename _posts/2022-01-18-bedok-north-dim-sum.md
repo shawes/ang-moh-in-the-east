@@ -20,11 +20,11 @@ When I saw this shop, I was not expecting much, after all to make profits on $1.
 
 ![$1.30 dim sum options](/assets/images/bedok-north-dim-sum-4.jpg "$1.30 dim sum options")
 
-I started with the siu mai. Now I was impressed. The wrapper was still firm and not soggy. Has a nice bite to it. The pork mince was sweet, with a nice blended texture, no chunks. The small pieces of shiitake mushroom added balance with savory flavours.
+I started with the siu mai. Now I was impressed. The wrapper was still firm and not soggy. Has a nice bite to it. The pork mince was sweet, with a nice blended texture, no chunks. The small pieces of shiitake mushroom added balance with savoury flavours. The saltiness of the roe on top was the figurative icing on the cake.
 
 The har gow was decent. The prawns were thick and meaty and more importantly not overcooked. The wrapper was the let down, thin and sticky. It has dried out too much and was hard to peel off the paper liner of the basket. Still, I'd prefer that to a thick gluggy wrapper any day of the week.
 
-![Siew mai and har gow](/assets/images/bedok-north-dim-sum-6.jpg "Siew mai and har gow")
+![Siew mai and har gow](/assets/images/bedok-north-dim-sum-6.jpg "Siu mai and har gow")
 
 Amazing value dim sum at a price that cannot be beaten! Sure you can go get better ones for $6. I've also paid a lot more for worse. I'll be back, especially since I now know its 24 hours. Perfect supper.
 
