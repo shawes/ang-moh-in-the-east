@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - halal
 image: assets/images/siglap-canal-nasi-lemak-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2022-01-08 10:47 +0800
