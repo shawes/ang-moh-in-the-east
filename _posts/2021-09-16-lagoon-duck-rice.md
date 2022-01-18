@@ -4,7 +4,7 @@ title: Duck rice
 hawker: Zou ji duck rice
 categories:
 - rice
-- east coast
+- east coast lagoon
 - hawker centre
 - teochew
 image: assets/images/lagoon-duck-rice-1.jpg

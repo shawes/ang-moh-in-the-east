@@ -4,7 +4,7 @@ title: Thai beef hor fun
 hawker: Siam thai kitchen
 categories:
 - noodles
-- east coast
+- east coast lagoon
 - hawker centre
 - thai
 image: assets/images/lagoon-thai-beef-hor-fun-1.jpg

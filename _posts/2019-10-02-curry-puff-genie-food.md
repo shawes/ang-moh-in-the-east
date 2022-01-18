@@ -2,8 +2,7 @@
 layout: post
 title: "Curry puff @ Genie foods"
 categories:
-- snack
-- dakota
+- old airport
 - hawker centre
 image: assets/images/genie-curry-puff-1.jpg
 featured: false

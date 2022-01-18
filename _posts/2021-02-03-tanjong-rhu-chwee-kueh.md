@@ -3,7 +3,7 @@ layout: post
 title: Chwee kueh @ Ah mah chwee kueh
 categories:
 - rice
-- hawker
+- hawker centre
 - tanjong rhu
 image: assets/images/tanjong-rhu-chwee-kueh-1.jpg
 featured: false

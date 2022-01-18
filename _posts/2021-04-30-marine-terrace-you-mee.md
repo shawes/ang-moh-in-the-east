@@ -3,8 +3,8 @@ layout: post
 title: You mee dry @ Le le handmade noodle
 categories:
 - noodles
-- marine terrace
-- hawker
+- marine parade
+- hawker centre
 - hokkien
 image: assets/images/marine-terrace-you-mian-1.jpg
 featured: false

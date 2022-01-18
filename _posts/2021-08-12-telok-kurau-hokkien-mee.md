@@ -6,7 +6,7 @@ categories:
 - noodles
 - telok kurau
 - kopitiam
-- beer
+- craft beer
 image: assets/images/telok-kurau-hokkien-mee-1.jpg
 featured: false
 hidden: false

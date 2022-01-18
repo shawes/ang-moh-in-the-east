@@ -3,8 +3,7 @@ layout: post
 title: Wanton soup
 hawker: Good taste wanton mee
 categories:
-- soup
-- bedok north
+- bedok
 - kopitiam
 - cantonese
 image: assets/images/bedok-north-wanton-soup-1.jpg

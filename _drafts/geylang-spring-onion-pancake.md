@@ -3,7 +3,6 @@ layout: post
 title: Spring onion pancake
 hawker: Yong he eating house
 categories: 
-    - bread
     - geylang
     - kopitiam
     - taiwanese

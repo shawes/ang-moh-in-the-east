@@ -3,8 +3,7 @@ layout: post
 title: Sliced fish soup @ Seng hoe fish ball minced meat noodle
 categories:
 - hawker centre
-- seafood
-- marine terrace
+- marine parade
 - teochew
 image: assets/images/fish-soup-marine-terrace-1.jpg
 featured: false

@@ -2,7 +2,6 @@
 layout: post
 title: Tau kwa pau @ Say seng famous tau kwa pau
 categories:
-- tofu
 - joo chiat
 - hawker centre
 - teochew

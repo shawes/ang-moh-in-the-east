@@ -4,7 +4,7 @@ title: Lor mee
 hawker: Lu jia (by xing long)
 categories:
 - noodles
-- marine terrace
+- marine parade
 - hawker centre
 - hokkien
 image: assets/images/marine-terrace-lor-mee-1.jpg

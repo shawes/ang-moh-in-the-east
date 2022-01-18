@@ -3,7 +3,7 @@ layout: post
 title: Fishball noodles @ White rabbit fishball noodles
 categories:
 - noodles
-- bedok south
+- bedok
 - kopitiam
 - teochew
 image: assets/images/bedok-south-fishball-noodle-1.jpg

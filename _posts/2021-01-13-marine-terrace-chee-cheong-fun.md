@@ -3,7 +3,7 @@ layout: post
 title: Chee cheong fun @ Yong huat delight
 categories:
 - noodles
-- marine terrace
+- marine parade
 - hawker centre
 - cantonese
 image: assets/images/marine-terrace-chee-cheong-fun-1.jpg

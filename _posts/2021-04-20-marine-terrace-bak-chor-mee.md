@@ -4,7 +4,7 @@ title: Bak chor mee
 hawker: Seng hoe fish ball minced meat noodle
 categories:
 - noodles
-- marine terrace
+- marine parade
 - hawker centre
 - teochew
 image: assets/images/marine-terrace-bak-chor-mee-1.jpg

@@ -3,7 +3,7 @@ layout: post
 title: Tom yum goong @ I rak thai food
 categories:
 - seafood
-- bedok south
+- bedok
 - kopitiam
 - thai
 image: assets/images/bedok-south-thai-tom-yum-1.jpg

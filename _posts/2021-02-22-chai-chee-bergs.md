@@ -2,7 +2,6 @@
 layout: post
 title: Cheeseburger @ Burg's by project warung
 categories:
-- bread
 - chai chee
 - western
 image: assets/images/chai-chee-burgs-1.jpg

@@ -4,7 +4,7 @@ title: Wanton mee @ Hua kee hougang famous wan ton mee
 categories:
 - hawker centre
 - noodles
-- dakota
+- old airport
 - cantonese
 image: assets/images/old-airport-rd-wanton-mee-1.jpg
 featured: false

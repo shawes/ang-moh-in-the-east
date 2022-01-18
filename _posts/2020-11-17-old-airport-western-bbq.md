@@ -3,7 +3,7 @@ layout: post
 title: Mixed grill @ Western Barbeque
 categories:
 - western
-- dakota
+- old airport
 - hawker centre
 image: assets/images/old-airport-western-bbq-1.jpg
 featured: false

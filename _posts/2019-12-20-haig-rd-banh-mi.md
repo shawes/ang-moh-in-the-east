@@ -2,7 +2,6 @@
 layout: post
 title: Banh mi @ Kim phung
 categories:
-- bread
 - hawker centre
 - geylang
 - vietnamese

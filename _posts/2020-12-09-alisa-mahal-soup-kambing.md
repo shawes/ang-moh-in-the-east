@@ -4,7 +4,6 @@ title: Sup kambing @ Alisa mahal
 categories:
 - kopitiam
 - marine parade
-- soup
 - halal
 image: assets/images/alisa-mahal-sup-kambing-1.jpg
 featured: false

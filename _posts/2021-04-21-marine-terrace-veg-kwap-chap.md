@@ -4,7 +4,7 @@ title: Kway chap
 hawker: Miao shung vegetarian
 categories:
 - noodles
-- location
+- marine parade
 - hawker centre
 - vegetarian
 image: assets/images/marine-terrace-veg-kway-chap-1.jpg

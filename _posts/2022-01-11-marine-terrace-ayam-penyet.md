@@ -4,7 +4,7 @@ title: Ayam penyet
 hawker: Warung 786 ibu
 categories:
 - rice
-- marine terrace
+- marine parade
 - hawker centre
 - javanese
 - halal

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Craft beer and cider @ Yi fa hot and cold drinks"
-categories: [ craft beer , east coast, hawker centre ]
+categories: [ east coast lagoon, hawker centre, craft beer ]
 image: assets/images/craft-beer-collage.jpg
 featured: false
 hidden: false

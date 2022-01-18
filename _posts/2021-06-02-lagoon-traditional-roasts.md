@@ -4,7 +4,7 @@ title: Roasted duck rice
 hawker: Siang yuen traditional roasts
 categories:
 - rice
-- east coast
+- east coast lagoon
 - hawker centre
 - cantonese
 image: assets/images/lagoon-traditional-roasts-1.jpg

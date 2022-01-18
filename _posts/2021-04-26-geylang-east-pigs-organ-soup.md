@@ -3,8 +3,7 @@ layout: post
 title: Pig's organ soup
 hawker: Aik kee haslet soup
 categories:
-- soup
-- geylang east
+- geylang
 - hawker centre
 - teochew
 image: assets/images/geylang-east-haslet-soup-1.jpg

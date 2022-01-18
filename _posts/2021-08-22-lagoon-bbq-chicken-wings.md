@@ -3,8 +3,7 @@ layout: post
 title: BBQ chicken wings
 hawker: Ah hwee bbq chicken wings
 categories:
-- bbq
-- lagoon
+- east coast lagoon
 - hawker centre
 image: assets/images/lagoon-bbq-chicken-wings-1.jpg
 featured: false

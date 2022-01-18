@@ -4,7 +4,7 @@ title: Mee goreng merah
 hawker: A.L Yursa
 categories:
 - noodles
-- east coast
+- east coast lagoon
 - hawker centre
 - halal
 image: assets/images/lagoon-mee-goreng-1.jpg

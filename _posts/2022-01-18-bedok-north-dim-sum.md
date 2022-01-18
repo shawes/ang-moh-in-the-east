@@ -3,8 +3,7 @@ layout: post
 title: Dim sum
 hawker: "$1.30 dim sum"
 categories:
-- dim sum
-- bedok north
+- bedok
 - kopitiam
 - cantonese
 image: assets/images/bedok-north-dim-sum-1.jpg

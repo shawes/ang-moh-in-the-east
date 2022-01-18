@@ -6,7 +6,7 @@ categories:
 - noodles
 - katong
 - kopitiam
-- nonya
+- peranakan
 image: assets/images/katong-roxy-laksa-1.jpg
 featured: false
 hidden: false

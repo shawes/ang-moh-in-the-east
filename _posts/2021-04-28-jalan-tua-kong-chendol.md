@@ -5,7 +5,7 @@ categories:
 - dessert
 - siglap
 - kopitiam
-- nonya
+- peranakan
 image: assets/images/jalan-tua-kong-chendol-1.jpg
 featured: false
 hidden: false

@@ -4,7 +4,7 @@ title: Red ruby
 hawker: Peanut ice kachang
 categories:
 - dessert
-- geylang east
+- geylang
 - hawker centre
 - thai
 image: assets/images/geylang-east-red-ruby-1.jpg

@@ -4,7 +4,7 @@ title: Wanton mee
 hawker: Ah kiat wanton mee
 categories: 
     - noodles
-    - bedok north
+    - bedok
     - hawker centre
     - cantonese
 image: assets/images/bedok-north-wanton-mee-1.jpg

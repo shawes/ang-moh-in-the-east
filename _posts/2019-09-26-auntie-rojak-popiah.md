@@ -2,7 +2,7 @@
 layout: post
 title: "Popiah @ Auntie rojak"
 categories:
-- popiah
+- hokkien
 - siglap
 - kopitiam
 image: assets/images/popiah-1.jpg

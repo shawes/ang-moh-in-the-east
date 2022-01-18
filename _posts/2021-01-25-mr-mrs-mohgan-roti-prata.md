@@ -2,7 +2,6 @@
 layout: post
 title: Roti prata @ Mr & mrs mohgan crispy prata
 categories:
-- bread
 - joo chiat
 - kopitiam
 - indian

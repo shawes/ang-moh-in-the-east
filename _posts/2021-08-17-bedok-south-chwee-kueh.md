@@ -4,7 +4,7 @@ title: Chwee kueh
 hawker: Xiang xiang chwee kueh
 categories:
 - rice
-- bedok south
+- bedok
 - hawker centre
 - teochew
 image: assets/images/bedok-south-chwee-kueh-1.jpg
