@@ -7,7 +7,7 @@ categories:
 - siglap
 - kopitiam
 - thai
-image: assets/images/siglap-canal-thai-wings-1.jpg
+image: assets/images/siglap-canal-thai-wings-closed.jpg
 featured: false
 hidden: false
 rating: 3.5

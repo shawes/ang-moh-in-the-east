@@ -6,7 +6,7 @@ categories:
 - siglap
 - kopitiam
 - thai
-image: assets/images/siglap-canal-thai-spaghetti-1.jpg
+image: assets/images/siglap-canal-thai-spaghetti-closed.jpg
 featured: false
 hidden: false
 rating: 4.5
