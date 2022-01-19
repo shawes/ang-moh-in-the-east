@@ -158,7 +158,7 @@ section.recent-posts {
 
 .listfeaturedtag h2.card-title,
 .listrecent h2.card-title {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     font-weight: 700;
     line-height: 1.25;
 }
@@ -166,7 +166,7 @@ section.recent-posts {
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
     color: rgba(0, 0, 0, .75);
-    font-size: 0.95rem;
+    font-size: 0.85rem;
     line-height: 1.6;
     font-weight: 400;
 }
@@ -362,7 +362,7 @@ span.post-read-more a:hover {
 
 .article-post {
     font-family: Merriweather;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
 }
