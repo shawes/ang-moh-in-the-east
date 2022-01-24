@@ -7,8 +7,8 @@ categories:
 - kopitiam
 - cantonese
 image: assets/images/bedok-north-dim-sum-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2022-01-18 15:20 +0800
