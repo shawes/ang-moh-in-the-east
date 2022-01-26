@@ -9,19 +9,20 @@ categories:
 image: assets/images/chai-chee-fishball-noodle-1.jpg
 featured: false
 hidden: false
+trending: true
 rating: 5
 author: steve
 date: 2020-12-09 18:19 +0800
 ---
-After my favourite [fishball noodles shop]({% post_url 2019-09-26-song-kee-fishball-noodles %}) moved to fairer pastures up north, I have been searching earnestly for a replacement and I think I have finally found it. Either I am looking in the wrong places, or its rare in Singapore you can find handmade **fishballs** served up by a hawker stall these days. But Teochew kway teow fishball noodle soup do exactly that. For this reason alone I am giving them 5 stars.
+After my favourite [fish ball noodles shop]({% post_url 2019-09-26-song-kee-fishball-noodles %}) moved to fairer pastures up north, I have been searching earnestly for a replacement and I think I have finally found it. Either I am looking in the wrong places, or its rare in Singapore you can find handmade fish balls served up by a hawker stall these days. But Teochew kway teow fishball noodle soup do exactly that. For this reason alone I am giving them 5 stars.
 
-![Handmade fishball](/assets/images/chai-chee-fishball-noodle-2.jpg "Handmade fishball")
+![Handmade fish ball](/assets/images/chai-chee-fishball-noodle-2.jpg "Handmade fish ball")
 
-IMHO, factory produced **fishballs** should be banished to the far ends of the earth. Good riddance to rubbery white balls, and welcome to these amazingly spring and bouncy white bundles of joy. When you bite into them, the burst of fish flavour is amazing. The tau pok with fish paste and the fishcakes were also shiok. The downside is that I was not particularly hungry today and hence only ordered the small bowl, depriving myself of ingredients. A mistake I won't be repeating. The only let down of the dish was the soup, perhaps it was the time of day but the soup was extremely salty. But hey, I didn't come for the side soup.
+IMHO, factory produced fish balls should be banished to the far ends of the earth. Good riddance to rubbery white balls, and welcome to these amazingly spring and bouncy white bundles of joy. When you bite into them, the burst of fish flavour is amazing. The tau pok with fish paste and the fishcakes were also shiok. The downside is that I was not particularly hungry today and hence only ordered the small bowl, depriving myself of ingredients. A mistake I won't be repeating. The only let down of the dish was the soup, perhaps it was the time of day but the soup was extremely salty. But hey, I didn't come for the side soup.
 
 ![Mee kia noodles](/assets/images/chai-chee-fishball-noodle.gif "Mee kia noodles")
 
-Are the **fishballs** as good as [Song Kee]({% post_url 2019-09-26-song-kee-fishball-noodles %})? No, Song Kee still reign supreme. But are they good enough to keep me coming back each week? Most def.
+Are the fish balls as good as [Song Kee]({% post_url 2019-09-26-song-kee-fishball-noodles %})? No, Song Kee still reign supreme. But are they good enough to keep me coming back each week? Most def.
 
 **Price:** $4.00  
 

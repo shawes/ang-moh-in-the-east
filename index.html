@@ -19,6 +19,21 @@ title: An ang moh in the east.
     </div>
 </section>
 
+<!-- Featured
+================================================== -->
+<section class="recent-posts">
+    <div class="section-title">
+        <h2><span>Trending posts</span></h2>
+    </div>
+    <div class="row listrecent">
+        {% for post in site.posts %} 
+            {% if post.trending == true %} 
+                {% include postbox.html %} 
+            {% endif %} 
+        {% endfor %}
+    </div>
+</section>
+
 
 <!-- Posts Index
 ================================================== -->
