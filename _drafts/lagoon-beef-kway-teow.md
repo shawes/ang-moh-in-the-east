@@ -14,7 +14,7 @@ rating: 4
 author: steve
 ---
 
-The appearance of the sign makes this look like a veteran hawker stall. 
+I was drawn by the appearance of the sign, making it look like a veteran hawker stall. Original design.
 
 You don't see beef served too much. The older generation don't seem to like the smell of beef and the younger generation seem to think steak is the be all and end all.
 
