@@ -34,10 +34,12 @@ There’s an umami on the soup I cannot place. A creaminess too. Maybe ground nu
 
 **Price:** $4.50  
 
-**Coffee shop:** The food emporium
-**Address:** XXX Smith St, Smithsville  
+**Coffee shop:** Thunderbolt Tea by Boon Ley Traditional Hakka Lui Cha  
+**Address:** 129 Geylang East Ave 2, Singapore 380129  
 **Hours:** 9am - 2pm  
 
 ***  
 
 ![Thunderbolt tea](/assets/images/geylang-lei-cha-2.jpg "Thunderbolt tea")
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.056751605669!2d103.8883371!3d1.3170984!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x76c3c92a2dd16188!2sThunderbolt%20Tea%20by%20Boon%20Lay%20Traditional%20Hakka%20Lui%20Cha!5e0!3m2!1sen!2ssg!4v1644227889477!5m2!1sen!2ssg" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

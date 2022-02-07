@@ -32,15 +32,16 @@ The star of the show is the broth.
 Shredded pickled veg.
 
 
-
 Very nice and clean. Rare for hawker food.
 
 **Price:** $5.00  
 
-**Hawker centre:** The food emporium
-**Address:** XXX Smith St, Smithsville  
-**Hours:** XXam - XXpm (closed xx)  
+**Hawker centre:** East Coast Lagoon Food Village  
+**Address:**  #01-33, 1220 ECP, Singapore 468960  
+**Hours:** 12pm – 10.30pm  
 
 ***  
 
 ![Lagoon leng kee beef kway teow](/assets/images/lagoon-beef-kway-teow-3.jpg "Lagoon leng kee beef kway teow")
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.121603893669!2d103.9349594!3d1.3069299!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6cfef20f595a57b0!2sEast%20Coast%20Lagoon%20Food%20Village!5e0!3m2!1sen!2ssg!4v1644228970370!5m2!1sen!2ssg" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

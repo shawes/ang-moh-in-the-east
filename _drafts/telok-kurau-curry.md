@@ -40,7 +40,7 @@ P.S. Be wary of the drinks stall. Feels like its highway robbery. I paid $1.70 f
 
 **Coffee shop:** Fu Fa Coffee Shop  
 **Address:** 110 Telok Kurau Rd, Singapore, 423799  
-**Hours:** XXam - XXpm (closed xx)  
+**Hours:** 11am - 8pm (closed mondays)
 
 ***  
 
