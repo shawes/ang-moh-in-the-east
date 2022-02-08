@@ -13,28 +13,21 @@ hidden: true
 rating: 4.5
 author: steve
 ---
-I had to go see a specialist at Parkway East. While I was waiting for my results I was getting hungry. Saw this coffee shop over the road. Not much open, nor many people.
+I had to go see a specialist at Parkway East (nothing serious) and while I was waiting for my results I was getting hangry. Walking out of the hospital, the first thing I saw was this coffee shop directly opposite. Although half the stalls were closed and there were no customers, it wasn't the most welcoming of places.
 
-Seems a lot of grab business. Even asked me to grabpay the meal.
+Of the two stalls that were open, one was Chaska. It seems they perhaps do more grab business than physical patronage, as two food delivery riders picked up orders while I was deciding what to eat. The hawker even asked me to GrabPay the meal, which I am into, less carrying cash the better imo.
 
 ![Chaska lunch options](/assets/images/telok-kurau-curry-3.jpg "Chaksa lunch options")
 
-Wasn't what I was expecting. I thought a stew was coming out.
+The menu options all appeared to be vegetarian. Not really knowing much about Indian cuisine outside of the generic northern indian served in Australia, I ordered the sambhar rice without actually knowing what I was getting. I think I was expecting a thick bowl of stew?
 
-Very good value for the money.
+What came out was a pleasant surprise. Anyway for $6, I got a decent set lunch meal, with two curries, some pickle, rice and poppadoms. The sambhar curry was bright orange and contained lentils, dominated by a sour flavour (tamarind?) and came with mixed vegetables. The curry was not really spicy and mixed with the rice well. All the spice seemed to have gone into the dry potato curry, now that had a kick. My highlight was the sour and salty mango pickle, I couldn't get enough of it. The only lowlight was the poppadoms, crispy on the outside but undercooked in the middle.
 
-Poppadoms were cripsy on the outside but chewy in the middle.
-
-Potato curry was delicious, if spicy. 
-
-Sour, salty, mango pickle was amazing. 
-
-Will definitely come back. 
-
-P.S. Be wary of the drinks stall. Feels like its highway robbery. I paid $1.70 for a coca-cola brand oolong tea, that was warm and came with a cup of ice?Another one of my pet peeves. Sure, a fridge is expensive, but a $1+ profit for all drinks, surely one can be afforded? 
+I will definitely come back here and try the other curries.
 
 ![Expensive oolong tea](/assets/images/telok-kurau-curry-4.jpg "Expensive oolong tea")
 
+P.S. The drinks stall has no fridge. Serves warm drinks with a cup of ice. So you have to drink diluted versions of the drink. I wouldn't mind if the drinks were cheap, but they charged me $1.70 for a coke branded oolong tea?! Seeing as I can buy them for about 0.60c per can online and wholesale must be cheaper again, felt like I was being robbed. Surely there should be some more compassion for the outpatients of Parkway East? I'd hate to know how much they charge for a kopi...
 
 **Price:** $6.00  
 
