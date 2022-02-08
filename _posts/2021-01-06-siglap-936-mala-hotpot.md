@@ -9,7 +9,7 @@ categories:
 image: assets/images/siglap-ltn-mlgx-1.jpg
 featured: false
 hidden: false
-trending: true
+trending: false
 rating: 4
 author: steve
 date: 2021-01-06 17:23 +0800
