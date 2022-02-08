@@ -14,7 +14,7 @@ rating: 5
 author: steve
 ---
 
-I have previously professed my appreciation for [thunder tea rice]() but it is not a common hawker dish, at least in the east, so when I see it I must try it.
+I have previously professed my appreciation for [thunder tea rice]({% post_url 2019-09-24-joo-chiat-thunder-tea-rice %}) but it is not a common hawker dish, at least in the east, so when I see it I must try it.
 
 Asked if want vegetarian or normal. Normal is fried prawns. Extra umami and saltiness. 
 
