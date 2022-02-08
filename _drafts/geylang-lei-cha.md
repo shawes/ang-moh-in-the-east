@@ -13,26 +13,23 @@ hidden: true
 rating: 5
 author: steve
 ---
-
 I have previously professed my appreciation for [thunder tea rice]({% post_url 2019-09-24-joo-chiat-thunder-tea-rice %}) but it is not a common hawker dish, at least in the east, so when I see it I must try it.
 
-Asked if want vegetarian or normal. Normal is fried prawns. Extra umami and saltiness. 
+![Relaxed view from coffee shop](/assets/images/geylang-lei-cha-5.jpg "Relaxed view from coffee shop")
 
-Very different flavoured tea. More savoury- tea flavour more pronounced . Grittier too.
-
-The green vegetable is so nice. Tastes like the Sabah one. 
-
-9-2 every day 
-
-Portion size is crazy big
-
-There’s an umami on the soup I cannot place. A creaminess too. Maybe ground nuts ?
+This stall encompasses the entire coffee shop, tucked away off Sims Ave. The area is surprisingly peaceful considering how close it is to the hustle and bustle of geylang.
 
 ![Thunderbolt tea menu](/assets/images/geylang-lei-cha-3.jpg "Thunderbolt tea menu")
 
+The hawker asked if I wanted vegetarian or regular, I did not ask what the difference was, but the regular came with dried prawns, umami oompf.
+
+The flavour was quite different to what I had come to expect for thunder tea rice. Maybe this is a more original style flavour, more savoury with notacible tannins, as a wine drinker I find this pleasurable. The soup is noticable grittier and creamier though, tastes almost as if some nuts were ground in the process.
+
 ![Thunder tea rice ingredients](/assets/images/geylang-lei-cha-4.jpg "Thunder tea rice ingredients")
 
-![Relaxed view from coffee shop](/assets/images/geylang-lei-cha-5.jpg "Relaxed view from coffee shop")
+I only ordered a small, but as you can see the portion sizes here are generous. The brown rice came with your standard mix of cabbage, beans, tofu, preserved radish, peanuts. The green vegetable served with it was interesting though, reminded me of [sayur manis](https://www.npr.org/sections/thesalt/2014/08/14/340358325/sayur-manis-delicious-but-also-deadly-greens-from-borneo), the vegetable you commonly see on menus in Sabah. I've only ever seen it served once before in Singapore at [Tekong Seafood Restaurant](http://tekongseafood.com).
+
+You can't go wrong with a bowl of thunder tea rice.
 
 **Price:** $4.50  
 
