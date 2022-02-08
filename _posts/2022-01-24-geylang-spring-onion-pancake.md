@@ -7,8 +7,8 @@ categories:
 - kopitiam
 - taiwanese
 image: assets/images/geylang-spring-onion-pancake-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 2
 author: steve
 date: 2022-01-24 14:47 +0800
