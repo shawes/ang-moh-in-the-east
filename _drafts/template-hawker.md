@@ -23,3 +23,5 @@ author: steve
 ***  
 
 ![Alt text](/assets/images/image.jpg "description text")
+
+[Internal link]({% post_url 2021-09-16-lagoon-duck-rice %})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Duck rice
-hawker: Zou ji duck rice
+hawker: Cheok kee duck rice
 categories:
 - rice
 - east coast lagoon
@@ -26,6 +26,6 @@ I'm not going to lie. I was a little underwhelmed. Sure the duck was extremely t
 
 ***  
 
-![Zou ji duck rice](/assets/images/lagoon-duck-rice-2.jpg "Zou ji duck rice")
+![Zou ji duck rice](/assets/images/lagoon-duck-rice-2.jpg "Cheok kee duck rice")
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.78049912728!2d103.93275511475396!3d1.3068680990468287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da18764013f43b%3A0x6cfef20f595a57b0!2sEast%20Coast%20Lagoon%20Food%20Village!5e0!3m2!1sen!2ssg!4v1567135621194!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
