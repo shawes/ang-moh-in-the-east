@@ -2,34 +2,35 @@
 layout: post
 title: Thunder tea rice
 hawker: Thunderbolt tea
-categories: 
-    - rice
-    - geylang
-    - kopitiam
-    - hakka
+categories:
+- rice
+- geylang
+- kopitiam
+- hakka
 image: assets/images/geylang-lei-cha-1.jpg
 featured: true
 hidden: true
 rating: 5
 author: steve
+date: 2022-02-10 22:37 +0800
 ---
 I have previously professed my appreciation for [thunder tea rice]({% post_url 2019-09-24-joo-chiat-thunder-tea-rice %}) but it is not a common hawker dish, at least in the east, so when I see it I must try it.
 
 ![Relaxed view from coffee shop](/assets/images/geylang-lei-cha-5.jpg "Relaxed view from coffee shop")
 
-This stall encompasses the entire coffee shop, tucked away off Sims Ave. The area is surprisingly peaceful considering how close it is to the hustle and bustle of geylang.
+This stall encompasses the entire coffee shop, tucked away off Sims Ave. The area is surprisingly peaceful considering how close it is to the hustle and bustle of our red light district.
 
 ![Thunderbolt tea menu](/assets/images/geylang-lei-cha-3.jpg "Thunderbolt tea menu")
 
 The hawker asked if I wanted vegetarian or regular, I did not ask what the difference was, but the regular came with dried prawns, umami oompf.
 
-The flavour was quite different to what I had come to expect for thunder tea rice. Maybe this is a more original style flavour, more savoury with notacible tannins, as a wine drinker I find this pleasurable. The soup is noticable grittier and creamier though, tastes almost as if some nuts were ground in the process.
+The flavour was quite different to what I had come to expect from thunder tea rice. Perhaps this is a more original flavour, savoury with noticeable tea tannins. As a wine drinker I find this pleasurable. The soup is measurably grittier and creamier, as if some nuts were ground into the "thunder tea".
 
 ![Thunder tea rice ingredients](/assets/images/geylang-lei-cha-4.jpg "Thunder tea rice ingredients")
 
-I only ordered a small, but as you can see the portion sizes here are generous. The brown rice came with your standard mix of cabbage, beans, tofu, preserved radish, peanuts. The green vegetable served with it was interesting though, reminded me of [sayur manis](https://www.npr.org/sections/thesalt/2014/08/14/340358325/sayur-manis-delicious-but-also-deadly-greens-from-borneo), the vegetable you commonly see on menus in Sabah. I've only ever seen it served once before in Singapore at [Tekong Seafood Restaurant](http://tekongseafood.com).
+I only ordered a small, but the portion sizes here are generous. The brown rice bowl came with your standard mix of cabbage, beans, tofu, preserved radish, peanuts. The green vegetable served with it was interesting though, reminded me of [sayur manis](https://www.npr.org/sections/thesalt/2014/08/14/340358325/sayur-manis-delicious-but-also-deadly-greens-from-borneo), the vegetable you commonly see on menus in Sabah. I've only ever seen it served once before in Singapore at [Tekong Seafood Restaurant](http://tekongseafood.com).
 
-You can't go wrong with a bowl of thunder tea rice.
+You can't go wrong with this bowl of thunder tea rice.
 
 **Price:** $4.50  
 
