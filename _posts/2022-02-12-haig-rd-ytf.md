@@ -2,15 +2,16 @@
 layout: post
 title: Yong tau foo soup
 hawker: Soon kee yong tau fu
-categories: 
-    - noodles
-    - haig road
-    - hawker centre
+categories:
+- noodles
+- haig road
+- hawker centre
 image: assets/images/haig-rd-ytf-1.jpg
 featured: true
 hidden: true
 rating: 4
 author: steve
+date: 2022-02-12 11:32 +0800
 ---
 Yong tau foo (YTF) is one of those few hawker dishes that can make all the lists of healthy choice hawker meals, from [government](https://www.healthhub.sg/sites/assets/Assets/PDFs/HPB/Food/Intrinsic%20Lower%20Calories%20Food_english_Apr%202018.pdf), [state newspaper](https://www.straitstimes.com/lifestyle/food/10-healthier-food-options-at-hawker-centres), and of course [online listicle](https://www.womensweekly.com.sg/gallery/beauty-and-health/the-healthiest-local-foods-you-can-order-in-singapore-hawker-centres/). Now as this meal is a multiple choice adventure with tongs – your choices dictate the calories getting counted in your bowl. However, even if you pick all fried ingredients, there is an inherent satisfaction, a little pat on the back, for choosing yong tau foo over hokkien mee.
 
