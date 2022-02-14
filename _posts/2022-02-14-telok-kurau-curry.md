@@ -2,16 +2,17 @@
 layout: post
 title: Sambhar rice
 hawker: Chaska
-categories: 
-    - rice
-    - telok kurau
-    - kopitiam
-    - indian
+categories:
+- rice
+- telok kurau
+- kopitiam
+- indian
 image: assets/images/telok-kurau-curry-1.jpg
 featured: true
 hidden: true
 rating: 4.5
 author: steve
+date: 2022-02-14 13:42 +0800
 ---
 I had to go see a specialist at Parkway East (nothing serious) and while I was waiting for my results I was getting hangry. Walking out of the hospital, the first thing I saw was this coffee shop directly opposite. Although half the stalls were closed and there were no customers, it wasn't the most welcoming of places.
 

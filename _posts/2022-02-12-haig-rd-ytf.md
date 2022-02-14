@@ -7,8 +7,8 @@ categories:
 - haig road
 - hawker centre
 image: assets/images/haig-rd-ytf-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2022-02-12 11:32 +0800
