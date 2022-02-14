@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yong tau foo @ Yuan wei yong tau foo
+title: Yong tau foo @ Yuan wei dou fu yuan
 categories:
 - noodles
 - siglap
