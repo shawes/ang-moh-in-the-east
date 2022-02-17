@@ -19,9 +19,10 @@ title: An ang moh in the east.
     </div>
 </section>
 
-<!-- Featured
+<!-- Trending
 ================================================== -->
 <section class="recent-posts">
+    {% if paginator.page == 1 %} 
     <div class="section-title">
         <h2><span>Trending posts</span></h2>
     </div>
@@ -32,6 +33,7 @@ title: An ang moh in the east.
             {% endif %} 
         {% endfor %}
     </div>
+    {% endif %} 
 </section>
 
 
