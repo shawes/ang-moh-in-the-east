@@ -11,16 +11,19 @@ hidden: true
 rating: 4.5
 author: steve
 ---
+I've been to this stall many times for their [roast chicken]({% post_url 2021-04-28-jalan-tua-kong-chicken-noodle %}), but I have never ventured into the right side of their menu, the herbal soups. Today was a surprisingly cool day by Singapore standards, 25 degrees, a soup kind of day.
 
-The soup is amazing. My first time trying.
+![Porcelain soup bowl](/assets/images/jalan-tua-kong-soup-3.jpg "Porcelain soup bowl")
 
-[roasted chicken noodle]({% post_url 2021-04-28-jalan-tua-kong-chicken-noodle %})
+I have never had salted vegetable and duck soup before, nevertheless I thought I knew what to expect by the descriptive title. The soup arrived in this cool old school style porcelain bowl. Just the sort of thing that I like (tableware, glassware, and cutlery are important to me).
 
-Nice flavour of the tomato. Salty goodness. 
+![Duck in the salted vegetable soup](/assets/images/jalan-tua-kong-soup-2.jpg "Duck in the salted vegetable soup")
 
-The vegetable is salty, but not overly so. There is a nice sourness, but the tomato adds a sweetness to the soup also. 
+First of all, The soup is delicious. While the soup is more sour than salty, there is a refreshing underlying saltiness from the mustard greens to it that makes you keep going back for more. The tomato provides a residual sweetness to the dish as well, which balanced out the chinese herbal flavours. Two large portions of duck were inside, the duck must have been soaked in the soup and had absorbed all the flavours. For what appeared to be a small dish it was remarkably filling.
 
-So much herbal flavour in the soup. Tonic for the soul. The duck was a bit dry if anything. 
+This soup really feels like a tonic for the soul.
+
+**Price:** $5.00  
 
 **Coffee shop:** Soy eu tua  
 **Address:** 15 Upper East Coast Rd, Siglap  
