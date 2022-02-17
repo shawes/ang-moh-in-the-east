@@ -2,15 +2,16 @@
 layout: post
 title: Roti prata kosong
 hawker: Famous crispy prata
-categories: 
-    - joo chiat
-    - kopitiam
-    - halal
+categories:
+- joo chiat
+- kopitiam
+- halal
 image: assets/images/joo-chiat-prata-1.jpg
 featured: true
 hidden: true
 rating: 4.5
 author: steve
+date: 2022-02-17 14:58 +0800
 ---
 I never knew this coffee shop existed, tucked away, a block behind the bustling joo chiat road. I was running an errand at a business nearby when I saw it. At this time, 1pm, the prata stall was the only thing still open. The entire coffee shop looks like it was trapped in time. The sort of place I love to sit and enjoy some kopi.
 

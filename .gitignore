@@ -16,6 +16,7 @@ _site/
 
 # Keep the pre-formatted images out of github
 */_draft_images/
+/data/
 
 # Metals
 .metals/*

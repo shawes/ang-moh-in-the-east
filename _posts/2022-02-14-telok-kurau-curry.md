@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - indian
 image: assets/images/telok-kurau-curry-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 author: steve
 date: 2022-02-14 13:42 +0800
