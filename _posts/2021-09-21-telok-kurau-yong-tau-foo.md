@@ -46,4 +46,4 @@ Overall I was impressed and will come back to eat again. There are few of these 
 
 ![Koo kee yong tow foo mee stall](/assets/images/telok-kurau-yong-tau-foo-3.jpg "Koo kee yong tow foo mee stall")
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.050777263523!2d103.908271!3d1.3180312!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6f93bc5ad414257!2sHai%20Kee%20Soy%20Sauce%20Chicken%20Rice!5e0!3m2!1sen!2ssg!4v1609304424571!5m2!1sen!2ssg" width="600" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.051514037248!2d103.9081694!3d1.3179162!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc2632931f242281f!2sKim%20San%20Leng%20%40%20Changi%20Road!5e0!3m2!1sen!2ssg!4v1645152729302!5m2!1sen!2ssg" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

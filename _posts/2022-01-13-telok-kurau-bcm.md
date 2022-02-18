@@ -30,4 +30,4 @@ A bak chor mee that's worth eating without a queue.
 
 ![Hua kee noodles](/assets/images/telok-kurau-bcm-2.jpg "Hua kee noodles")
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31910.103028074496!2d103.8906599395508!3d1.3179162000000193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1805d982eac7%3A0xc2632931f242281f!2sKim%20San%20Leng%20%40%20Changi%20Road!5e0!3m2!1sen!2ssg!4v1641543188900!5m2!1sen!2ssg" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.051514037248!2d103.9081694!3d1.3179162!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc2632931f242281f!2sKim%20San%20Leng%20%40%20Changi%20Road!5e0!3m2!1sen!2ssg!4v1645152729302!5m2!1sen!2ssg" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
