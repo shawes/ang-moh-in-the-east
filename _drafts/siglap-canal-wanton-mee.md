@@ -3,9 +3,9 @@ layout: post
 title: Wanton mee
 hawker: Wanton mee
 categories: 
-    - rice / noodles / seafood
-    - location
-    - kopitiam / hawker centre / bar
+    - noodles
+    - siglap
+    - kopitiam
 image: assets/images/siglap-canal-wanton-mee-1.jpg
 featured: true
 hidden: true
@@ -13,29 +13,13 @@ rating: 3.5
 author: steve
 ---
 
-Not the most original name.
+Not the most original name for a wanton mee stall. I believe when it first opened it was attached to the tanjong rhu brand or gave the impression it was at least.
 
-Also always in the low calories lists
+Wanton mee is another one of those hawker foods that is considered lower in calories. Although I asked for chilli and black sauce. I like the sweet, salty, and spicy combination. I think that might ruin the calorie count. The portion size here is small, but I prefer that for a lunch. You don't want to be processing a stomach full of carbs back at your desk.
 
+The sauce is decent and costs the noodles nicely. There is nothing worse when there is more noodles than sauce and you can't cover them all in the flavour, staring at those yellow sections knowing it will just taste of wheat. The noodles were thinner than the type I prefer, but they had a nice springiness. I don't normally like the deep fried wantons, but this one actually had a decent amount of meat inside. the char siew didn't look that appealing I must say, but it was not as dry as it looked and had ample flavour, if a bit sweet. The soup came with two nice wantons, but the soup itself was not spectacular.
 
-
-Fried wanton actually has a lot of meat in it . 
-
-$3.50 … 3.5 stars
-
-Got chilli and black sauce
-
-noodles thinner than my favourite. But very nice 
-
-The meat didn’t look much but was quite juicy and flavoursome, if a bit sweet
-
-Small serving (I orders the small) but it’s nice amount for lunch
-
-2 wantons in the soup. Soup is nice. Not spectacular 
-
-
-
-**Price:** $X.XX  
+**Price:** $3.50  
 
 **Coffee shop:** The food emporium
 **Address:** XXX Smith St, Smithsville  
@@ -43,6 +27,5 @@ Small serving (I orders the small) but it’s nice amount for lunch
 
 ***  
 
-![Alt text](/assets/images/siglap-canal-wanton-mee-2.jpg "description text")
+![Wanton mee eating place 3838](/assets/images/siglap-canal-wanton-mee-2.jpg "Wanton mee eating place 3838")
 
-[Internal link]({% post_url 2021-09-16-lagoon-duck-rice %})
