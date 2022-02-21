@@ -7,8 +7,8 @@ categories:
 - kopitiam
 - halal
 image: assets/images/joo-chiat-prata-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 author: steve
 date: 2022-02-17 14:58 +0800

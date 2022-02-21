@@ -2,24 +2,25 @@
 layout: post
 title: Salted vegetable and duck soup
 hawker: Peking roasted chicken rice
-categories: 
-    - siglap
-    - kopitiam
+categories:
+- siglap
+- kopitiam
 image: assets/images/jalan-tua-kong-soup-1.jpg
 featured: true
 hidden: true
 rating: 4.5
 author: steve
+date: 2022-02-21 15:08 +0800
 ---
 I've been to this stall many times for their [roast chicken]({% post_url 2021-04-28-jalan-tua-kong-chicken-noodle %}), but I have never ventured into the right side of their menu, the herbal soups. Today was a surprisingly cool day by Singapore standards, 25 degrees, a soup kind of day.
 
 ![Porcelain soup bowl](/assets/images/jalan-tua-kong-soup-3.jpg "Porcelain soup bowl")
 
-I have never had salted vegetable and duck soup before, nevertheless I thought I knew what to expect by the descriptive title. The soup arrived in this cool old school style porcelain bowl. Just the sort of thing that I like (tableware, glassware, and cutlery are important to me).
+I've never tried salted vegetable and duck soup before, nevertheless I thought I knew what to expect by the descriptive title of the dish. The soup seems like one of those dishes that would be served up more at home than sold at a hawker stall. The soup arrived in this cool old school style porcelain bowl. Just the sort of thing that I like (tableware, glassware, and cutlery are important to me). So visually, the dish was already a winner.
 
 ![Duck in the salted vegetable soup](/assets/images/jalan-tua-kong-soup-2.jpg "Duck in the salted vegetable soup")
 
-First of all, The soup is delicious. While the soup is more sour than salty, there is a refreshing underlying saltiness from the mustard greens to it that makes you keep going back for more. The tomato provides a residual sweetness to the dish as well, which balanced out the chinese herbal flavours. Two large portions of duck were inside, the duck must have been soaked in the soup and had absorbed all the flavours. For what appeared to be a small dish it was remarkably filling.
+First of all, the broth is delicious. While the dominate taste of the soup is sour, there is a refreshing underlying saltiness from the mustard greens to it that makes you keep going back for more. The tomato provides a residual sweetness to the dish as well that balanced out the chinese herbal flavours. Two large portions of duck were inside the soup, the duck must have been soaked in the soup judging by how flavoursome the meat was. For what visually appeared to be a small dish it was remarkably filling.
 
 This soup really feels like a tonic for the soul.
 
