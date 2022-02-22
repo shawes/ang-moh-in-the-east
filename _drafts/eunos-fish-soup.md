@@ -13,6 +13,17 @@ rating: 4.5
 author: steve
 ---
 
+The fried fish in a wonderful peppery batter
+
+5 large pieces
+
+Bitter gourd and iceberg lettuce
+
+The soup is amazing 
+
+Silks tofu 
+
+$5
 
 **Price:** $X.XX  
 

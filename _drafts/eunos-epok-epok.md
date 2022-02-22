@@ -13,6 +13,16 @@ rating: 0
 author: steve
 ---
 
+Crispy
+Egg is delicious. Not the usual over-boiled rubbery egg you seem to get served.
+
+
+The potato curry was nice - not spicy though
+
+Fresh 
+
+$0.70
+
 
 **Price:** $X.XX  
 
