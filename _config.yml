@@ -1,6 +1,6 @@
 # Site
 title: "An ang moh in the east"
-description: "Blog about the kopitiams, hawkers, and bars of Singapore's east coast."
+description: "Blog about the kopitiams and hawkers of Singapore's east coast."
 logo: 'assets/images/ang_moh_logo.png'
 banner: 'assets/images/eating.png'
 favicon: 'assets/images/favicon.ico'
@@ -12,7 +12,7 @@ permalink: /:title/
 url: https://www.angmohintheeast.com
 baseurl: ""
 repository: shawes/ang-moh-in-the-east
-tagline: "Blog about the kopitiams, hawkers, and bars of Singapore's east coast."
+tagline: "Blog about the kopitiams and hawkers of Singapore's east coast."
 
 # Authors
 authors:
