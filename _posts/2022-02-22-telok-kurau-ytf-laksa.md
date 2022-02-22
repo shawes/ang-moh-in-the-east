@@ -2,17 +2,17 @@
 layout: post
 title: Laksa yong tau foo
 hawker: Koo kee yong tow foo mee
-categories: 
-    - noodles
-    - telok kurau
-    - kopitiam
+categories:
+- noodles
+- telok kurau
+- kopitiam
 image: assets/images/telok-kurau-ytf-laksa-1.jpg
 featured: true
 hidden: true
 rating: 3.5
 author: steve
+date: 2022-02-22 11:51 +0800
 ---
-
 I went back to [koo kee yong tau foo]({% post_url 2021-09-21-telok-kurau-yong-tau-foo %}) because the food was so good. The coffee shop has undergone a renovation and for once its a renovation I approve of. The designers kept some of the original style for the old uncles, keeping some of the coffee shop nostalgia, while creating more smaller tables and adding more lighting.
 
 ![Kim san leng renovation 1](/assets/images/telok-kurau-ytf-laksa-3.jpg "Kim san leng renovation 1")

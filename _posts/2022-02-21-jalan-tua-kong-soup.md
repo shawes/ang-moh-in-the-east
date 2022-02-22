@@ -6,8 +6,8 @@ categories:
 - siglap
 - kopitiam
 image: assets/images/jalan-tua-kong-soup-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 author: steve
 date: 2022-02-21 15:08 +0800

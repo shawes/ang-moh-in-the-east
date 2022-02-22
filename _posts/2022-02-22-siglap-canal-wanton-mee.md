@@ -2,17 +2,17 @@
 layout: post
 title: Wanton mee
 hawker: Wanton mee
-categories: 
-    - noodles
-    - siglap
-    - kopitiam
+categories:
+- noodles
+- siglap
+- kopitiam
 image: assets/images/siglap-canal-wanton-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
+date: 2022-02-22 11:50 +0800
 ---
-
 Not the most original name for a wanton mee stall. I believe when it first opened it was attached to the tanjong rhu brand or gave the impression it was at least (not the first time I have seen this [phenomenon]({% post_url 2021-08-16-bedok-north-wanton-soup %}))
 
 Wanton mee is another one of those hawker foods that is considered lower in calories. Although, I ask for the chilli and black sauce combination that might offset any low calorie benefits. I just cannot resist the sauce combination of the sweet, salty, and spicy.
