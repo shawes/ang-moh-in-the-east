@@ -6,10 +6,10 @@ categories:
     - snack
     - eunos
     - hawker centre
-image: assets/images/template.jpg
+image: assets/images/eunos-epok-epok-1.jpg
 featured: false
 hidden: true
-rating: 0
+rating: 5
 author: steve
 ---
 
@@ -21,17 +21,19 @@ The potato curry was nice - not spicy though
 
 Fresh 
 
+![Alt text](/assets/images/eunos-epok-epok-2.jpg "description text")
+
 $0.70
 
 
-**Price:** $X.XX  
+**Price:** $0.70
 
-**Hawker centre / Coffee shop:** The food emporium
-**Address:** XXX Smith St, Smithsville  
+**Hawker centre:** Eunos Crescent Market and Food Centre
+**Address:** Blk, 4A Eunos Cres, Singapore 402004
 **Hours:** XXam - XXpm (closed xx)  
 
 ***  
 
-![Alt text](/assets/images/image.jpg "description text")
+![Kachang pool special](/assets/images/eunos-epok-epok-3.jpg "Kacang pool special")
 
 [Internal link]({% post_url 2021-09-16-lagoon-duck-rice %})

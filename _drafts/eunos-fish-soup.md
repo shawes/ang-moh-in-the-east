@@ -21,7 +21,7 @@ Bitter gourd and iceberg lettuce
 
 The soup is amazing 
 
-Silks tofu 
+Silken tofu 
 
 $5
 
