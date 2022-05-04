@@ -9,6 +9,7 @@ categories:
 image: assets/images/haig-rd-kolo-mee-1.jpg
 featured: false
 hidden: false
+trending: true
 rating: 4.5
 author: steve
 date: 2020-12-31 09:24 +0800

@@ -9,7 +9,7 @@ categories:
 image: assets/images/siglap-canal-yong-tau-foo-1.jpg
 featured: false
 hidden: false
-trending: true
+trending: false
 rating: 4.5
 author: steve
 date: 2021-04-29 09:11 +0800
