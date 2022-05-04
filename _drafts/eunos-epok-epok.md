@@ -7,8 +7,8 @@ categories:
     - eunos
     - hawker centre
 image: assets/images/eunos-epok-epok-1.jpg
-featured: false
-hidden: true
+featured: true
+hidden: false
 rating: 5
 author: steve
 ---
@@ -36,4 +36,3 @@ $0.70
 
 ![Kachang pool special](/assets/images/eunos-epok-epok-3.jpg "Kacang pool special")
 
-[Internal link]({% post_url 2021-09-16-lagoon-duck-rice %})

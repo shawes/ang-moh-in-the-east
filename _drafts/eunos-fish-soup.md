@@ -8,7 +8,7 @@ categories:
     - hawker centre
 image: assets/images/eunos-fish-soup-1.jpg
 featured: true
-hidden: true
+hidden: false
 rating: 4.5
 author: steve
 ---
@@ -33,6 +33,6 @@ $5
 
 ***  
 
-![Alt text](/assets/images/image.jpg "description text")
+![Alt text](/assets/images/eunos-fish-soup-2.jpg "description text")
 
 [Internal link]({% post_url 2021-09-16-lagoon-duck-rice %})
