@@ -22,16 +22,11 @@ The soup was a hearty western style chicken soup with a carrot and celery base. 
 
 And just in case you thought it was not enough, there is a braised egg to satisfy your protein needs. Cleanse the palate with some achar. Meal complete.
 
+**Price:** $6.00  
 
-
-
-
-
-**Price:** $6.00
-
-**Hawker centre / Coffee shop:** The food emporium
-**Address:** XXX Smith St, Smithsville  
-**Hours:** XXam - XXpm (closed xx)  
+**Coffee shop:** The Bullion Hawker Bar  
+**Address:** 396 East Coast Rd, Telok Kurau  
+**Hours:** 8am - 7pm  
 
 ***  
 

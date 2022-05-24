@@ -36,7 +36,7 @@ This is good hokkien mee and I can see why so many people [love it](http://ieati
 
 **Coffee shop:** The Bullion Hawker Bar  
 **Address:** 396 East Coast Rd, Telok Kurau  
-**Hours:** 12pm - 9pm (closed Mondays)  
+**Hours:** 12am - 9pm (closed Mondays)  
 
 ***  
 
