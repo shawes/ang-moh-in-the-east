@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Epok-epok
+title: Epok epok
 hawker: Kacang pool special
-categories: 
-    - snack
-    - eunos
-    - hawker centre
+categories:
+- snack
+- eunos
+- hawker centre
 image: assets/images/eunos-epok-epok-1.jpg
 featured: false
 hidden: false
 rating: 4.5
 author: steve
+date: 2022-05-24 12:28 +0800
 ---
 Amazing how different a curry puff can be, it seems so simple, but there are many variables: size, pastry to use, choice of filling, level of spiciness, include an egg or not; to name several.
 

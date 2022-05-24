@@ -9,20 +9,23 @@ categories:
 image: assets/images/template.jpg
 featured: false
 hidden: true
-rating: 0
+rating: 5
 author: steve
 ---
+I always thought chicken rice was something that was hard to make really special. I was wrong. This chicken rice is special. The price, at $6, seems high initially, however, it comes with a generous amount of...well everything. Including all you can eat achar, self service from a jar on the counter.
 
-Rice is amazing
-Free achar - put as much as you want. Although the jar was nearly empty when I was there.
+The chicken comes on a bed of crunchy bean sprouts, I feel like I am in Ipoh. To top it off the entire dish is garnished with crunchy fried garlic bits. Today I was late, so there was only roasted chicken left, but the skin was still wonderfully crispy, the portion size generous, and the chicken itself was tender and juicy.
 
-Price seems expensive initially, but it comes with a generous amount of.. well everything.
+The texture and flavour of the rice is amazing
 
-Comes with egg
-the skin is crispy
-Beansprouts like I'm in Ipoh.
-Crispy fried garlic sprinkled on top
-Soup was almost western styl chicken soup with celery nd carrot. hearty.
+The soup was a hearty western style chicken soup with a carrot and celery base. The sort of soup you crave when you are home sick with a cold (or COVID if you can still taste).
+
+And just in case you thought it was not enough, there is a braised egg to satisfy your protein needs. Cleanse the palate with some achar. Meal complete.
+
+
+
+
+
 
 **Price:** $6.00
 
