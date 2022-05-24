@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Epok epok
+title: Epok-epok
 hawker: Kacang pool special
 categories:
 - snack
