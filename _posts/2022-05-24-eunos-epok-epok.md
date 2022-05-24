@@ -33,3 +33,4 @@ At $0.70c per epok-epok, I shall be back to buy in bulk.
 
 ![Kachang pool special](/assets/images/eunos-epok-epok-3.jpg "Kacang pool special")
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.758989905591!2d103.90184871453852!3d1.3203418990370173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1804eaccbd7f%3A0x422fd9f92536878f!2sEunos%20Crescent%20Market%20and%20Food%20Centre!5e0!3m2!1sen!2ssg!4v1653371788813!5m2!1sen!2ssg" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
