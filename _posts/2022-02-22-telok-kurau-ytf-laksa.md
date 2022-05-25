@@ -7,8 +7,8 @@ categories:
 - telok kurau
 - kopitiam
 image: assets/images/telok-kurau-ytf-laksa-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2022-02-22 11:51 +0800
