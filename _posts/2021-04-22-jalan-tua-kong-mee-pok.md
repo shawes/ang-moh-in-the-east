@@ -24,7 +24,7 @@ The fish balls and fish cake were a bit of a let down, too spongy for my liking,
 
 **Price:** $4.50  
 
-**Coffee shop:**  Soy eu tua  
+**Coffee shop:** Soy eu tua  
 **Address:** 15 Upper East Coast Rd, Siglap  
 **Hours:** 7:00am - 3:00pm (closed mondays)  
 
