@@ -17,7 +17,7 @@ I decided to eat more chicken rice, before the [malaysian export ban](https://ww
 
 The chicken is perfectly poached, strangely for breast meat it melted in your mouth, was not dry at all. I try and avoid eating too much of the skin, but when its this flavoursome, it takes a lot of willpower to pass it up. The rice is bursting with chicken stock flavour and each grain is separated — an important texture component for me. The chilli sauce is good, nothing exceptional, but it does the job. I admit I do miss the garlic sauce.
 
-One of the better chicken rices in the neighbourhood.
+Easily one of the better chicken rices in the neighbourhood.
 
 **Price:** $4.00  
 
