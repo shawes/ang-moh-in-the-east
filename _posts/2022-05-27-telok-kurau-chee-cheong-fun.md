@@ -2,16 +2,17 @@
 layout: post
 title: Chee cheong fun with zai er
 hawker: Wan fen chee cheong fun
-categories: 
-    - noodles
-    - telok kurau
-    - kopitiam
-    - cantonese
+categories:
+- noodles
+- telok kurau
+- kopitiam
+- cantonese
 image: assets/images/telok-kurau-chee-cheong-fun-1.jpg
 featured: true
-hidden: false
+hidden: true
 rating: 4
 author: steve
+date: 2022-05-27 14:09 +0800
 ---
 Wan fen chee cheong fun is a new stall at the Bullion Hawker Bar, that I first noticed at night, but it was closed. Being a big fan of chee cheong fun, I made a trip down at lunch time to sample. There a several different options, standard ones like prawns, to *atas* options of waygu beef. I went with option 1, the CCF with zai er. I actually had no idea what zai er really was and the photo in the overhead menu was not entirely clear either. Turns out its a strip of fried bean curd that I had regularly had in yong tau foo. According to the [interwebs](https://noobcook.com/air-fried-zai-er/), zai er is supposed to be mock goose skin? I cannot confirm or deny this information as I have never eaten goose skin.
 

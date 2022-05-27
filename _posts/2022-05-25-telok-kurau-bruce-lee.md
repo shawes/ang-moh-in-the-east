@@ -7,8 +7,8 @@ categories:
 - telok kurau
 - kopitiam
 image: assets/images/telok-kurau-bruce-lee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 5
 author: steve
 date: 2022-05-25 23:22 +0800
