@@ -7,15 +7,14 @@ categories:
     - tampines
     - kopitiam
     - hainanese
-image: assets/images/tampines-beef-noodle-1.jpg
-featured: false
+image: assets/images/tampines-beef-noodles-1.jpg
+featured: true
 hidden: true
 rating: 5
 author: steve
 ---
 
-I didn't know seremban was famous for beef noodles. 
-
+Rediscovering this hawker is like... 
 I used to buy back before marine parade central was renovated. One of the stalls that sadly never reappeared after the year long renovations.
 
 The gravy for these noodles is so thick (calorific?). Its got the consistency of the beef gravy you pour over a roast.

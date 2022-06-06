@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - cantonese
 image: assets/images/telok-kurau-chee-cheong-fun-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2022-05-27 14:09 +0800

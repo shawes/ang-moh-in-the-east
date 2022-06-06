@@ -13,7 +13,7 @@ rating: 4
 author: steve
 ---
 
-This stall is run by an hard working old couple with seemingly 2000s prices still. I don't think you can get wanton mee cheaper than $3.00 any more.
+The hard working old couple running this stall appear to have not upped their prices since maybe the late 90s, $3 wanton mee seems like a relic of the past.
 
 ![Alt text](/assets/images/marine-terrace-wanton-mee-4.jpg "description text")
 
