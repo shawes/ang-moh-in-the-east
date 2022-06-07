@@ -26,7 +26,7 @@ At $0.70c per epok-epok, I shall be back to buy in bulk.
 **Price:** $0.70  
 
 **Hawker centre:** Eunos Crescent Market and Food Centre  
-**Address:** Blk, 4A Eunos Cres, Singapore 402004  
+**Address:** #01-03, Blk 4A Eunos Cres, Singapore 402004  
 **Hours:** 7am - 9pm (closed Wednesdays)  
 
 ***  

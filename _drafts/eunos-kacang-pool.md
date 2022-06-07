@@ -24,7 +24,7 @@ There is a lot of depth to the flavour of the bean stew and it smells amazing. I
 **Price:** $4.00
 
 **Hawker centre:** Eunos Crescent Market and Food Centre  
-**Address:** Blk, 4A Eunos Cres, Singapore 402004  
+**Address:** #01-03, Blk 4A Eunos Cres, Singapore 402004  
 **Hours:** 7am - 9pm (closed Wednesdays)  
 
 ***  
