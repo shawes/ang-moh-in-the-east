@@ -29,4 +29,4 @@ If anything was a bit expensive
 
 ***  
 
-![Spud's shack](/assets/images/image.jpg "Spud's shack")
+![Spud's shack hawker stall](/assets/images/geylang-rosti-2.jpg "Spud's shack hawker stall")
