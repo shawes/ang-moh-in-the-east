@@ -16,7 +16,7 @@ author: steve
 
 $4. Vege curry . Bitter gourd. cabbage. Beansporut
 
-Vege curry soft like Ponting curry. Coconut milk. 
+Vege curry soft like Ponting curry. Coconut milk.
 
 Cabbage had this flavour. Maybe dried shrimp? Was delicious. And not too oily 
 

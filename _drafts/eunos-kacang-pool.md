@@ -13,15 +13,13 @@ hidden: true
 rating: 4.5
 author: steve
 ---
-
-I had previosuly tried to eat kacang pool [here]({% post_url 2021-09-16-lagoon-duck-rice %}), but I was too late last time and the kacang poolwas sold out. Its a dish I found out about from the [interwebs](https://whattocooktoday.com/kacang-phool.html). The dish, essentially a fava bean stew, sounded really interesting and quite different from the usual breakfast fare. Kacang pool special was the closest stall to my house, hence why I am here.
+I had previously tried to eat kacang pool [here]({% post_url 2022-05-24-eunos-epok-epok %}), but I was too late last time and the kacang poolwas sold out. Its a dish I found out about from the [interwebs](https://whattocooktoday.com/kacang-phool.html). The dish, essentially a fava bean stew, sounded really interesting and quite different from the usual breakfast fare. Kacang pool special was the closest stall to my house, hence why I am here.
 
 The kacang pool arrives in a bowl, covered in some chopped fresh shallots and green chilli, and it comes with a side dish of calamansi, salt, and warmed crusty french bread. The aunty asks if my first time eating kacang pool. She explains that the dish is not common at hawker centres any more (if it ever was), so for people that are not regulars it is usually their first time eating. Her advice is to add the lime juice and stir, but to use the salt sparingly, if at all.
 
 ![Dipping the bread into the stew](/assets/images/eunos-kacang-pool-2.jpg "Dipping the bread into the stew")
 
-There is a lot of depth to the flavour of the bean stew and it smells amazing. I start by dipping the bread into the stew and eating that. Before I know it I am out of bread and there is still a lot of stew. There is a fried egg in the middle with a runny yolk, which I manage to break and the yolk blends into the stew making it extra rich. The richness is cut through by the lime, shallots, and green chilli. There is a lot of oil used in this dish, it feels like something you couldn't eat every day, but damn if it's not addictive. 
-
+There is a lot of depth to the flavour of the bean stew and it smells amazing. I start by dipping the bread into the stew and eating that. Before I know it I am out of bread and there is still a lot of stew. There is a fried egg in the middle with a runny yolk, which I manage to break and the yolk blends into the stew making it extra rich. The richness is cut through by the lime, shallots, and green chilli. There is a lot of oil used in this dish, it feels like something you couldn't eat every day, but damn if it's not addictive.
 
 **Price:** $4.00
 

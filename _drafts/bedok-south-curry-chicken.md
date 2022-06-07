@@ -12,7 +12,6 @@ hidden: false
 rating: 3.5
 author: steve
 ---
-
 In my quest to each as much chicken as possible before the effects of the ban I found myself at another chicken rice place. On the menu here, below the stall sign above, was a sign for curry noodles. I always like to try something new, so I opted to see what it was.
 
 As soon as I saw the bowl, I realised I had eaten something similar at [Hong Lim food centre](https://www.misstamchiak.com/heng-kee-curry-chicken-noodle/). Poached white chicken in a curry gravy, with bean sprouts, tau pok, and noodles. There were no potatoes in this curry, unlike the previous one I ate. The soup was aromatic and sweet, but also thinner, more watery than the lemak level I prefer. But the chicken was amazing, poached to perfection, and the tau pok are delicious soaking up the curry gravy. Great price also.
