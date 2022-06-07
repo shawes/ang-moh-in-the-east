@@ -10,7 +10,7 @@ categories:
 image: assets/images/siglap-canal-nasi-lemak-1.jpg
 featured: false
 hidden: false
-trending: true
+trending: false
 rating: 3.5
 author: steve
 date: 2022-01-08 10:47 +0800

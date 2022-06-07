@@ -10,6 +10,7 @@ categories:
 image: assets/images/geylang-lei-cha-1.jpg
 featured: false
 hidden: false
+trending: true
 rating: 5
 author: steve
 date: 2022-02-10 22:37 +0800

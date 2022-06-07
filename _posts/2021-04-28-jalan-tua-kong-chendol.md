@@ -9,6 +9,7 @@ categories:
 image: assets/images/jalan-tua-kong-chendol-1.jpg
 featured: false
 hidden: false
+trending: true
 rating: 5
 author: steve
 date: 2021-04-28 10:46 +0800
