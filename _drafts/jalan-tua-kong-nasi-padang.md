@@ -19,13 +19,13 @@ Today there was no queue, so I felt brave from the get go. Also I had decided on
 
 ![Nasi padang choices](/assets/images/siglap-nasi-padang-3.jpg "Nasi padang choices")
 
-I chose a vegetarian curry, which was a sayur lodeh type of dish. I chose the bitter gourd stir-fried with egg. I chose another cabbage option that was cooked with dried shrimp. I chose a beansprout dish with salted fish. To top it off I ordered a begedil. Admittedly deciding to go vegetarian meant I left a lot of good looking curries and rendangs on the table.
+I chose a vegetarian curry, which was a sayur lodeh type of dish. I chose the bitter gourd stir-fried with egg. I chose another cabbage option that was cooked with dried shrimp. I chose a bean sprout dish with salted fish. To top it off I ordered a begedil. Admittedly deciding to go vegetarian meant I left a lot of good looking curries and rendangs on the table.
 
 I didn't realise how cost effective nasi padang would be. The first time I ever ordered it I went with a lot of seafood options and the price was over $20??! This time I got 4 vegetarian dishes, rice, and a begedil for $4. What a steal.
 
 ![Delicious begedil](/assets/images/siglap-nasi-padang-2.jpg "Delicious begedil")
 
-Everything was nice, especially the begedil. Except I guess it is not freshly cooked, so the vegetables feel a bit wilted. Surpisingly it was not oily either. I felt really healthy after eating it all. So healthy in fact, I got myself a [chendol]({% post_url 2021-04-28-jalan-tua-kong-chendol %}) from the stall next door.
+Everything was nice, especially the begedil. Except I guess it is not freshly cooked, so the vegetables feel a bit wilted. Surprisingly it was not oily either. I felt really healthy after eating it all. So healthy in fact, I got myself a [chendol]({% post_url 2021-04-28-jalan-tua-kong-chendol %}) from the stall next door.
 
 **Price:** $4.00
 
