@@ -17,7 +17,7 @@ I am yet to met someone that doesn't appreciate rosti. After all what is not to 
 
 I stuck with the original rosti today, there are other variations and flavours (seaweed, cajun, etc) but I like to try the plain first. Admittedly this rosti is not much to look at on the plate, its sits there lonely, accompanied by a fried egg, dollop of chilli sauce, and dollop of sour cream. However, what it lacks in presentation, it makes up for it in flavour. The rosti is super crispy on the outside, but the first bite explodes with fluffy buttery potato. This makes for a great breakfast or perfect brunch snack. The dollop of sour cream adds enough moisture to prevent it being dry at all. I could have gone without the sunnyside egg, but the yolk was deliciously runny. The rosti was gone in only a few bites.
 
-Come here to try a rosti at a price only a fraction a hipster cafe would charge you.
+Come here to try a rosti at a price only a fraction a hipster cafe would charge you. If all the new entrants to the hawker trade produce fare this good, then the Singapore food scene will be in good hands. Plus, can always go to Malaysia to find the traditional fare?
 
 **Price:** $5.00  
 
