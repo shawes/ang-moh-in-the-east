@@ -7,35 +7,26 @@ categories:
     - katong
     - kopitiam
 image: assets/images/katong-wanton-mee-1.jpg
-featured: false
+featured: true
 hidden: true
-rating: 5
+rating: 4.5
 author: steve
 ---
+Mei Yuan Restaurant is one of those kopitiams that harks back to an earlier Singapore. Dare I say it without sounding cliche, but it feels like I have stepped into Malaysia. These old school places are everything I love about the food scene in south-east asia. They act as a meeting place for the community, a hive of activity and sounds with indistinct voices chatting from every direction as it bounces off the tiles, the chinking sound of metal spoons stirring coffee, all punctuated by the dull thuds of the chopper in the hand of the hawker as the next dish of chicken rice is being prepared. Even though I am not from Singapore, these sounds are so comforting to me. The sounds of south-east asia.
 
+![The hawkers in mei yuan restaurant](/assets/images/katong-wanton-mee-3.jpg "The hawkers in mei yuan restaurant")
 
-Old school coffee shop. Dare I say it without sounding cliche, but it feels like I have stepped into malaysia. 
+When you walk into Mei Yuan, you are greeted with a Hainanese chicken rice seller on the right and a Cantonese roast meats seller on the left. I enquired about noodles and was informed that the roast meats stall serves wanton mee. I was told to find a seat and it would be brought over to me. The seats are those old wooden style seats. So much more comfortable than plastic seats.
 
-Such an old school coffee shop . The sounds of people chatting. The chinking of spoons against coffee cups. The endless chopper thurs as they cut up the chicken rice. To me this is the sound of asia 
+![Vintage wooden chairs](/assets/images/katong-wanton-mee-4.jpg "Vintage wooden chairs")
 
-Wonderful wanton mee
+The aesthetic is rounded out by the beautiful tiles on the wall around the kopitiam, plus the various advertising posters for drinks.
 
-Sauce is so flavoursome. Can taste the duck fat 
+![Beautiful tiles](/assets/images/katong-wanton-mee-2.jpg "Beautiful tiles")
 
-Soup so nice and savoury
+The wanton mee does not let the place down. The noodles had a great QQ. The sauce they are tossed in is abundant in flavour and what tastes like duck fat. Heavenly. The chilli sauce is sweet and earthy but not that spicy, which is nice. The weak point of the dish is the char siew, the serving is generous, the flavour is there, but it is a little dry. The soup is not just a throw away, its packed full off flavour and not too salty.
 
-Char siew a little dry, but jam packed full of flavour.
-
-
-
-$5.00
-
-
-![Alt text](/assets/images/katong-wanton-mee-2.jpg "description text")
-
-![Alt text](/assets/images/katong-wanton-mee-3.jpg "description text")
-
-![Alt text](/assets/images/katong-wanton-mee-4.jpg "description text")
+Probably the best wanton mee in the Katong / Joo Chiat area.
 
 **Price:** $5.00  
 
@@ -47,4 +38,4 @@ $5.00
 
 ![Mei yuan restaurant](/assets/images/katong-wanton-mee-5.jpg "Mei yuan restaurant")
 
-[Internal link]({% post_url 2021-09-16-lagoon-duck-rice %})
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.779052896175!2d103.90520721453844!3d1.3077783990461687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da180cb4152457%3A0x47934b8b776d6b69!2sMei%20Yuen%20Restaurant!5e0!3m2!1sen!2ssg!4v1654666707359!5m2!1sen!2ssg" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
