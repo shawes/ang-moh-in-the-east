@@ -7,8 +7,8 @@ categories:
 - kopitiam
 - western
 image: assets/images/geylang-rosti-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2022-06-07 10:45 +0800
