@@ -21,8 +21,8 @@ Come here to try a rosti at a price only a fraction a hipster cafe would charge 
 
 **Price:** $5.00  
 
-**Coffee shop:** Fellascube
-**Address:** 440 Geylang Road, S389400
+**Coffee shop:** Fellascube  
+**Address:** 440 Geylang Road, S389400  
 **Hours:** 11am - 10pm (closed thursday)  
 
 ***  
