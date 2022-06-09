@@ -2,15 +2,16 @@
 layout: post
 title: Fried fish soup
 hawker: Hai xian zhi jia
-categories: 
-    - seafood
-    - eunos
-    - hawker centre
+categories:
+- seafood
+- eunos
+- hawker centre
 image: assets/images/eunos-fish-soup-1.jpg
 featured: true
-hidden: false
+hidden: true
 rating: 4.5
 author: steve
+date: 2022-06-09 09:49 +0800
 ---
 The star of this dish is unabashedly the soup. Sure it has several pieces of peppery battered fish, some sliced bitter gourd, torn iceberg lettuce leaves, and some silken tofu. But the only thing I want is the soup. It looks amazing. It smells amazing. It tastes amazing. When I couldn't get any more out with the spoon, I clasped the bowl, lifted it up to my mouth and drank every last drop  as if it was a mug of coffee. Shamefully wiping my face with a tissue and looking around to see if anyone saw me.
 

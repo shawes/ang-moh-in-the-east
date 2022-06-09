@@ -8,8 +8,8 @@ categories:
 - hawker centre
 - halal
 image: assets/images/eunos-kacang-pool-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 author: steve
 date: 2022-06-08 11:39 +0800
