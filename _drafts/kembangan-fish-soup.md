@@ -9,7 +9,7 @@ categories:
 image: assets/images/kembangan-fish-soup-1.jpg
 featured: true
 hidden: true
-rating: 4.5
+rating: 3.5
 author: steve
 ---
 
@@ -18,7 +18,13 @@ $7.50 for fish soup with noodles. I was very confused with how all the pricing w
 
 Did get exactly what I ordered.
 
-Soup is spicy with assam tang.
+Soup is spicy with assam tang. Too spicy. 
+
+Like the spiciest Tom yum you have ever had 
+
+I can handle my chilli. But this really pushed my limits 
+
+
 
 Fish is very nice - sea bass
 A lot of pieces of fish
