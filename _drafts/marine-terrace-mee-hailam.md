@@ -7,7 +7,7 @@ categories:
     - marine terrace
     - kopitiam
 image: assets/images/marine-terrace-mee-hailam-1.jpg
-featured: false
+featured: true
 hidden: true
 rating: 3.5
 author: steve

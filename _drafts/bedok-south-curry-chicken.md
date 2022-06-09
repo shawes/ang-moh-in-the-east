@@ -7,14 +7,16 @@ categories:
     - bedok south
     - hawker centre
 image: assets/images/bedok-south-curry-chicken-1.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 rating: 3.5
 author: steve
 ---
-In my quest to each as much chicken as possible before the effects of the ban I found myself at another chicken rice place. On the menu here, below the stall sign above, was a sign for curry noodles. I always like to try something new, so I opted to see what it was.
+In my quest to eat as much chicken as possible before the effects of the malaysian export ban, I found myself at another chicken rice place, this time in bedok south. Below the menu signage of the hawker was a sign for "curry noodles". Well I always like to try something new...
 
-As soon as I saw the bowl, I realised I had eaten something similar at [Hong Lim food centre](https://www.misstamchiak.com/heng-kee-curry-chicken-noodle/). Poached white chicken in a curry gravy, with bean sprouts, tau pok, and noodles. There were no potatoes in this curry, unlike the previous one I ate. The soup was aromatic and sweet, but also thinner, more watery than the lemak level I prefer. But the chicken was amazing, poached to perfection, and the tau pok are delicious soaking up the curry gravy. Great price also.
+![Curry noodle sign](/assets/images/bedok-south-curry-chicken-3.jpg "Curry noodle sign")
+
+As soon as I saw the bowl, I realised I've eaten this dish before at [Hong Lim food centre](https://www.misstamchiak.com/heng-kee-curry-chicken-noodle/) (pre-covid). The curry noodle consists of poached white chicken in a curry gravy, with bean sprouts, tau pok, and noodles. Unlike the one at Hong Lim, there were no potatoes in this dish. The soup was aromatic and sweet, but not as lemak as I prefer. I guess this is a more healthy version, so I shouldn't complain. But the chicken was amazing, poached to perfection, and tau pok in curry are always delicious as they soak up all the flavours of the curry. Cannot complain about the price either. Definitely a rainy day kind of food.
 
 **Price:** $3.50  
 

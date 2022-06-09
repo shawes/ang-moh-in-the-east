@@ -6,9 +6,9 @@ categories:
     - marine terrace
     - hawker centre
 image: assets/images/marine-terrace-carrot-cake-1.jpg
-featured: false
+featured: true
 hidden: true
-rating: 0
+rating: 3.5
 author: steve
 ---
 

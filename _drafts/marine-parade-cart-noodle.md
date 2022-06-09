@@ -7,7 +7,7 @@ categories:
     - location
     - kopitiam / hawker centre / bar
 image: assets/images/marine-parade-cart-noodle-1.jpg
-featured: false
+featured: true
 hidden: true
 rating: 3.5
 author: steve

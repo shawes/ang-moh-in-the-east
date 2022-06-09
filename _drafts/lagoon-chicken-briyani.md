@@ -9,12 +9,13 @@ categories:
     - indian
     - halal
 image: assets/images/lagoon-chicken-briyani-1.jpg
-featured: false
+featured: true
 hidden: true
 rating: 2
 author: steve
 ---
 
+![Raw chicken](/assets/images/lagoon-chicken-briyani-2.jpg "Raw chicken")
 
 **Price:** $X.XX  
 

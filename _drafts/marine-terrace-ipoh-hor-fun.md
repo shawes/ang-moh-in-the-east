@@ -6,10 +6,10 @@ categories:
     - noodles
     - marine terrace
     - kopitiam
-image: assets/images/template.jpg
-featured: false
+image: assets/images/marine-terrace-ipoh-hor-fun-1.jpg
+featured: true
 hidden: true
-rating: 0
+rating: 4
 author: steve
 ---
 
@@ -25,6 +25,8 @@ Only one prawn - but peeled
 
 The sights and sounds of the coffee shop are coming back 
 
+![Silky hor fun](/assets/images/marine-terrace-ipoh-hor-fun-2.jpg "Silky hor fun")
+
 **Price:** $X.XX  
 
 **Hawker centre / Coffee shop:** The food emporium
@@ -33,6 +35,6 @@ The sights and sounds of the coffee shop are coming back
 
 ***  
 
-![Alt text](/assets/images/image.jpg "description text")
+
 
 [Internal link]({% post_url 2021-09-16-lagoon-duck-rice %})

@@ -24,9 +24,9 @@ The aesthetic is rounded out by the beautiful tiles on the wall around the kopit
 
 ![Beautiful tiles](/assets/images/katong-wanton-mee-2.jpg "Beautiful tiles")
 
-The wanton mee does not let the place down. The noodles had a great QQ. The sauce they are tossed in is abundant in flavour and what tastes like duck fat. Heavenly. The chilli sauce is sweet and earthy but not that spicy, which is nice. The weak point of the dish is the char siew, the serving is generous, the flavour is there, but it is a little dry. The soup is not just a throw away, its packed full off flavour and not too salty.
+The taste of the wanton mee does not let the place down. The noodles have a great QQ, perfectly cooked with that bite. The sauce is abundant in flavour, with what tastes like duck fat. The fat ensures the sauce coats the noodles and your tongue. Heavenly. The chilli sauce is not spicy, but it does its job. The weak point of the dish is probably the char siew. While the serving fo meat is generous and the flavour is there, sadly its a little dry.
 
-Probably the best wanton mee in the Katong / Joo Chiat area.
+Probably the best wanton mee in the Katong/Joo Chiat area, but that's beside the point, its worth it for the price of nostalgia alone.
 
 **Price:** $5.00  
 

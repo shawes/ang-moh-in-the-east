@@ -9,7 +9,7 @@ categories:
     - halal
 image: assets/images/siglap-nasi-padang-1.jpg
 featured: true
-hidden: false
+hidden: true
 rating: 4.5
 author: steve
 ---
