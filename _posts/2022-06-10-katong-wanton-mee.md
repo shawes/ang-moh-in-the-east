@@ -2,15 +2,16 @@
 layout: post
 title: Wanton mee
 hawker: Mei yuan restaurant
-categories: 
-    - noodles
-    - katong
-    - kopitiam
+categories:
+- noodles
+- katong
+- kopitiam
 image: assets/images/katong-wanton-mee-1.jpg
 featured: true
 hidden: true
 rating: 4.5
 author: steve
+date: 2022-06-10 11:55 +0800
 ---
 Mei Yuan Restaurant is one of those kopitiams that harks back to an earlier Singapore. Dare I say it without sounding cliche, but it feels like I have stepped into Malaysia. These old school places are everything I love about the food scene in south-east asia. They act as a meeting place for the community, a hive of activity and sounds with indistinct voices chatting from every direction as it bounces off the tiles, the chinking sound of metal spoons stirring coffee, all punctuated by the dull thuds of the chopper in the hand of the hawker as the next dish of chicken rice is being prepared. Even though I am not from Singapore, these sounds are so comforting to me. The sounds of south-east asia.
 
@@ -26,7 +27,7 @@ The aesthetic is rounded out by the beautiful tiles on the wall around the kopit
 
 The taste of the wanton mee does not let the place down. The noodles have a great QQ, perfectly cooked with that bite. The sauce is abundant in flavour, with what tastes like duck fat. The fat ensures the sauce coats the noodles and your tongue. Heavenly. The chilli sauce is not spicy, but it does its job. The weak point of the dish is probably the char siew. While the serving fo meat is generous and the flavour is there, sadly its a little dry.
 
-Probably the best wanton mee in the Katong/Joo Chiat area, but that's beside the point, its worth it for the price of nostalgia alone.
+Maybe not the best wanton mee in the Katong/Joo Chiat area, but that's beside the point, its worth it for the price of nostalgia alone.
 
 **Price:** $5.00  
 

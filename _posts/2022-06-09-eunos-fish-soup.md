@@ -7,8 +7,8 @@ categories:
 - eunos
 - hawker centre
 image: assets/images/eunos-fish-soup-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 author: steve
 date: 2022-06-09 09:49 +0800
