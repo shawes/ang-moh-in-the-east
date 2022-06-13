@@ -7,8 +7,8 @@ categories:
 - katong
 - kopitiam
 image: assets/images/katong-wanton-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 author: steve
 date: 2022-06-10 11:55 +0800
