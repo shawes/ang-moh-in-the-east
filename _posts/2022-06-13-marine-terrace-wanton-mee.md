@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - cantonese
 image: assets/images/marine-terrace-wanton-mee-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2022-06-13 13:30 +0800

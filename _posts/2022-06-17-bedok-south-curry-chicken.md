@@ -2,15 +2,16 @@
 layout: post
 title: Curry chicken noodles
 hawker: Peng yu chicken rice & noodle
-categories: 
-    - noodles
-    - bedok south
-    - hawker centre
+categories:
+- noodles
+- bedok south
+- hawker centre
 image: assets/images/bedok-south-curry-chicken-1.jpg
 featured: true
 hidden: true
 rating: 3.5
 author: steve
+date: 2022-06-17 10:39 +0800
 ---
 In my quest to eat as much chicken as possible before the effects of the malaysian export ban, I found myself at another chicken rice place, this time in bedok south. Below the menu signage of the hawker was a sign for "curry noodles". Well I always like to try something new...
 
