@@ -7,8 +7,8 @@ categories:
 - bedok south
 - hawker centre
 image: assets/images/bedok-south-curry-chicken-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2022-06-17 10:39 +0800
