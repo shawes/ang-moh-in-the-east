@@ -26,14 +26,18 @@ The begedil is uniquely flavoured
 
 The chilli sauce was too hot for me 
 
+![Sambal sotong](/assets/images/bedok-corner-nasi-rawon-2.jpg "Sambal sotong")
+
+![Sambal belachan](/assets/images/bedok-corner-nasi-rawon-3.jpg "Sambal belachan")
+
 **Price:** $7.00  
 
-**Hawker centre:** The food emporium
-**Address:** XXX Smith St, Smithsville  
-**Hours:** XXam - XXpm (closed xx)  
+**Hawker centre:** Bedok food corner  
+**Address:** #01-09, 1 Bedok Rd  
+**Hours:** 7am - 10pm (closed mondays)  
 
 ***  
 
-![Alt text](/assets/images/image.jpg "description text")
+![Alt text](/assets/images/bedok-corner-nasi-rawon-4.jpg "description text")
 
 [Internal link]({% post_url 2021-09-16-lagoon-duck-rice %})
