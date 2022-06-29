@@ -2,17 +2,18 @@
 layout: post
 title: Nasi rawon
 hawker: Satay solo
-categories: 
-    - rice
-    - bedok
-    - hawker centre
-    - halal
-    - javanese
+categories:
+- rice
+- bedok
+- hawker centre
+- halal
+- javanese
 image: assets/images/bedok-corner-nasi-rawon-1.jpg
 featured: true
 hidden: true
 rating: 4.5
 author: steve
+date: 2022-06-29 16:46 +0800
 ---
 This was the first time I had seen nasi rawon on a hawker menu, although maybe I'm not looking hard enough. I knew what nasi rawon was, because I sometimes buy buah keluak from the wet market, the seeds of the [Pangium tree](https://en.wikipedia.org/wiki/Pangium), and the uncles/aunties always ask me if I'm cooking nasi rawon — trying to get me to buy the accompanying spices. However, my peranakan wife, has me cooking [ayam buah kelauk](https://en.wikipedia.org/wiki/Ayam_buah_keluak) instead. So while I was familiar that it was a beef dish with buak kelauk sauce, I had not actually tasted it. But I was familiar with the effort that is required to go into preparing a dish with a buak kelauk sauce. Soaking and washing for several days, tediously breaking nuts open to get to the pulp inside, some of which might be rotten and discarded after all that work.
 

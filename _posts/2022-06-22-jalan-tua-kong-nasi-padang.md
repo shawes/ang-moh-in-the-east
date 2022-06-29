@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - halal
 image: assets/images/siglap-nasi-padang-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2022-06-22 15:58 +0800
