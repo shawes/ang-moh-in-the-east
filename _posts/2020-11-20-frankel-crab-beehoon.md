@@ -8,7 +8,7 @@ categories:
 image: assets/images/frankel-crab-beehoon-1.jpg
 featured: false
 hidden: false
-trending: true
+trending: false
 rating: 2
 author: steve
 date: 2020-11-20 10:26 +0800

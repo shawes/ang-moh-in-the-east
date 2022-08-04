@@ -8,6 +8,7 @@ categories:
 image: assets/images/marine-terrace-lontong-1.jpg
 featured: false
 hidden: false
+trending: true
 rating: 5
 author: steve
 date: 2020-11-27 11:51 +0800
