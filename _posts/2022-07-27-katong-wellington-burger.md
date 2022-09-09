@@ -7,8 +7,8 @@ categories:
 - kopitiam
 - western
 image: assets/images/katong-burger-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3
 author: steve
 date: 2022-07-27 17:28 +0800
