@@ -7,8 +7,8 @@ categories:
 - kembangan
 - kopitiam
 image: assets/images/kembangan-fish-soup-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 3.5
 author: steve
 date: 2022-09-09 16:06 +0800
