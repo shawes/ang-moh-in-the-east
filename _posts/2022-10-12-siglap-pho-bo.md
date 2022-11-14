@@ -8,8 +8,8 @@ categories:
 - kopitiam
 - vietnamese
 image: assets/images/siglap-pho-bo-1.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4
 author: steve
 date: 2022-10-12 16:00 +0800
