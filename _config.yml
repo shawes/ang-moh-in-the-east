@@ -4,7 +4,7 @@ description: "Blog about the kopitiams and hawkers of Singapore's east coast."
 logo: 'assets/images/ang_moh_logo.png'
 banner: 'assets/images/eating.png'
 favicon: 'assets/images/favicon.ico'
-google_analytics: '348728438'
+google_analytics: 'G-L9Q6YPQXMT'
 disqus: 'angmohintheeast'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
